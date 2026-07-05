@@ -120,7 +120,7 @@ def extract_results(html):
     results = {
         "last_updated": now_iso,
         "updated_at": now_iso,
-        "source": TARGET_URL,
+        # "source": TARGET_URL,
         "games": []
     }
     

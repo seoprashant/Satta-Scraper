@@ -174,7 +174,7 @@ def main():
     chart_results = {
         "last_updated": now_iso,
         "updated_at": now_iso,
-        "source": GHAZIABAD_CHART_URL,
+       # "source": GHAZIABAD_CHART_URL,
         "year": year,
         "month": month,
         "chart": chart
