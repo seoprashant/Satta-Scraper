@@ -12,6 +12,7 @@ from zoneinfo import ZoneInfo
 # CONFIGURATION & SETTINGS
 # ==========================================
 OUTPUT_FILE = "monthly_charts.json"
+ALL_CHARTS_FILE = "all_charts.json"  # NEW: accumulates every month's chart (for dropdown)
 TEST_MODE = os.getenv('TEST_MODE', 'false').lower() in ('1', 'true', 'yes', 'y')  # Live mode unless TEST_MODE env var set
 GHAZIABAD_CHART_URL = "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php"
 IST_TZ = ZoneInfo('Asia/Kolkata')
@@ -146,11 +147,69 @@ def save_to_json_safe(data, filename):
         with open(temp_file, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
         os.replace(temp_file, filename)
-        logging.info(f"Successfully saved current month chart data to {filename}.")
+        logging.info(f"Successfully saved data to {filename}.")
     except Exception as e:
         logging.error(f"Error saving file: {e}")
         if os.path.exists(temp_file):
             os.remove(temp_file)
+
+
+def month_number(month_name):
+    """January -> '01', July -> '07'. Returns '00' if unknown."""
+    try:
+        return str(MONTHS_LIST.index(month_name.capitalize()) + 1).zfill(2)
+    except ValueError:
+        return "00"
+
+
+def update_all_charts(year, month, chart):
+    """
+    NEW: Maintains an accumulating archive so the website dropdown can show
+    ANY month that has ever been scraped. Structure:
+    {
+      "last_updated": "...",
+      "months": {
+        "2026-07": { "year": "2026", "month": "July", "chart": {...} },
+        "2026-08": { ... },
+        ...
+      }
+    }
+    Current month ka entry har run par latest data se update hota hai;
+    purane months waise ke waise safe rehte hain.
+    """
+    key = f"{year}-{month_number(month)}"
+
+    existing = {}
+    if os.path.exists(ALL_CHARTS_FILE):
+        try:
+            with open(ALL_CHARTS_FILE, 'r', encoding='utf-8') as f:
+                existing = json.load(f)
+        except Exception as e:
+            logging.warning(f"Could not read {ALL_CHARTS_FILE}, starting fresh: {e}")
+            existing = {}
+
+    if not isinstance(existing, dict):
+        existing = {}
+
+    months = existing.get("months", {})
+    if not isinstance(months, dict):
+        months = {}
+
+    months[key] = {
+        "year": year,
+        "month": month,
+        "chart": chart
+    }
+
+    now_iso = datetime.now(IST_TZ).isoformat()
+    out = {
+        "last_updated": now_iso,
+        "updated_at": now_iso,
+        "months": months
+    }
+
+    save_to_json_safe(out, ALL_CHARTS_FILE)
+    logging.info(f"Archive updated: {len(months)} month(s) total (added/updated {key}).")
 
 
 # ==========================================
@@ -180,7 +239,11 @@ def main():
         "chart": chart
     }
 
+    # 1) Current month file (unchanged — homepage & chart page use this)
     save_to_json_safe(chart_results, OUTPUT_FILE)
+
+    # 2) NEW: accumulate into the archive so the dropdown has history
+    update_all_charts(year, month, chart)
 
 
 if __name__ == "__main__":
