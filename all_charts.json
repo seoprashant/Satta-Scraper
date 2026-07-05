@@ -1,7 +1,2188 @@
 {
-    "last_updated": "2026-07-06T01:52:49.417629+05:30",
-    "updated_at": "2026-07-06T01:52:49.417629+05:30",
+    "last_updated": "2026-07-06T02:00:28.765081+05:30",
+    "updated_at": "2026-07-06T02:00:28.765081+05:30",
     "months": {
+        "2025-09": {
+            "year": "2025",
+            "month": "September",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "46",
+                    "FARIDABAD": "70",
+                    "GALI": "68",
+                    "SHRI GANESH": "71"
+                },
+                "02": {
+                    "DESAWAR": "66",
+                    "GHAZIABAD": "57",
+                    "FARIDABAD": "00",
+                    "GALI": "57",
+                    "SHRI GANESH": "07"
+                },
+                "03": {
+                    "DESAWAR": "70",
+                    "GHAZIABAD": "94",
+                    "FARIDABAD": "88",
+                    "GALI": "72",
+                    "SHRI GANESH": "06"
+                },
+                "04": {
+                    "DESAWAR": "73",
+                    "GHAZIABAD": "52",
+                    "FARIDABAD": "00",
+                    "GALI": "54",
+                    "SHRI GANESH": "86"
+                },
+                "05": {
+                    "DESAWAR": "72",
+                    "GHAZIABAD": "67",
+                    "FARIDABAD": "52",
+                    "GALI": "41",
+                    "SHRI GANESH": "55"
+                },
+                "06": {
+                    "DESAWAR": "04",
+                    "GHAZIABAD": "49",
+                    "FARIDABAD": "82",
+                    "GALI": "73",
+                    "SHRI GANESH": "07"
+                },
+                "07": {
+                    "DESAWAR": "96",
+                    "GHAZIABAD": "14",
+                    "FARIDABAD": "83",
+                    "GALI": "21",
+                    "SHRI GANESH": "63"
+                },
+                "08": {
+                    "DESAWAR": "64",
+                    "GHAZIABAD": "57",
+                    "FARIDABAD": "03",
+                    "GALI": "64",
+                    "SHRI GANESH": "69"
+                },
+                "09": {
+                    "DESAWAR": "03",
+                    "GHAZIABAD": "49",
+                    "FARIDABAD": "96",
+                    "GALI": "40",
+                    "SHRI GANESH": "69"
+                },
+                "10": {
+                    "DESAWAR": "48",
+                    "GHAZIABAD": "93",
+                    "FARIDABAD": "08",
+                    "GALI": "26",
+                    "SHRI GANESH": "56"
+                },
+                "11": {
+                    "DESAWAR": "36",
+                    "GHAZIABAD": "34",
+                    "FARIDABAD": "13",
+                    "GALI": "95",
+                    "SHRI GANESH": "76"
+                },
+                "12": {
+                    "DESAWAR": "23",
+                    "GHAZIABAD": "85",
+                    "FARIDABAD": "78",
+                    "GALI": "23",
+                    "SHRI GANESH": "81"
+                },
+                "13": {
+                    "DESAWAR": "93",
+                    "GHAZIABAD": "01",
+                    "FARIDABAD": "41",
+                    "GALI": "81",
+                    "SHRI GANESH": "48"
+                },
+                "14": {
+                    "DESAWAR": "05",
+                    "GHAZIABAD": "67",
+                    "FARIDABAD": "40",
+                    "GALI": "67",
+                    "SHRI GANESH": "17"
+                },
+                "15": {
+                    "DESAWAR": "87",
+                    "GHAZIABAD": "00",
+                    "FARIDABAD": "12",
+                    "GALI": "87",
+                    "SHRI GANESH": "60"
+                },
+                "16": {
+                    "DESAWAR": "73",
+                    "GHAZIABAD": "23",
+                    "FARIDABAD": "90",
+                    "GALI": "14",
+                    "SHRI GANESH": "25"
+                },
+                "17": {
+                    "DESAWAR": "63",
+                    "GHAZIABAD": "14",
+                    "FARIDABAD": "41",
+                    "GALI": "30",
+                    "SHRI GANESH": "19"
+                },
+                "18": {
+                    "DESAWAR": "09",
+                    "GHAZIABAD": "14",
+                    "FARIDABAD": "33",
+                    "GALI": "95",
+                    "SHRI GANESH": "07"
+                },
+                "19": {
+                    "DESAWAR": "71",
+                    "GHAZIABAD": "66",
+                    "FARIDABAD": "94",
+                    "GALI": "64",
+                    "SHRI GANESH": "27"
+                },
+                "20": {
+                    "DESAWAR": "36",
+                    "GHAZIABAD": "53",
+                    "FARIDABAD": "19",
+                    "GALI": "40",
+                    "SHRI GANESH": "38"
+                },
+                "21": {
+                    "DESAWAR": "24",
+                    "GHAZIABAD": "97",
+                    "FARIDABAD": "08",
+                    "GALI": "54",
+                    "SHRI GANESH": "76"
+                },
+                "22": {
+                    "DESAWAR": "70",
+                    "GHAZIABAD": "38",
+                    "FARIDABAD": "55",
+                    "GALI": "31",
+                    "SHRI GANESH": "33"
+                },
+                "23": {
+                    "DESAWAR": "42",
+                    "GHAZIABAD": "38",
+                    "FARIDABAD": "64",
+                    "GALI": "95",
+                    "SHRI GANESH": "08"
+                },
+                "24": {
+                    "DESAWAR": "63",
+                    "GHAZIABAD": "63",
+                    "FARIDABAD": "44",
+                    "GALI": "00",
+                    "SHRI GANESH": "27"
+                },
+                "25": {
+                    "DESAWAR": "62",
+                    "GHAZIABAD": "13",
+                    "FARIDABAD": "10",
+                    "GALI": "82",
+                    "SHRI GANESH": "66"
+                },
+                "26": {
+                    "DESAWAR": "48",
+                    "GHAZIABAD": "64",
+                    "FARIDABAD": "91",
+                    "GALI": "42",
+                    "SHRI GANESH": "37"
+                },
+                "27": {
+                    "DESAWAR": "96",
+                    "GHAZIABAD": "93",
+                    "FARIDABAD": "60",
+                    "GALI": "19",
+                    "SHRI GANESH": "57"
+                },
+                "28": {
+                    "DESAWAR": "84",
+                    "GHAZIABAD": "52",
+                    "FARIDABAD": "58",
+                    "GALI": "63",
+                    "SHRI GANESH": "04"
+                },
+                "29": {
+                    "DESAWAR": "48",
+                    "GHAZIABAD": "10",
+                    "FARIDABAD": "57",
+                    "GALI": "95",
+                    "SHRI GANESH": "34"
+                },
+                "30": {
+                    "DESAWAR": "17",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2025-10": {
+            "year": "2025",
+            "month": "October",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "59",
+                    "FARIDABAD": "54",
+                    "GALI": "56",
+                    "SHRI GANESH": "14"
+                },
+                "02": {
+                    "DESAWAR": "41",
+                    "GHAZIABAD": "58",
+                    "FARIDABAD": "63",
+                    "GALI": "70",
+                    "SHRI GANESH": "02"
+                },
+                "03": {
+                    "DESAWAR": "96",
+                    "GHAZIABAD": "42",
+                    "FARIDABAD": "31",
+                    "GALI": "39",
+                    "SHRI GANESH": "79"
+                },
+                "04": {
+                    "DESAWAR": "87",
+                    "GHAZIABAD": "08",
+                    "FARIDABAD": "26",
+                    "GALI": "06",
+                    "SHRI GANESH": "30"
+                },
+                "05": {
+                    "DESAWAR": "62",
+                    "GHAZIABAD": "39",
+                    "FARIDABAD": "43",
+                    "GALI": "79",
+                    "SHRI GANESH": "16"
+                },
+                "06": {
+                    "DESAWAR": "55",
+                    "GHAZIABAD": "85",
+                    "FARIDABAD": "04",
+                    "GALI": "94",
+                    "SHRI GANESH": "55"
+                },
+                "07": {
+                    "DESAWAR": "25",
+                    "GHAZIABAD": "52",
+                    "FARIDABAD": "84",
+                    "GALI": "72",
+                    "SHRI GANESH": "11"
+                },
+                "08": {
+                    "DESAWAR": "45",
+                    "GHAZIABAD": "20",
+                    "FARIDABAD": "37",
+                    "GALI": "07",
+                    "SHRI GANESH": "39"
+                },
+                "09": {
+                    "DESAWAR": "85",
+                    "GHAZIABAD": "86",
+                    "FARIDABAD": "32",
+                    "GALI": "08",
+                    "SHRI GANESH": "12"
+                },
+                "10": {
+                    "DESAWAR": "73",
+                    "GHAZIABAD": "08",
+                    "FARIDABAD": "52",
+                    "GALI": "67",
+                    "SHRI GANESH": "81"
+                },
+                "11": {
+                    "DESAWAR": "22",
+                    "GHAZIABAD": "56",
+                    "FARIDABAD": "64",
+                    "GALI": "05",
+                    "SHRI GANESH": "61"
+                },
+                "12": {
+                    "DESAWAR": "88",
+                    "GHAZIABAD": "54",
+                    "FARIDABAD": "95",
+                    "GALI": "32",
+                    "SHRI GANESH": "20"
+                },
+                "13": {
+                    "DESAWAR": "75",
+                    "GHAZIABAD": "96",
+                    "FARIDABAD": "92",
+                    "GALI": "26",
+                    "SHRI GANESH": "52"
+                },
+                "14": {
+                    "DESAWAR": "24",
+                    "GHAZIABAD": "98",
+                    "FARIDABAD": "23",
+                    "GALI": "32",
+                    "SHRI GANESH": "61"
+                },
+                "15": {
+                    "DESAWAR": "92",
+                    "GHAZIABAD": "90",
+                    "FARIDABAD": "88",
+                    "GALI": "66",
+                    "SHRI GANESH": "12"
+                },
+                "16": {
+                    "DESAWAR": "50",
+                    "GHAZIABAD": "98",
+                    "FARIDABAD": "72",
+                    "GALI": "83",
+                    "SHRI GANESH": "69"
+                },
+                "17": {
+                    "DESAWAR": "60",
+                    "GHAZIABAD": "04",
+                    "FARIDABAD": "59",
+                    "GALI": "61",
+                    "SHRI GANESH": "00"
+                },
+                "18": {
+                    "DESAWAR": "55",
+                    "GHAZIABAD": "36",
+                    "FARIDABAD": "19",
+                    "GALI": "12",
+                    "SHRI GANESH": "53"
+                },
+                "19": {
+                    "DESAWAR": "04",
+                    "GHAZIABAD": "91",
+                    "FARIDABAD": "57",
+                    "GALI": "49",
+                    "SHRI GANESH": "85"
+                },
+                "20": {
+                    "DESAWAR": "75",
+                    "GHAZIABAD": "81",
+                    "FARIDABAD": "38",
+                    "GALI": "45",
+                    "SHRI GANESH": "29"
+                },
+                "21": {
+                    "DESAWAR": "88",
+                    "GHAZIABAD": "52",
+                    "FARIDABAD": "70",
+                    "GALI": "92",
+                    "SHRI GANESH": "32"
+                },
+                "22": {
+                    "DESAWAR": "38",
+                    "GHAZIABAD": "58",
+                    "FARIDABAD": "82",
+                    "GALI": "15",
+                    "SHRI GANESH": "10"
+                },
+                "23": {
+                    "DESAWAR": "68",
+                    "GHAZIABAD": "67",
+                    "FARIDABAD": "11",
+                    "GALI": "06",
+                    "SHRI GANESH": "61"
+                },
+                "24": {
+                    "DESAWAR": "50",
+                    "GHAZIABAD": "91",
+                    "FARIDABAD": "32",
+                    "GALI": "31",
+                    "SHRI GANESH": "94"
+                },
+                "25": {
+                    "DESAWAR": "96",
+                    "GHAZIABAD": "67",
+                    "FARIDABAD": "44",
+                    "GALI": "72",
+                    "SHRI GANESH": "73"
+                },
+                "26": {
+                    "DESAWAR": "61",
+                    "GHAZIABAD": "65",
+                    "FARIDABAD": "18",
+                    "GALI": "55",
+                    "SHRI GANESH": "14"
+                },
+                "27": {
+                    "DESAWAR": "33",
+                    "GHAZIABAD": "50",
+                    "FARIDABAD": "81",
+                    "GALI": "36",
+                    "SHRI GANESH": "05"
+                },
+                "28": {
+                    "DESAWAR": "68",
+                    "GHAZIABAD": "84",
+                    "FARIDABAD": "24",
+                    "GALI": "62",
+                    "SHRI GANESH": "36"
+                },
+                "29": {
+                    "DESAWAR": "37",
+                    "GHAZIABAD": "50",
+                    "FARIDABAD": "71",
+                    "GALI": "18",
+                    "SHRI GANESH": "13"
+                },
+                "30": {
+                    "DESAWAR": "40",
+                    "GHAZIABAD": "59",
+                    "FARIDABAD": "51",
+                    "GALI": "85",
+                    "SHRI GANESH": "17"
+                },
+                "31": {
+                    "DESAWAR": "36",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2025-11": {
+            "year": "2025",
+            "month": "November",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "89",
+                    "FARIDABAD": "26",
+                    "GALI": "40",
+                    "SHRI GANESH": "54"
+                },
+                "02": {
+                    "DESAWAR": "37",
+                    "GHAZIABAD": "69",
+                    "FARIDABAD": "08",
+                    "GALI": "75",
+                    "SHRI GANESH": "30"
+                },
+                "03": {
+                    "DESAWAR": "89",
+                    "GHAZIABAD": "35",
+                    "FARIDABAD": "28",
+                    "GALI": "07",
+                    "SHRI GANESH": "30"
+                },
+                "04": {
+                    "DESAWAR": "29",
+                    "GHAZIABAD": "20",
+                    "FARIDABAD": "74",
+                    "GALI": "79",
+                    "SHRI GANESH": "76"
+                },
+                "05": {
+                    "DESAWAR": "92",
+                    "GHAZIABAD": "92",
+                    "FARIDABAD": "02",
+                    "GALI": "80",
+                    "SHRI GANESH": "02"
+                },
+                "06": {
+                    "DESAWAR": "68",
+                    "GHAZIABAD": "06",
+                    "FARIDABAD": "60",
+                    "GALI": "73",
+                    "SHRI GANESH": "73"
+                },
+                "07": {
+                    "DESAWAR": "94",
+                    "GHAZIABAD": "08",
+                    "FARIDABAD": "05",
+                    "GALI": "19",
+                    "SHRI GANESH": "76"
+                },
+                "08": {
+                    "DESAWAR": "85",
+                    "GHAZIABAD": "79",
+                    "FARIDABAD": "17",
+                    "GALI": "53",
+                    "SHRI GANESH": "62"
+                },
+                "09": {
+                    "DESAWAR": "08",
+                    "GHAZIABAD": "04",
+                    "FARIDABAD": "41",
+                    "GALI": "32",
+                    "SHRI GANESH": "75"
+                },
+                "10": {
+                    "DESAWAR": "67",
+                    "GHAZIABAD": "02",
+                    "FARIDABAD": "54",
+                    "GALI": "64",
+                    "SHRI GANESH": "44"
+                },
+                "11": {
+                    "DESAWAR": "51",
+                    "GHAZIABAD": "51",
+                    "FARIDABAD": "15",
+                    "GALI": "57",
+                    "SHRI GANESH": "79"
+                },
+                "12": {
+                    "DESAWAR": "37",
+                    "GHAZIABAD": "37",
+                    "FARIDABAD": "44",
+                    "GALI": "05",
+                    "SHRI GANESH": "70"
+                },
+                "13": {
+                    "DESAWAR": "53",
+                    "GHAZIABAD": "27",
+                    "FARIDABAD": "20",
+                    "GALI": "13",
+                    "SHRI GANESH": "33"
+                },
+                "14": {
+                    "DESAWAR": "55",
+                    "GHAZIABAD": "60",
+                    "FARIDABAD": "90",
+                    "GALI": "45",
+                    "SHRI GANESH": "09"
+                },
+                "15": {
+                    "DESAWAR": "20",
+                    "GHAZIABAD": "49",
+                    "FARIDABAD": "23",
+                    "GALI": "93",
+                    "SHRI GANESH": "76"
+                },
+                "16": {
+                    "DESAWAR": "51",
+                    "GHAZIABAD": "68",
+                    "FARIDABAD": "66",
+                    "GALI": "46",
+                    "SHRI GANESH": "46"
+                },
+                "17": {
+                    "DESAWAR": "28",
+                    "GHAZIABAD": "02",
+                    "FARIDABAD": "52",
+                    "GALI": "14",
+                    "SHRI GANESH": "86"
+                },
+                "18": {
+                    "DESAWAR": "41",
+                    "GHAZIABAD": "61",
+                    "FARIDABAD": "68",
+                    "GALI": "85",
+                    "SHRI GANESH": "94"
+                },
+                "19": {
+                    "DESAWAR": "75",
+                    "GHAZIABAD": "20",
+                    "FARIDABAD": "46",
+                    "GALI": "14",
+                    "SHRI GANESH": "92"
+                },
+                "20": {
+                    "DESAWAR": "60",
+                    "GHAZIABAD": "03",
+                    "FARIDABAD": "41",
+                    "GALI": "24",
+                    "SHRI GANESH": "79"
+                },
+                "21": {
+                    "DESAWAR": "24",
+                    "GHAZIABAD": "35",
+                    "FARIDABAD": "30",
+                    "GALI": "11",
+                    "SHRI GANESH": "14"
+                },
+                "22": {
+                    "DESAWAR": "83",
+                    "GHAZIABAD": "30",
+                    "FARIDABAD": "31",
+                    "GALI": "37",
+                    "SHRI GANESH": "15"
+                },
+                "23": {
+                    "DESAWAR": "68",
+                    "GHAZIABAD": "58",
+                    "FARIDABAD": "75",
+                    "GALI": "02",
+                    "SHRI GANESH": "99"
+                },
+                "24": {
+                    "DESAWAR": "34",
+                    "GHAZIABAD": "79",
+                    "FARIDABAD": "78",
+                    "GALI": "49",
+                    "SHRI GANESH": "86"
+                },
+                "25": {
+                    "DESAWAR": "67",
+                    "GHAZIABAD": "60",
+                    "FARIDABAD": "35",
+                    "GALI": "07",
+                    "SHRI GANESH": "99"
+                },
+                "26": {
+                    "DESAWAR": "22",
+                    "GHAZIABAD": "23",
+                    "FARIDABAD": "15",
+                    "GALI": "17",
+                    "SHRI GANESH": "12"
+                },
+                "27": {
+                    "DESAWAR": "06",
+                    "GHAZIABAD": "97",
+                    "FARIDABAD": "17",
+                    "GALI": "39",
+                    "SHRI GANESH": "91"
+                },
+                "28": {
+                    "DESAWAR": "57",
+                    "GHAZIABAD": "06",
+                    "FARIDABAD": "98",
+                    "GALI": "01",
+                    "SHRI GANESH": "66"
+                },
+                "29": {
+                    "DESAWAR": "08",
+                    "GHAZIABAD": "79",
+                    "FARIDABAD": "83",
+                    "GALI": "24",
+                    "SHRI GANESH": "34"
+                },
+                "30": {
+                    "DESAWAR": "60",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2025-12": {
+            "year": "2025",
+            "month": "December",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "63",
+                    "FARIDABAD": "86",
+                    "GALI": "44",
+                    "SHRI GANESH": "15"
+                },
+                "02": {
+                    "DESAWAR": "71",
+                    "GHAZIABAD": "82",
+                    "FARIDABAD": "19",
+                    "GALI": "76",
+                    "SHRI GANESH": "89"
+                },
+                "03": {
+                    "DESAWAR": "27",
+                    "GHAZIABAD": "91",
+                    "FARIDABAD": "69",
+                    "GALI": "31",
+                    "SHRI GANESH": "02"
+                },
+                "04": {
+                    "DESAWAR": "72",
+                    "GHAZIABAD": "98",
+                    "FARIDABAD": "35",
+                    "GALI": "92",
+                    "SHRI GANESH": "49"
+                },
+                "05": {
+                    "DESAWAR": "64",
+                    "GHAZIABAD": "72",
+                    "FARIDABAD": "67",
+                    "GALI": "92",
+                    "SHRI GANESH": "25"
+                },
+                "06": {
+                    "DESAWAR": "81",
+                    "GHAZIABAD": "12",
+                    "FARIDABAD": "92",
+                    "GALI": "81",
+                    "SHRI GANESH": "23"
+                },
+                "07": {
+                    "DESAWAR": "88",
+                    "GHAZIABAD": "72",
+                    "FARIDABAD": "41",
+                    "GALI": "52",
+                    "SHRI GANESH": "88"
+                },
+                "08": {
+                    "DESAWAR": "96",
+                    "GHAZIABAD": "25",
+                    "FARIDABAD": "38",
+                    "GALI": "99",
+                    "SHRI GANESH": "55"
+                },
+                "09": {
+                    "DESAWAR": "25",
+                    "GHAZIABAD": "91",
+                    "FARIDABAD": "39",
+                    "GALI": "35",
+                    "SHRI GANESH": "87"
+                },
+                "10": {
+                    "DESAWAR": "41",
+                    "GHAZIABAD": "07",
+                    "FARIDABAD": "33",
+                    "GALI": "90",
+                    "SHRI GANESH": "71"
+                },
+                "11": {
+                    "DESAWAR": "43",
+                    "GHAZIABAD": "72",
+                    "FARIDABAD": "61",
+                    "GALI": "22",
+                    "SHRI GANESH": "69"
+                },
+                "12": {
+                    "DESAWAR": "31",
+                    "GHAZIABAD": "11",
+                    "FARIDABAD": "97",
+                    "GALI": "96",
+                    "SHRI GANESH": "28"
+                },
+                "13": {
+                    "DESAWAR": "99",
+                    "GHAZIABAD": "85",
+                    "FARIDABAD": "73",
+                    "GALI": "38",
+                    "SHRI GANESH": "93"
+                },
+                "14": {
+                    "DESAWAR": "38",
+                    "GHAZIABAD": "66",
+                    "FARIDABAD": "58",
+                    "GALI": "66",
+                    "SHRI GANESH": "78"
+                },
+                "15": {
+                    "DESAWAR": "97",
+                    "GHAZIABAD": "19",
+                    "FARIDABAD": "89",
+                    "GALI": "23",
+                    "SHRI GANESH": "92"
+                },
+                "16": {
+                    "DESAWAR": "49",
+                    "GHAZIABAD": "64",
+                    "FARIDABAD": "21",
+                    "GALI": "43",
+                    "SHRI GANESH": "90"
+                },
+                "17": {
+                    "DESAWAR": "13",
+                    "GHAZIABAD": "19",
+                    "FARIDABAD": "82",
+                    "GALI": "87",
+                    "SHRI GANESH": "96"
+                },
+                "18": {
+                    "DESAWAR": "81",
+                    "GHAZIABAD": "07",
+                    "FARIDABAD": "81",
+                    "GALI": "06",
+                    "SHRI GANESH": "02"
+                },
+                "19": {
+                    "DESAWAR": "32",
+                    "GHAZIABAD": "53",
+                    "FARIDABAD": "58",
+                    "GALI": "11",
+                    "SHRI GANESH": "26"
+                },
+                "20": {
+                    "DESAWAR": "73",
+                    "GHAZIABAD": "49",
+                    "FARIDABAD": "61",
+                    "GALI": "49",
+                    "SHRI GANESH": "26"
+                },
+                "21": {
+                    "DESAWAR": "41",
+                    "GHAZIABAD": "03",
+                    "FARIDABAD": "45",
+                    "GALI": "89",
+                    "SHRI GANESH": "50"
+                },
+                "22": {
+                    "DESAWAR": "61",
+                    "GHAZIABAD": "65",
+                    "FARIDABAD": "12",
+                    "GALI": "80",
+                    "SHRI GANESH": "42"
+                },
+                "23": {
+                    "DESAWAR": "44",
+                    "GHAZIABAD": "69",
+                    "FARIDABAD": "55",
+                    "GALI": "44",
+                    "SHRI GANESH": "39"
+                },
+                "24": {
+                    "DESAWAR": "34",
+                    "GHAZIABAD": "22",
+                    "FARIDABAD": "63",
+                    "GALI": "89",
+                    "SHRI GANESH": "93"
+                },
+                "25": {
+                    "DESAWAR": "19",
+                    "GHAZIABAD": "39",
+                    "FARIDABAD": "78",
+                    "GALI": "87",
+                    "SHRI GANESH": "50"
+                },
+                "26": {
+                    "DESAWAR": "92",
+                    "GHAZIABAD": "08",
+                    "FARIDABAD": "96",
+                    "GALI": "54",
+                    "SHRI GANESH": "01"
+                },
+                "27": {
+                    "DESAWAR": "43",
+                    "GHAZIABAD": "62",
+                    "FARIDABAD": "50",
+                    "GALI": "20",
+                    "SHRI GANESH": "36"
+                },
+                "28": {
+                    "DESAWAR": "29",
+                    "GHAZIABAD": "55",
+                    "FARIDABAD": "75",
+                    "GALI": "53",
+                    "SHRI GANESH": "21"
+                },
+                "29": {
+                    "DESAWAR": "53",
+                    "GHAZIABAD": "13",
+                    "FARIDABAD": "45",
+                    "GALI": "48",
+                    "SHRI GANESH": "62"
+                },
+                "30": {
+                    "DESAWAR": "78",
+                    "GHAZIABAD": "57",
+                    "FARIDABAD": "94",
+                    "GALI": "09",
+                    "SHRI GANESH": "31"
+                },
+                "31": {
+                    "DESAWAR": "62",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2026-01": {
+            "year": "2026",
+            "month": "January",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "66",
+                    "FARIDABAD": "42",
+                    "GALI": "58",
+                    "SHRI GANESH": "12"
+                },
+                "02": {
+                    "DESAWAR": "65",
+                    "GHAZIABAD": "05",
+                    "FARIDABAD": "96",
+                    "GALI": "92",
+                    "SHRI GANESH": "28"
+                },
+                "03": {
+                    "DESAWAR": "63",
+                    "GHAZIABAD": "91",
+                    "FARIDABAD": "81",
+                    "GALI": "99",
+                    "SHRI GANESH": "88"
+                },
+                "04": {
+                    "DESAWAR": "44",
+                    "GHAZIABAD": "13",
+                    "FARIDABAD": "28",
+                    "GALI": "23",
+                    "SHRI GANESH": "39"
+                },
+                "05": {
+                    "DESAWAR": "88",
+                    "GHAZIABAD": "05",
+                    "FARIDABAD": "36",
+                    "GALI": "40",
+                    "SHRI GANESH": "37"
+                },
+                "06": {
+                    "DESAWAR": "18",
+                    "GHAZIABAD": "13",
+                    "FARIDABAD": "86",
+                    "GALI": "78",
+                    "SHRI GANESH": "40"
+                },
+                "07": {
+                    "DESAWAR": "61",
+                    "GHAZIABAD": "44",
+                    "FARIDABAD": "28",
+                    "GALI": "11",
+                    "SHRI GANESH": "01"
+                },
+                "08": {
+                    "DESAWAR": "06",
+                    "GHAZIABAD": "04",
+                    "FARIDABAD": "49",
+                    "GALI": "25",
+                    "SHRI GANESH": "76"
+                },
+                "09": {
+                    "DESAWAR": "95",
+                    "GHAZIABAD": "28",
+                    "FARIDABAD": "66",
+                    "GALI": "21",
+                    "SHRI GANESH": "85"
+                },
+                "10": {
+                    "DESAWAR": "24",
+                    "GHAZIABAD": "33",
+                    "FARIDABAD": "43",
+                    "GALI": "52",
+                    "SHRI GANESH": "84"
+                },
+                "11": {
+                    "DESAWAR": "05",
+                    "GHAZIABAD": "73",
+                    "FARIDABAD": "51",
+                    "GALI": "78",
+                    "SHRI GANESH": "84"
+                },
+                "12": {
+                    "DESAWAR": "33",
+                    "GHAZIABAD": "21",
+                    "FARIDABAD": "04",
+                    "GALI": "14",
+                    "SHRI GANESH": "82"
+                },
+                "13": {
+                    "DESAWAR": "51",
+                    "GHAZIABAD": "88",
+                    "FARIDABAD": "07",
+                    "GALI": "58",
+                    "SHRI GANESH": "48"
+                },
+                "14": {
+                    "DESAWAR": "05",
+                    "GHAZIABAD": "84",
+                    "FARIDABAD": "89",
+                    "GALI": "70",
+                    "SHRI GANESH": "81"
+                },
+                "15": {
+                    "DESAWAR": "56",
+                    "GHAZIABAD": "79",
+                    "FARIDABAD": "55",
+                    "GALI": "02",
+                    "SHRI GANESH": "34"
+                },
+                "16": {
+                    "DESAWAR": "42",
+                    "GHAZIABAD": "97",
+                    "FARIDABAD": "89",
+                    "GALI": "74",
+                    "SHRI GANESH": "73"
+                },
+                "17": {
+                    "DESAWAR": "54",
+                    "GHAZIABAD": "37",
+                    "FARIDABAD": "46",
+                    "GALI": "34",
+                    "SHRI GANESH": "60"
+                },
+                "18": {
+                    "DESAWAR": "97",
+                    "GHAZIABAD": "67",
+                    "FARIDABAD": "01",
+                    "GALI": "20",
+                    "SHRI GANESH": "60"
+                },
+                "19": {
+                    "DESAWAR": "65",
+                    "GHAZIABAD": "87",
+                    "FARIDABAD": "24",
+                    "GALI": "31",
+                    "SHRI GANESH": "56"
+                },
+                "20": {
+                    "DESAWAR": "68",
+                    "GHAZIABAD": "06",
+                    "FARIDABAD": "57",
+                    "GALI": "97",
+                    "SHRI GANESH": "70"
+                },
+                "21": {
+                    "DESAWAR": "02",
+                    "GHAZIABAD": "46",
+                    "FARIDABAD": "48",
+                    "GALI": "50",
+                    "SHRI GANESH": "70"
+                },
+                "22": {
+                    "DESAWAR": "82",
+                    "GHAZIABAD": "79",
+                    "FARIDABAD": "06",
+                    "GALI": "35",
+                    "SHRI GANESH": "82"
+                },
+                "23": {
+                    "DESAWAR": "07",
+                    "GHAZIABAD": "71",
+                    "FARIDABAD": "17",
+                    "GALI": "02",
+                    "SHRI GANESH": "72"
+                },
+                "24": {
+                    "DESAWAR": "81",
+                    "GHAZIABAD": "42",
+                    "FARIDABAD": "67",
+                    "GALI": "42",
+                    "SHRI GANESH": "20"
+                },
+                "25": {
+                    "DESAWAR": "36",
+                    "GHAZIABAD": "31",
+                    "FARIDABAD": "55",
+                    "GALI": "82",
+                    "SHRI GANESH": "16"
+                },
+                "26": {
+                    "DESAWAR": "94",
+                    "GHAZIABAD": "17",
+                    "FARIDABAD": "18",
+                    "GALI": "51",
+                    "SHRI GANESH": "08"
+                },
+                "27": {
+                    "DESAWAR": "10",
+                    "GHAZIABAD": "78",
+                    "FARIDABAD": "72",
+                    "GALI": "47",
+                    "SHRI GANESH": "73"
+                },
+                "28": {
+                    "DESAWAR": "89",
+                    "GHAZIABAD": "00",
+                    "FARIDABAD": "71",
+                    "GALI": "79",
+                    "SHRI GANESH": "01"
+                },
+                "29": {
+                    "DESAWAR": "51",
+                    "GHAZIABAD": "65",
+                    "FARIDABAD": "33",
+                    "GALI": "34",
+                    "SHRI GANESH": "19"
+                },
+                "30": {
+                    "DESAWAR": "56",
+                    "GHAZIABAD": "81",
+                    "FARIDABAD": "74",
+                    "GALI": "12",
+                    "SHRI GANESH": "95"
+                },
+                "31": {
+                    "DESAWAR": "82",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2026-02": {
+            "year": "2026",
+            "month": "February",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "17",
+                    "FARIDABAD": "39",
+                    "GALI": "05",
+                    "SHRI GANESH": "02"
+                },
+                "02": {
+                    "DESAWAR": "93",
+                    "GHAZIABAD": "99",
+                    "FARIDABAD": "90",
+                    "GALI": "04",
+                    "SHRI GANESH": "06"
+                },
+                "03": {
+                    "DESAWAR": "78",
+                    "GHAZIABAD": "42",
+                    "FARIDABAD": "08",
+                    "GALI": "37",
+                    "SHRI GANESH": "67"
+                },
+                "04": {
+                    "DESAWAR": "94",
+                    "GHAZIABAD": "84",
+                    "FARIDABAD": "40",
+                    "GALI": "95",
+                    "SHRI GANESH": "48"
+                },
+                "05": {
+                    "DESAWAR": "18",
+                    "GHAZIABAD": "76",
+                    "FARIDABAD": "04",
+                    "GALI": "40",
+                    "SHRI GANESH": "36"
+                },
+                "06": {
+                    "DESAWAR": "20",
+                    "GHAZIABAD": "35",
+                    "FARIDABAD": "35",
+                    "GALI": "92",
+                    "SHRI GANESH": "97"
+                },
+                "07": {
+                    "DESAWAR": "99",
+                    "GHAZIABAD": "13",
+                    "FARIDABAD": "25",
+                    "GALI": "28",
+                    "SHRI GANESH": "31"
+                },
+                "08": {
+                    "DESAWAR": "31",
+                    "GHAZIABAD": "84",
+                    "FARIDABAD": "10",
+                    "GALI": "71",
+                    "SHRI GANESH": "53"
+                },
+                "09": {
+                    "DESAWAR": "94",
+                    "GHAZIABAD": "95",
+                    "FARIDABAD": "21",
+                    "GALI": "07",
+                    "SHRI GANESH": "66"
+                },
+                "10": {
+                    "DESAWAR": "53",
+                    "GHAZIABAD": "83",
+                    "FARIDABAD": "30",
+                    "GALI": "00",
+                    "SHRI GANESH": "73"
+                },
+                "11": {
+                    "DESAWAR": "99",
+                    "GHAZIABAD": "52",
+                    "FARIDABAD": "72",
+                    "GALI": "90",
+                    "SHRI GANESH": "56"
+                },
+                "12": {
+                    "DESAWAR": "83",
+                    "GHAZIABAD": "47",
+                    "FARIDABAD": "14",
+                    "GALI": "57",
+                    "SHRI GANESH": "42"
+                },
+                "13": {
+                    "DESAWAR": "29",
+                    "GHAZIABAD": "95",
+                    "FARIDABAD": "46",
+                    "GALI": "88",
+                    "SHRI GANESH": "09"
+                },
+                "14": {
+                    "DESAWAR": "28",
+                    "GHAZIABAD": "59",
+                    "FARIDABAD": "84",
+                    "GALI": "35",
+                    "SHRI GANESH": "10"
+                },
+                "15": {
+                    "DESAWAR": "54",
+                    "GHAZIABAD": "19",
+                    "FARIDABAD": "31",
+                    "GALI": "18",
+                    "SHRI GANESH": "16"
+                },
+                "16": {
+                    "DESAWAR": "07",
+                    "GHAZIABAD": "00",
+                    "FARIDABAD": "59",
+                    "GALI": "95",
+                    "SHRI GANESH": "45"
+                },
+                "17": {
+                    "DESAWAR": "97",
+                    "GHAZIABAD": "98",
+                    "FARIDABAD": "36",
+                    "GALI": "49",
+                    "SHRI GANESH": "12"
+                },
+                "18": {
+                    "DESAWAR": "33",
+                    "GHAZIABAD": "81",
+                    "FARIDABAD": "01",
+                    "GALI": "88",
+                    "SHRI GANESH": "40"
+                },
+                "19": {
+                    "DESAWAR": "63",
+                    "GHAZIABAD": "50",
+                    "FARIDABAD": "86",
+                    "GALI": "88",
+                    "SHRI GANESH": "29"
+                },
+                "20": {
+                    "DESAWAR": "81",
+                    "GHAZIABAD": "78",
+                    "FARIDABAD": "29",
+                    "GALI": "34",
+                    "SHRI GANESH": "96"
+                },
+                "21": {
+                    "DESAWAR": "78",
+                    "GHAZIABAD": "40",
+                    "FARIDABAD": "70",
+                    "GALI": "36",
+                    "SHRI GANESH": "30"
+                },
+                "22": {
+                    "DESAWAR": "95",
+                    "GHAZIABAD": "54",
+                    "FARIDABAD": "89",
+                    "GALI": "52",
+                    "SHRI GANESH": "64"
+                },
+                "23": {
+                    "DESAWAR": "61",
+                    "GHAZIABAD": "29",
+                    "FARIDABAD": "64",
+                    "GALI": "66",
+                    "SHRI GANESH": "90"
+                },
+                "24": {
+                    "DESAWAR": "27",
+                    "GHAZIABAD": "44",
+                    "FARIDABAD": "12",
+                    "GALI": "84",
+                    "SHRI GANESH": "56"
+                },
+                "25": {
+                    "DESAWAR": "68",
+                    "GHAZIABAD": "83",
+                    "FARIDABAD": "86",
+                    "GALI": "12",
+                    "SHRI GANESH": "92"
+                },
+                "26": {
+                    "DESAWAR": "57",
+                    "GHAZIABAD": "18",
+                    "FARIDABAD": "99",
+                    "GALI": "75",
+                    "SHRI GANESH": "70"
+                },
+                "27": {
+                    "DESAWAR": "53",
+                    "GHAZIABAD": "68",
+                    "FARIDABAD": "70",
+                    "GALI": "83",
+                    "SHRI GANESH": "83"
+                },
+                "28": {
+                    "DESAWAR": "27",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2026-03": {
+            "year": "2026",
+            "month": "March",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "10",
+                    "FARIDABAD": "02",
+                    "GALI": "92",
+                    "SHRI GANESH": "36"
+                },
+                "02": {
+                    "DESAWAR": "68",
+                    "GHAZIABAD": "10",
+                    "FARIDABAD": "91",
+                    "GALI": "30",
+                    "SHRI GANESH": "00"
+                },
+                "03": {
+                    "DESAWAR": "49",
+                    "GHAZIABAD": "13",
+                    "FARIDABAD": "06",
+                    "GALI": "17",
+                    "SHRI GANESH": "17"
+                },
+                "04": {
+                    "DESAWAR": "19",
+                    "GHAZIABAD": "65",
+                    "FARIDABAD": "66",
+                    "GALI": "90",
+                    "SHRI GANESH": "74"
+                },
+                "05": {
+                    "DESAWAR": "54",
+                    "GHAZIABAD": "46",
+                    "FARIDABAD": "07",
+                    "GALI": "74",
+                    "SHRI GANESH": "14"
+                },
+                "06": {
+                    "DESAWAR": "36",
+                    "GHAZIABAD": "02",
+                    "FARIDABAD": "36",
+                    "GALI": "45",
+                    "SHRI GANESH": "59"
+                },
+                "07": {
+                    "DESAWAR": "38",
+                    "GHAZIABAD": "60",
+                    "FARIDABAD": "62",
+                    "GALI": "22",
+                    "SHRI GANESH": "57"
+                },
+                "08": {
+                    "DESAWAR": "45",
+                    "GHAZIABAD": "78",
+                    "FARIDABAD": "29",
+                    "GALI": "51",
+                    "SHRI GANESH": "98"
+                },
+                "09": {
+                    "DESAWAR": "65",
+                    "GHAZIABAD": "26",
+                    "FARIDABAD": "46",
+                    "GALI": "99",
+                    "SHRI GANESH": "94"
+                },
+                "10": {
+                    "DESAWAR": "49",
+                    "GHAZIABAD": "74",
+                    "FARIDABAD": "79",
+                    "GALI": "64",
+                    "SHRI GANESH": "79"
+                },
+                "11": {
+                    "DESAWAR": "09",
+                    "GHAZIABAD": "58",
+                    "FARIDABAD": "28",
+                    "GALI": "24",
+                    "SHRI GANESH": "76"
+                },
+                "12": {
+                    "DESAWAR": "25",
+                    "GHAZIABAD": "18",
+                    "FARIDABAD": "90",
+                    "GALI": "09",
+                    "SHRI GANESH": "15"
+                },
+                "13": {
+                    "DESAWAR": "03",
+                    "GHAZIABAD": "72",
+                    "FARIDABAD": "49",
+                    "GALI": "20",
+                    "SHRI GANESH": "36"
+                },
+                "14": {
+                    "DESAWAR": "95",
+                    "GHAZIABAD": "75",
+                    "FARIDABAD": "82",
+                    "GALI": "74",
+                    "SHRI GANESH": "16"
+                },
+                "15": {
+                    "DESAWAR": "39",
+                    "GHAZIABAD": "27",
+                    "FARIDABAD": "39",
+                    "GALI": "82",
+                    "SHRI GANESH": "48"
+                },
+                "16": {
+                    "DESAWAR": "28",
+                    "GHAZIABAD": "12",
+                    "FARIDABAD": "68",
+                    "GALI": "17",
+                    "SHRI GANESH": "61"
+                },
+                "17": {
+                    "DESAWAR": "47",
+                    "GHAZIABAD": "26",
+                    "FARIDABAD": "58",
+                    "GALI": "45",
+                    "SHRI GANESH": "45"
+                },
+                "18": {
+                    "DESAWAR": "82",
+                    "GHAZIABAD": "76",
+                    "FARIDABAD": "90",
+                    "GALI": "76",
+                    "SHRI GANESH": "33"
+                },
+                "19": {
+                    "DESAWAR": "50",
+                    "GHAZIABAD": "26",
+                    "FARIDABAD": "87",
+                    "GALI": "43",
+                    "SHRI GANESH": "33"
+                },
+                "20": {
+                    "DESAWAR": "12",
+                    "GHAZIABAD": "23",
+                    "FARIDABAD": "74",
+                    "GALI": "85",
+                    "SHRI GANESH": "07"
+                },
+                "21": {
+                    "DESAWAR": "16",
+                    "GHAZIABAD": "17",
+                    "FARIDABAD": "49",
+                    "GALI": "01",
+                    "SHRI GANESH": "26"
+                },
+                "22": {
+                    "DESAWAR": "70",
+                    "GHAZIABAD": "28",
+                    "FARIDABAD": "40",
+                    "GALI": "70",
+                    "SHRI GANESH": "34"
+                },
+                "23": {
+                    "DESAWAR": "27",
+                    "GHAZIABAD": "10",
+                    "FARIDABAD": "59",
+                    "GALI": "86",
+                    "SHRI GANESH": "71"
+                },
+                "24": {
+                    "DESAWAR": "66",
+                    "GHAZIABAD": "75",
+                    "FARIDABAD": "28",
+                    "GALI": "82",
+                    "SHRI GANESH": "02"
+                },
+                "25": {
+                    "DESAWAR": "13",
+                    "GHAZIABAD": "70",
+                    "FARIDABAD": "48",
+                    "GALI": "30",
+                    "SHRI GANESH": "90"
+                },
+                "26": {
+                    "DESAWAR": "92",
+                    "GHAZIABAD": "34",
+                    "FARIDABAD": "43",
+                    "GALI": "68",
+                    "SHRI GANESH": "42"
+                },
+                "27": {
+                    "DESAWAR": "26",
+                    "GHAZIABAD": "43",
+                    "FARIDABAD": "82",
+                    "GALI": "83",
+                    "SHRI GANESH": "16"
+                },
+                "28": {
+                    "DESAWAR": "40",
+                    "GHAZIABAD": "05",
+                    "FARIDABAD": "35",
+                    "GALI": "26",
+                    "SHRI GANESH": "05"
+                },
+                "29": {
+                    "DESAWAR": "93",
+                    "GHAZIABAD": "14",
+                    "FARIDABAD": "00",
+                    "GALI": "21",
+                    "SHRI GANESH": "00"
+                },
+                "30": {
+                    "DESAWAR": "23",
+                    "GHAZIABAD": "20",
+                    "FARIDABAD": "84",
+                    "GALI": "39",
+                    "SHRI GANESH": "14"
+                },
+                "31": {
+                    "DESAWAR": "81",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2026-04": {
+            "year": "2026",
+            "month": "April",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "12",
+                    "FARIDABAD": "35",
+                    "GALI": "97",
+                    "SHRI GANESH": "43"
+                },
+                "02": {
+                    "DESAWAR": "81",
+                    "GHAZIABAD": "78",
+                    "FARIDABAD": "33",
+                    "GALI": "63",
+                    "SHRI GANESH": "55"
+                },
+                "03": {
+                    "DESAWAR": "41",
+                    "GHAZIABAD": "00",
+                    "FARIDABAD": "99",
+                    "GALI": "62",
+                    "SHRI GANESH": "58"
+                },
+                "04": {
+                    "DESAWAR": "97",
+                    "GHAZIABAD": "77",
+                    "FARIDABAD": "59",
+                    "GALI": "75",
+                    "SHRI GANESH": "39"
+                },
+                "05": {
+                    "DESAWAR": "71",
+                    "GHAZIABAD": "17",
+                    "FARIDABAD": "29",
+                    "GALI": "59",
+                    "SHRI GANESH": "87"
+                },
+                "06": {
+                    "DESAWAR": "47",
+                    "GHAZIABAD": "59",
+                    "FARIDABAD": "39",
+                    "GALI": "46",
+                    "SHRI GANESH": "43"
+                },
+                "07": {
+                    "DESAWAR": "44",
+                    "GHAZIABAD": "26",
+                    "FARIDABAD": "07",
+                    "GALI": "01",
+                    "SHRI GANESH": "96"
+                },
+                "08": {
+                    "DESAWAR": "05",
+                    "GHAZIABAD": "88",
+                    "FARIDABAD": "91",
+                    "GALI": "42",
+                    "SHRI GANESH": "83"
+                },
+                "09": {
+                    "DESAWAR": "67",
+                    "GHAZIABAD": "97",
+                    "FARIDABAD": "47",
+                    "GALI": "47",
+                    "SHRI GANESH": "69"
+                },
+                "10": {
+                    "DESAWAR": "85",
+                    "GHAZIABAD": "77",
+                    "FARIDABAD": "05",
+                    "GALI": "11",
+                    "SHRI GANESH": "85"
+                },
+                "11": {
+                    "DESAWAR": "85",
+                    "GHAZIABAD": "53",
+                    "FARIDABAD": "04",
+                    "GALI": "24",
+                    "SHRI GANESH": "48"
+                },
+                "12": {
+                    "DESAWAR": "92",
+                    "GHAZIABAD": "52",
+                    "FARIDABAD": "65",
+                    "GALI": "06",
+                    "SHRI GANESH": "65"
+                },
+                "13": {
+                    "DESAWAR": "82",
+                    "GHAZIABAD": "14",
+                    "FARIDABAD": "33",
+                    "GALI": "39",
+                    "SHRI GANESH": "49"
+                },
+                "14": {
+                    "DESAWAR": "00",
+                    "GHAZIABAD": "73",
+                    "FARIDABAD": "04",
+                    "GALI": "02",
+                    "SHRI GANESH": "42"
+                },
+                "15": {
+                    "DESAWAR": "49",
+                    "GHAZIABAD": "19",
+                    "FARIDABAD": "64",
+                    "GALI": "82",
+                    "SHRI GANESH": "29"
+                },
+                "16": {
+                    "DESAWAR": "93",
+                    "GHAZIABAD": "14",
+                    "FARIDABAD": "03",
+                    "GALI": "15",
+                    "SHRI GANESH": "52"
+                },
+                "17": {
+                    "DESAWAR": "99",
+                    "GHAZIABAD": "47",
+                    "FARIDABAD": "44",
+                    "GALI": "40",
+                    "SHRI GANESH": "69"
+                },
+                "18": {
+                    "DESAWAR": "15",
+                    "GHAZIABAD": "62",
+                    "FARIDABAD": "21",
+                    "GALI": "69",
+                    "SHRI GANESH": "67"
+                },
+                "19": {
+                    "DESAWAR": "93",
+                    "GHAZIABAD": "79",
+                    "FARIDABAD": "60",
+                    "GALI": "46",
+                    "SHRI GANESH": "27"
+                },
+                "20": {
+                    "DESAWAR": "87",
+                    "GHAZIABAD": "34",
+                    "FARIDABAD": "64",
+                    "GALI": "62",
+                    "SHRI GANESH": "91"
+                },
+                "21": {
+                    "DESAWAR": "41",
+                    "GHAZIABAD": "08",
+                    "FARIDABAD": "04",
+                    "GALI": "25",
+                    "SHRI GANESH": "38"
+                },
+                "22": {
+                    "DESAWAR": "62",
+                    "GHAZIABAD": "21",
+                    "FARIDABAD": "60",
+                    "GALI": "95",
+                    "SHRI GANESH": "38"
+                },
+                "23": {
+                    "DESAWAR": "44",
+                    "GHAZIABAD": "51",
+                    "FARIDABAD": "68",
+                    "GALI": "33",
+                    "SHRI GANESH": "37"
+                },
+                "24": {
+                    "DESAWAR": "79",
+                    "GHAZIABAD": "20",
+                    "FARIDABAD": "91",
+                    "GALI": "14",
+                    "SHRI GANESH": "22"
+                },
+                "25": {
+                    "DESAWAR": "11",
+                    "GHAZIABAD": "76",
+                    "FARIDABAD": "59",
+                    "GALI": "38",
+                    "SHRI GANESH": "82"
+                },
+                "26": {
+                    "DESAWAR": "88",
+                    "GHAZIABAD": "35",
+                    "FARIDABAD": "31",
+                    "GALI": "09",
+                    "SHRI GANESH": "68"
+                },
+                "27": {
+                    "DESAWAR": "15",
+                    "GHAZIABAD": "54",
+                    "FARIDABAD": "65",
+                    "GALI": "19",
+                    "SHRI GANESH": "63"
+                },
+                "28": {
+                    "DESAWAR": "44",
+                    "GHAZIABAD": "03",
+                    "FARIDABAD": "25",
+                    "GALI": "08",
+                    "SHRI GANESH": "58"
+                },
+                "29": {
+                    "DESAWAR": "56",
+                    "GHAZIABAD": "11",
+                    "FARIDABAD": "13",
+                    "GALI": "85",
+                    "SHRI GANESH": "64"
+                },
+                "30": {
+                    "DESAWAR": "56",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2026-05": {
+            "year": "2026",
+            "month": "May",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "15",
+                    "FARIDABAD": "63",
+                    "GALI": "54",
+                    "SHRI GANESH": "48"
+                },
+                "02": {
+                    "DESAWAR": "79",
+                    "GHAZIABAD": "79",
+                    "FARIDABAD": "72",
+                    "GALI": "42",
+                    "SHRI GANESH": "41"
+                },
+                "03": {
+                    "DESAWAR": "00",
+                    "GHAZIABAD": "93",
+                    "FARIDABAD": "84",
+                    "GALI": "74",
+                    "SHRI GANESH": "86"
+                },
+                "04": {
+                    "DESAWAR": "27",
+                    "GHAZIABAD": "78",
+                    "FARIDABAD": "08",
+                    "GALI": "14",
+                    "SHRI GANESH": "78"
+                },
+                "05": {
+                    "DESAWAR": "06",
+                    "GHAZIABAD": "15",
+                    "FARIDABAD": "12",
+                    "GALI": "87",
+                    "SHRI GANESH": "69"
+                },
+                "06": {
+                    "DESAWAR": "03",
+                    "GHAZIABAD": "92",
+                    "FARIDABAD": "70",
+                    "GALI": "38",
+                    "SHRI GANESH": "77"
+                },
+                "07": {
+                    "DESAWAR": "84",
+                    "GHAZIABAD": "47",
+                    "FARIDABAD": "69",
+                    "GALI": "33",
+                    "SHRI GANESH": "94"
+                },
+                "08": {
+                    "DESAWAR": "06",
+                    "GHAZIABAD": "33",
+                    "FARIDABAD": "48",
+                    "GALI": "97",
+                    "SHRI GANESH": "24"
+                },
+                "09": {
+                    "DESAWAR": "19",
+                    "GHAZIABAD": "44",
+                    "FARIDABAD": "86",
+                    "GALI": "64",
+                    "SHRI GANESH": "08"
+                },
+                "10": {
+                    "DESAWAR": "62",
+                    "GHAZIABAD": "86",
+                    "FARIDABAD": "46",
+                    "GALI": "56",
+                    "SHRI GANESH": "22"
+                },
+                "11": {
+                    "DESAWAR": "10",
+                    "GHAZIABAD": "43",
+                    "FARIDABAD": "22",
+                    "GALI": "83",
+                    "SHRI GANESH": "17"
+                },
+                "12": {
+                    "DESAWAR": "08",
+                    "GHAZIABAD": "43",
+                    "FARIDABAD": "28",
+                    "GALI": "47",
+                    "SHRI GANESH": "80"
+                },
+                "13": {
+                    "DESAWAR": "46",
+                    "GHAZIABAD": "08",
+                    "FARIDABAD": "01",
+                    "GALI": "58",
+                    "SHRI GANESH": "12"
+                },
+                "14": {
+                    "DESAWAR": "76",
+                    "GHAZIABAD": "27",
+                    "FARIDABAD": "05",
+                    "GALI": "58",
+                    "SHRI GANESH": "83"
+                },
+                "15": {
+                    "DESAWAR": "74",
+                    "GHAZIABAD": "17",
+                    "FARIDABAD": "09",
+                    "GALI": "35",
+                    "SHRI GANESH": "79"
+                },
+                "16": {
+                    "DESAWAR": "73",
+                    "GHAZIABAD": "06",
+                    "FARIDABAD": "80",
+                    "GALI": "72",
+                    "SHRI GANESH": "52"
+                },
+                "17": {
+                    "DESAWAR": "76",
+                    "GHAZIABAD": "54",
+                    "FARIDABAD": "69",
+                    "GALI": "85",
+                    "SHRI GANESH": "20"
+                },
+                "18": {
+                    "DESAWAR": "88",
+                    "GHAZIABAD": "81",
+                    "FARIDABAD": "13",
+                    "GALI": "46",
+                    "SHRI GANESH": "13"
+                },
+                "19": {
+                    "DESAWAR": "39",
+                    "GHAZIABAD": "83",
+                    "FARIDABAD": "49",
+                    "GALI": "86",
+                    "SHRI GANESH": "03"
+                },
+                "20": {
+                    "DESAWAR": "74",
+                    "GHAZIABAD": "10",
+                    "FARIDABAD": "79",
+                    "GALI": "19",
+                    "SHRI GANESH": "86"
+                },
+                "21": {
+                    "DESAWAR": "96",
+                    "GHAZIABAD": "17",
+                    "FARIDABAD": "53",
+                    "GALI": "60",
+                    "SHRI GANESH": "51"
+                },
+                "22": {
+                    "DESAWAR": "71",
+                    "GHAZIABAD": "00",
+                    "FARIDABAD": "01",
+                    "GALI": "43",
+                    "SHRI GANESH": "85"
+                },
+                "23": {
+                    "DESAWAR": "16",
+                    "GHAZIABAD": "18",
+                    "FARIDABAD": "77",
+                    "GALI": "23",
+                    "SHRI GANESH": "73"
+                },
+                "24": {
+                    "DESAWAR": "97",
+                    "GHAZIABAD": "88",
+                    "FARIDABAD": "21",
+                    "GALI": "21",
+                    "SHRI GANESH": "43"
+                },
+                "25": {
+                    "DESAWAR": "73",
+                    "GHAZIABAD": "86",
+                    "FARIDABAD": "54",
+                    "GALI": "72",
+                    "SHRI GANESH": "79"
+                },
+                "26": {
+                    "DESAWAR": "09",
+                    "GHAZIABAD": "08",
+                    "FARIDABAD": "13",
+                    "GALI": "79",
+                    "SHRI GANESH": "44"
+                },
+                "27": {
+                    "DESAWAR": "83",
+                    "GHAZIABAD": "45",
+                    "FARIDABAD": "45",
+                    "GALI": "17",
+                    "SHRI GANESH": "07"
+                },
+                "28": {
+                    "DESAWAR": "64",
+                    "GHAZIABAD": "41",
+                    "FARIDABAD": "25",
+                    "GALI": "81",
+                    "SHRI GANESH": "08"
+                },
+                "29": {
+                    "DESAWAR": "53",
+                    "GHAZIABAD": "65",
+                    "FARIDABAD": "76",
+                    "GALI": "06",
+                    "SHRI GANESH": "02"
+                },
+                "30": {
+                    "DESAWAR": "71",
+                    "GHAZIABAD": "76",
+                    "FARIDABAD": "43",
+                    "GALI": "78",
+                    "SHRI GANESH": "52"
+                },
+                "31": {
+                    "DESAWAR": "36",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2026-06": {
+            "year": "2026",
+            "month": "June",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "52",
+                    "FARIDABAD": "03",
+                    "GALI": "53",
+                    "SHRI GANESH": "22"
+                },
+                "02": {
+                    "DESAWAR": "11",
+                    "GHAZIABAD": "29",
+                    "FARIDABAD": "51",
+                    "GALI": "50",
+                    "SHRI GANESH": "03"
+                },
+                "03": {
+                    "DESAWAR": "48",
+                    "GHAZIABAD": "85",
+                    "FARIDABAD": "65",
+                    "GALI": "02",
+                    "SHRI GANESH": "88"
+                },
+                "04": {
+                    "DESAWAR": "47",
+                    "GHAZIABAD": "78",
+                    "FARIDABAD": "04",
+                    "GALI": "16",
+                    "SHRI GANESH": "16"
+                },
+                "05": {
+                    "DESAWAR": "78",
+                    "GHAZIABAD": "72",
+                    "FARIDABAD": "72",
+                    "GALI": "16",
+                    "SHRI GANESH": "90"
+                },
+                "06": {
+                    "DESAWAR": "10",
+                    "GHAZIABAD": "66",
+                    "FARIDABAD": "32",
+                    "GALI": "55",
+                    "SHRI GANESH": "05"
+                },
+                "07": {
+                    "DESAWAR": "28",
+                    "GHAZIABAD": "32",
+                    "FARIDABAD": "88",
+                    "GALI": "78",
+                    "SHRI GANESH": "37"
+                },
+                "08": {
+                    "DESAWAR": "62",
+                    "GHAZIABAD": "70",
+                    "FARIDABAD": "39",
+                    "GALI": "66",
+                    "SHRI GANESH": "60"
+                },
+                "09": {
+                    "DESAWAR": "26",
+                    "GHAZIABAD": "21",
+                    "FARIDABAD": "35",
+                    "GALI": "00",
+                    "SHRI GANESH": "01"
+                },
+                "10": {
+                    "DESAWAR": "65",
+                    "GHAZIABAD": "33",
+                    "FARIDABAD": "85",
+                    "GALI": "31",
+                    "SHRI GANESH": "48"
+                },
+                "11": {
+                    "DESAWAR": "31",
+                    "GHAZIABAD": "00",
+                    "FARIDABAD": "75",
+                    "GALI": "07",
+                    "SHRI GANESH": "60"
+                },
+                "12": {
+                    "DESAWAR": "52",
+                    "GHAZIABAD": "20",
+                    "FARIDABAD": "79",
+                    "GALI": "59",
+                    "SHRI GANESH": "49"
+                },
+                "13": {
+                    "DESAWAR": "71",
+                    "GHAZIABAD": "91",
+                    "FARIDABAD": "58",
+                    "GALI": "10",
+                    "SHRI GANESH": "73"
+                },
+                "14": {
+                    "DESAWAR": "40",
+                    "GHAZIABAD": "52",
+                    "FARIDABAD": "23",
+                    "GALI": "96",
+                    "SHRI GANESH": "08"
+                },
+                "15": {
+                    "DESAWAR": "05",
+                    "GHAZIABAD": "49",
+                    "FARIDABAD": "31",
+                    "GALI": "60",
+                    "SHRI GANESH": "47"
+                },
+                "16": {
+                    "DESAWAR": "86",
+                    "GHAZIABAD": "49",
+                    "FARIDABAD": "57",
+                    "GALI": "70",
+                    "SHRI GANESH": "97"
+                },
+                "17": {
+                    "DESAWAR": "03",
+                    "GHAZIABAD": "32",
+                    "FARIDABAD": "13",
+                    "GALI": "75",
+                    "SHRI GANESH": "49"
+                },
+                "18": {
+                    "DESAWAR": "43",
+                    "GHAZIABAD": "59",
+                    "FARIDABAD": "77",
+                    "GALI": "96",
+                    "SHRI GANESH": "39"
+                },
+                "19": {
+                    "DESAWAR": "37",
+                    "GHAZIABAD": "23",
+                    "FARIDABAD": "01",
+                    "GALI": "93",
+                    "SHRI GANESH": "14"
+                },
+                "20": {
+                    "DESAWAR": "13",
+                    "GHAZIABAD": "84",
+                    "FARIDABAD": "56",
+                    "GALI": "56",
+                    "SHRI GANESH": "90"
+                },
+                "21": {
+                    "DESAWAR": "56",
+                    "GHAZIABAD": "83",
+                    "FARIDABAD": "59",
+                    "GALI": "61",
+                    "SHRI GANESH": "14"
+                },
+                "22": {
+                    "DESAWAR": "76",
+                    "GHAZIABAD": "37",
+                    "FARIDABAD": "19",
+                    "GALI": "86",
+                    "SHRI GANESH": "60"
+                },
+                "23": {
+                    "DESAWAR": "70",
+                    "GHAZIABAD": "70",
+                    "FARIDABAD": "77",
+                    "GALI": "40",
+                    "SHRI GANESH": "54"
+                },
+                "24": {
+                    "DESAWAR": "97",
+                    "GHAZIABAD": "19",
+                    "FARIDABAD": "14",
+                    "GALI": "13",
+                    "SHRI GANESH": "31"
+                },
+                "25": {
+                    "DESAWAR": "46",
+                    "GHAZIABAD": "30",
+                    "FARIDABAD": "66",
+                    "GALI": "54",
+                    "SHRI GANESH": "58"
+                },
+                "26": {
+                    "DESAWAR": "85",
+                    "GHAZIABAD": "48",
+                    "FARIDABAD": "08",
+                    "GALI": "61",
+                    "SHRI GANESH": "20"
+                },
+                "27": {
+                    "DESAWAR": "60",
+                    "GHAZIABAD": "85",
+                    "FARIDABAD": "67",
+                    "GALI": "00",
+                    "SHRI GANESH": "33"
+                },
+                "28": {
+                    "DESAWAR": "17",
+                    "GHAZIABAD": "40",
+                    "FARIDABAD": "06",
+                    "GALI": "66",
+                    "SHRI GANESH": "32"
+                },
+                "29": {
+                    "DESAWAR": "53",
+                    "GHAZIABAD": "77",
+                    "FARIDABAD": "41",
+                    "GALI": "97",
+                    "SHRI GANESH": "04"
+                },
+                "30": {
+                    "DESAWAR": "40",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
         "2026-07": {
             "year": "2026",
             "month": "July",
