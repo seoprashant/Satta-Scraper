@@ -6,6 +6,7 @@ import os
 import re
 import logging
 from datetime import datetime
+from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
 # --- CONFIGURATION ---
@@ -123,11 +124,11 @@ def extract_results(html):
     # =================================================================
     # UPDATE THESE CLASSES BASED ON ACTUAL WEBSITE INSPECT ELEMENT
     # =================================================================
-    # Test Mode ke dummy data ke liye classes set kiye hain. 
-    # Live site ke liye inko change karna padega.
-    container_class = 'game-box' if TEST_MODE else 'game-container-class'
+    # Test Mode ke dummy data ke liye classes set kiye hain.
+    # Live site parser uses actual table rows and td classes.
+    container_class = 'game-box' if TEST_MODE else 'game-result'
     
-    game_containers = soup.find_all('div', class_=container_class)
+    game_containers = soup.find_all('tr', class_=container_class)
     
     for container in game_containers:
         try:
@@ -136,23 +137,22 @@ def extract_results(html):
                 elem = container.find(selector, class_=class_name)
                 return elem.text.strip() if elem else default
 
-            name_cls = 'name' if TEST_MODE else 'game-name-class'
-            time_cls = 'time' if TEST_MODE else 'game-time-class'
-            yest_cls = 'yesterday' if TEST_MODE else 'yesterday-num-class'
-            today_cls = 'today' if TEST_MODE else 'today-num-class'
+            name_cls = 'name' if TEST_MODE else 'game-name'
+            time_cls = 'time' if TEST_MODE else 'game-time'
+            yest_cls = 'yesterday' if TEST_MODE else 'yesterday-number'
+            today_cls = 'today' if TEST_MODE else 'today-number'
 
             game_name = safe_get_text('h3', name_cls, "Unknown")
-            game_time = safe_get_text('span', time_cls, "N/A")
-            yesterday_num = safe_get_text('div', yest_cls, "XX")
-            today_num = safe_get_text('div', today_cls, "Wait")
+            game_time = safe_get_text('h3', time_cls, "N/A").replace('at ', '').strip()
+            yesterday_num = safe_get_text('td', yest_cls, "XX")
+            today_num = safe_get_text('td', today_cls, "Wait")
 
             # Extract Link
-            link_cls = 'record' if TEST_MODE else 'record-chart-class'
-            link_elem = container.find('a', class_=link_cls)
-            game_link = link_elem['href'] if link_elem and link_elem.has_attr('href') else "No Link"
+            link_elem = container.find('a') if TEST_MODE else container.find('a', href=True)
+            game_link = link_elem['href'].strip() if link_elem and link_elem.has_attr('href') else "No Link"
             
-            if game_link.startswith('/'):
-                game_link = "https://sattaking-ghaziabad.com" + game_link
+            if game_link and not game_link.startswith('http'):
+                game_link = urljoin(TARGET_URL, game_link)
 
             results["games"].append({
                 "game-name": game_name,
