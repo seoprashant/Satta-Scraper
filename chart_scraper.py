@@ -12,7 +12,7 @@ from zoneinfo import ZoneInfo
 # CONFIGURATION & SETTINGS
 # ==========================================
 OUTPUT_FILE = "monthly_charts.json"
-TEST_MODE = False  # Live mode: actual site se data fetch karega.
+TEST_MODE = os.getenv('TEST_MODE', 'false').lower() in ('1', 'true', 'yes', 'y')  # Live mode unless TEST_MODE env var set
 GHAZIABAD_CHART_URL = "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php"
 IST_TZ = ZoneInfo('Asia/Kolkata')
 

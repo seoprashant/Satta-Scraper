@@ -13,7 +13,7 @@ from zoneinfo import ZoneInfo
 TARGET_URL = "https://sattaking-ghaziabad.com/"
 OUTPUT_FILE = "results.json"
 IST_TZ = ZoneInfo('Asia/Kolkata')
-TEST_MODE = False  # Isko True karke aap script ko bina internet/site ke test kar sakte hain
+TEST_MODE = os.getenv('TEST_MODE', 'false').lower() in ('1', 'true', 'yes', 'y')  # Set via env var for CI/local toggling
 
 # Logging setup (GitHub Actions ke liye best hai)
 logging.basicConfig(
