@@ -6,24 +6,18 @@ import random
 import os
 import logging
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # ==========================================
 # CONFIGURATION & SETTINGS
 # ==========================================
 OUTPUT_FILE = "monthly_charts.json"
-TEST_MODE = True  # VS Code me test karne ke liye ise True rakhein. Live karne se pehle False kar dein.
-
-# Target website ke chart links (Isme aap aur bhi games add kar sakte hain)
-GAMES_CONFIG = {
-    "FARIDABAD": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
-    "GHAZIABAD": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
-    "GALI": "https://sattaking-ghaziabad.com/gali-satta-king-result-chart.php",
-    "DESAWAR": "https://sattaking-ghaziabad.com/desawar-satta-king-result-chart.php"
-}
+TEST_MODE = False  # Live mode: actual site se data fetch karega.
+GHAZIABAD_CHART_URL = "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php"
+IST_TZ = ZoneInfo('Asia/Kolkata')
 
 MONTHS_LIST = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
-# Logging Setup
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s [%(levelname)s] %(message)s',
@@ -42,16 +36,15 @@ USER_AGENTS = [
 def get_html(url):
     """Fetches HTML content with error handling."""
     if TEST_MODE:
-        logging.info("Running in TEST MODE. Generating Mock HTML for Chart.")
-        # Dummy HTML jisme Date column aur Jan-Dec ke columns hain
+        logging.info("Running in TEST MODE. Generating mock chart HTML.")
         return '''
         <table class="chart-table">
-            <tr><th>Date</th><th>Jan</th><th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th><th>Jul</th><th>Aug</th><th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th></tr>
-            <tr><td>1</td><td>45</td><td>12</td><td>99</td><td>34</td><td>56</td><td>11</td><td>89</td><td></td><td></td><td></td><td></td><td></td></tr>
-            <tr><td>2</td><td>23</td><td>55</td><td>78</td><td>10</td><td>44</td><td>22</td><td>Wait</td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><th>DATE</th><th>DSWR</th><th>GZBD</th><th>FRBD</th><th>GALI</th><th>SHRI GANESH</th></tr>
+            <tr><td>01</td><td>XX</td><td>69</td><td>97</td><td>78</td><td>92</td></tr>
+            <tr><td>02</td><td>24</td><td>11</td><td>69</td><td>33</td><td>27</td></tr>
         </table>
         '''
-        
+
     headers = {"User-Agent": random.choice(USER_AGENTS)}
     try:
         response = requests.get(url, headers=headers, timeout=20)
@@ -60,30 +53,6 @@ def get_html(url):
     except Exception as e:
         logging.error(f"Failed to fetch {url}: {e}")
         return None
-
-def initialize_json_structure(data, year, month):
-    """Ensures that the JSON has the correct Year -> Month structure."""
-    if year not in data:
-        data[year] = {}
-    if month not in data[year]:
-        data[year][month] = {}
-    return data
-
-def extract_chart_month_year(soup):
-    title_text = ''
-    if soup.title and soup.title.string:
-        title_text = soup.title.string.strip()
-
-    match = re.search(r'([A-Za-z]+)\s+(\d{4})', title_text)
-    if match:
-        month_candidate, year_candidate = match.groups()
-        month_candidate = month_candidate.capitalize()
-        if month_candidate in MONTHS_LIST:
-            return year_candidate, month_candidate
-
-    # Fallback to the current month and year if page title does not contain a valid month/year.
-    now = datetime.now()
-    return str(now.year), now.strftime('%B')
 
 
 def normalize_game_label(label):
@@ -97,115 +66,122 @@ def normalize_game_label(label):
         'GZBD': 'GHAZIABAD',
         'GALI': 'GALI',
         'DELHI BAZAR': 'DELHI BAZAR',
-        'DELHI BAZAR ': 'DELHI BAZAR'
+        'SHRI GANESH': 'SHRI GANESH'
     }
     return mapping.get(label, label.title() if label.isupper() else label)
 
 
-def parse_and_merge(html, game_name, full_data):
-    """Parses the HTML table and merges data into the main dictionary."""
+def extract_chart_month_year(soup):
+    title_text = ''
+    if soup.title and soup.title.string:
+        title_text = soup.title.string.strip()
+
+    match = re.search(r'([A-Za-z]+)\s+(\d{4})', title_text)
+    if match:
+        month_candidate, year_candidate = match.groups()
+        month_candidate = month_candidate.capitalize()
+        if month_candidate in MONTHS_LIST:
+            return year_candidate, month_candidate
+
+    updated_time = soup.find('time')
+    if updated_time and updated_time.has_attr('datetime'):
+        try:
+            dt = datetime.fromisoformat(updated_time['datetime'])
+            return str(dt.year), dt.strftime('%B')
+        except ValueError:
+            pass
+
+    now = datetime.now()
+    return str(now.year), now.strftime('%B')
+
+
+def parse_chart_page(html):
     soup = BeautifulSoup(html, 'html.parser')
-    
-    table_class = 'chart-table'
-    table = soup.find('table', class_=table_class)
-    
+    table = soup.find('table', class_='chart-table')
+
     if not table:
-        logging.warning(f"Table not found for {game_name}. Check HTML class!")
-        return full_data
+        logging.warning("Chart table not found in HTML.")
+        return None, None, {}
+
+    rows = table.find_all('tr')
+    if len(rows) < 2:
+        logging.warning("Chart table does not contain enough rows.")
+        return None, None, {}
+
+    header_cells = [cell.text.strip() for cell in rows[1].find_all(['th', 'td'])]
+    data_headers = [normalize_game_label(text) for text in header_cells[1:]] if len(header_cells) > 1 else []
 
     current_year, current_month = extract_chart_month_year(soup)
-    full_data = initialize_json_structure(full_data, current_year, current_month)
+    chart_data = {}
 
-    header_row = table.find('tr', class_='date-name')
-    if header_row:
-        headers = [cell.text.strip() for cell in header_row.find_all(['th', 'td'])]
-    else:
-        first_row = table.find('tr')
-        headers = [cell.text.strip() for cell in first_row.find_all(['th', 'td'])] if first_row else []
-
-    data_headers = headers[1:] if len(headers) > 1 else []
-    month_headers = set(m.capitalize() for m in MONTHS_LIST)
-    is_month_layout = any(h.capitalize() in month_headers for h in data_headers)
-
-    for row in table.find_all('tr'):
+    for row in rows[2:]:
         cols = row.find_all(['td', 'th'])
-        if len(cols) == 0:
+        if len(cols) < 2:
             continue
 
-        first_cell = cols[0].text.strip()
-        if not first_cell.isdigit():
+        date_text = cols[0].text.strip()
+        if not date_text.isdigit():
             continue
 
-        date_str = first_cell.zfill(2)
+        date_key = date_text.zfill(2)
+        chart_data.setdefault(date_key, {})
 
-        for i, col in enumerate(cols[1:], start=0):
+        for idx, col in enumerate(cols[1:], start=0):
+            if idx >= len(data_headers):
+                break
+
             result_value = col.text.strip()
             if not result_value or 'wait' in result_value.lower():
                 result_value = 'XX'
 
-            if i >= len(data_headers):
-                continue
+            game_label = data_headers[idx]
+            chart_data[date_key][game_label] = result_value
 
-            if is_month_layout:
-                month_name = normalize_game_label(data_headers[i])
-                if month_name not in full_data[current_year]:
-                    full_data[current_year][month_name] = {}
-                if date_str not in full_data[current_year][month_name]:
-                    full_data[current_year][month_name][date_str] = {}
-                full_data[current_year][month_name][date_str][game_name] = result_value
-            else:
-                game_label = normalize_game_label(data_headers[i])
-                if date_str not in full_data[current_year][current_month]:
-                    full_data[current_year][current_month][date_str] = {}
-                full_data[current_year][current_month][date_str][game_label] = result_value
+    return current_year, current_month, chart_data
 
-    return full_data
 
 def save_to_json_safe(data, filename):
-    """Saves data atomically to prevent corruption."""
     temp_file = filename + ".tmp"
     try:
         with open(temp_file, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4, ensure_ascii=False)
         os.replace(temp_file, filename)
-        logging.info(f"Successfully saved combined chart data to {filename}.")
+        logging.info(f"Successfully saved current month chart data to {filename}.")
     except Exception as e:
         logging.error(f"Error saving file: {e}")
         if os.path.exists(temp_file):
             os.remove(temp_file)
+
 
 # ==========================================
 # MAIN EXECUTION
 # ==========================================
 
 def main():
-    logging.info("Starting Advanced Monthly Chart Scraper...")
-    
-    # Load existing data if file exists so we don't overwrite past years
-    full_data = {}
-    if os.path.exists(OUTPUT_FILE):
-        try:
-            with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
-                full_data = json.load(f)
-        except json.JSONDecodeError:
-            logging.warning("Existing JSON was corrupt. Starting fresh.")
-            full_data = {}
+    logging.info("Starting simplified monthly chart scraper...")
 
-    # Scrape each game one by one
-    for game_name, url in GAMES_CONFIG.items():
-        logging.info(f"Processing chart for {game_name}...")
-        html_content = get_html(url)
-        
-        if html_content:
-            full_data = parse_and_merge(html_content, game_name, full_data)
-        else:
-            logging.error(f"Skipping {game_name} due to fetch error.")
+    html_content = get_html(GHAZIABAD_CHART_URL)
+    if not html_content:
+        logging.error("Failed to fetch the Ghaziabad chart page. Exiting.")
+        return
 
-    # Save the final combined data
-    save_to_json_safe(full_data, OUTPUT_FILE)
-    
-    if TEST_MODE:
-        logging.info("Test Mode Run Complete. Check 'monthly_charts.json' file in your folder.")
+    year, month, chart = parse_chart_page(html_content)
+    if not year or not month or not chart:
+        logging.error("Chart parsing failed. Exiting without writing file.")
+        return
+
+    now_iso = datetime.now(IST_TZ).isoformat()
+    chart_results = {
+        "last_updated": now_iso,
+        "updated_at": now_iso,
+        "source": GHAZIABAD_CHART_URL,
+        "year": year,
+        "month": month,
+        "chart": chart
+    }
+
+    save_to_json_safe(chart_results, OUTPUT_FILE)
+
 
 if __name__ == "__main__":
     main()

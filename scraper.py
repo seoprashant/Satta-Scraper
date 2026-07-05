@@ -116,8 +116,11 @@ def get_html(url):
 def extract_results(html):
     """Safely extracts data from HTML."""
     soup = BeautifulSoup(html, 'html.parser')
+    now_iso = datetime.now(IST_TZ).isoformat()
     results = {
-        "last_updated": datetime.now(IST_TZ).isoformat(),
+        "last_updated": now_iso,
+        "updated_at": now_iso,
+        "source": TARGET_URL,
         "games": []
     }
     

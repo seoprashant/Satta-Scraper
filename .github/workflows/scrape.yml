@@ -26,8 +26,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+<<<<<<< HEAD
       - name: Run Daily Live Scraper
         run: python scraper.py
+=======
+      - name: Run Scraper
+        run: |
+          python scraper.py
+          python chart_scraper.py
+>>>>>>> 4ca3b02 (Track JSON outputs; include metadata in workflow commits; fix chart scraper)
+        - name: Run Scrapers
+          run: |
+           python scraper.py
+           python chart_scraper.py
 
       - name: Run Monthly Chart Scraper
         run: python chart_scraper.py
@@ -37,6 +48,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
+<<<<<<< HEAD
           # Yahan 'git add .' ka matlab hai dono JSON files save hongi
           git add .
           
@@ -44,5 +56,53 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Auto-update: Fetched latest results and charts [skip ci]"
+=======
+          # Force-add JSON outputs in case they are still ignored locally
+          git add -f results.json monthly_charts.json
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            # Extract metadata from JSON files to include in commit message
+            UPDATED_RESULTS=$(python - <<'PY'
+import json
+try:
+    d=json.load(open('results.json'))
+    print(d.get('updated_at') or d.get('last_updated') or '')
+except Exception:
+    print('')
+PY
+)
+            SOURCE_RESULTS=$(python - <<'PY'
+import json
+try:
+    d=json.load(open('results.json'))
+    print(d.get('source') or '')
+except Exception:
+    print('')
+PY
+)
+            UPDATED_CHARTS=$(python - <<'PY'
+import json
+try:
+    d=json.load(open('monthly_charts.json'))
+    print(d.get('updated_at') or d.get('last_updated') or '')
+except Exception:
+    print('')
+PY
+)
+            SOURCE_CHARTS=$(python - <<'PY'
+import json
+try:
+    d=json.load(open('monthly_charts.json'))
+    print(d.get('source') or '')
+except Exception:
+    print('')
+PY
+)
+
+            COMMIT_MSG="Auto-update: results=${UPDATED_RESULTS:-unknown} charts=${UPDATED_CHARTS:-unknown} src_results=${SOURCE_RESULTS:-unknown} src_charts=${SOURCE_CHARTS:-unknown} [skip ci]"
+            git commit -m "$COMMIT_MSG"
+>>>>>>> 4ca3b02 (Track JSON outputs; include metadata in workflow commits; fix chart scraper)
             git push
           fi
