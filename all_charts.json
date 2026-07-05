@@ -1,0 +1,54 @@
+{
+    "last_updated": "2026-07-06T01:52:49.417629+05:30",
+    "updated_at": "2026-07-06T01:52:49.417629+05:30",
+    "months": {
+        "2026-07": {
+            "year": "2026",
+            "month": "July",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "69",
+                    "FARIDABAD": "97",
+                    "GALI": "78",
+                    "SHRI GANESH": "92"
+                },
+                "02": {
+                    "DESAWAR": "24",
+                    "GHAZIABAD": "11",
+                    "FARIDABAD": "69",
+                    "GALI": "33",
+                    "SHRI GANESH": "27"
+                },
+                "03": {
+                    "DESAWAR": "39",
+                    "GHAZIABAD": "31",
+                    "FARIDABAD": "73",
+                    "GALI": "49",
+                    "SHRI GANESH": "42"
+                },
+                "04": {
+                    "DESAWAR": "91",
+                    "GHAZIABAD": "72",
+                    "FARIDABAD": "34",
+                    "GALI": "39",
+                    "SHRI GANESH": "27"
+                },
+                "05": {
+                    "DESAWAR": "23",
+                    "GHAZIABAD": "91",
+                    "FARIDABAD": "92",
+                    "GALI": "36",
+                    "SHRI GANESH": "87"
+                },
+                "06": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        }
+    }
+}
