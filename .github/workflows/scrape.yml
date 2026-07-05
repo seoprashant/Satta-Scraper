@@ -45,7 +45,7 @@ jobs:
           echo '\n--- Charts preview (first 200 chars) ---'
           head -c 200 monthly_charts.json || echo 'monthly_charts.json missing'
 
-          git add -f results.json monthly_charts.json
+          git add -f results.json monthly_charts.json all_charts.json
 
           if git diff --staged --quiet; then
             echo 'No changes to commit.'
