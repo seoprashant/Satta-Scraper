@@ -35,6 +35,16 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
+          # Debug: show runner workspace and JSON previews for troubleshooting
+          echo "--- Workspace listing ---"
+          ls -la
+          echo "--- Git status ---"
+          git status --porcelain --untracked-files=all || true
+          echo "--- Results preview (first 200 chars) ---"
+          head -c 200 results.json || echo "results.json missing"
+          echo "\n--- Charts preview (first 200 chars) ---"
+          head -c 200 monthly_charts.json || echo "monthly_charts.json missing"
+
           # Force-add JSON outputs in case they are still ignored locally
           git add -f results.json monthly_charts.json
 
