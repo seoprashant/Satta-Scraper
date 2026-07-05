@@ -8,7 +8,7 @@ on:
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
-    
+
     permissions:
       contents: write
 
@@ -25,6 +25,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
       - name: Run Scrapers
         run: |
           python scraper.py
@@ -34,60 +35,28 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
-          # Debug: show runner workspace and JSON previews for troubleshooting
-          echo "--- Workspace listing ---"
-          ls -la
-          echo "--- Git status ---"
-          git status --porcelain --untracked-files=all || true
-          echo "--- Results preview (first 200 chars) ---"
-          head -c 200 results.json || echo "results.json missing"
-          echo "\n--- Charts preview (first 200 chars) ---"
-          head -c 200 monthly_charts.json || echo "monthly_charts.json missing"
 
-          # Force-add JSON outputs in case they are still ignored locally
+          echo '--- Workspace listing ---'
+          ls -la
+          echo '--- Git status ---'
+          git status --porcelain --untracked-files=all || true
+          echo '--- Results preview (first 200 chars) ---'
+          head -c 200 results.json || echo 'results.json missing'
+          echo '\n--- Charts preview (first 200 chars) ---'
+          head -c 200 monthly_charts.json || echo 'monthly_charts.json missing'
+
           git add -f results.json monthly_charts.json
 
           if git diff --staged --quiet; then
-            echo "No changes to commit."
+            echo 'No changes to commit.'
           else
-            # Extract metadata from JSON files to include in commit message
-            UPDATED_RESULTS=$(python - <<'PY'
-import json
-try:
-    d=json.load(open('results.json'))
-    print(d.get('updated_at') or d.get('last_updated') or '')
-except Exception:
-    print('')
-PY
-)
-            SOURCE_RESULTS=$(python - <<'PY'
-import json
-try:
-    d=json.load(open('results.json'))
-    print(d.get('source') or '')
-except Exception:
-    print('')
-PY
-)
-            UPDATED_CHARTS=$(python - <<'PY'
-import json
-try:
-    d=json.load(open('monthly_charts.json'))
-    print(d.get('updated_at') or d.get('last_updated') or '')
-except Exception:
-    print('')
-PY
-)
-            SOURCE_CHARTS=$(python - <<'PY'
-import json
-try:
-    d=json.load(open('monthly_charts.json'))
-    print(d.get('source') or '')
-except Exception:
-    print('')
-PY
-)
+              UPDATED_RESULTS=$(python -c "import json,sys; d=json.load(open('results.json')); print(d.get('updated_at') or d.get('last_updated') or '')") || true
+
+              SOURCE_RESULTS=$(python -c "import json,sys; d=json.load(open('results.json')); print(d.get('source') or '')") || true
+
+              UPDATED_CHARTS=$(python -c "import json,sys; d=json.load(open('monthly_charts.json')); print(d.get('updated_at') or d.get('last_updated') or '')") || true
+
+              SOURCE_CHARTS=$(python -c "import json,sys; d=json.load(open('monthly_charts.json')); print(d.get('source') or '')") || true
 
             COMMIT_MSG="Auto-update: results=${UPDATED_RESULTS:-unknown} charts=${UPDATED_CHARTS:-unknown} src_results=${SOURCE_RESULTS:-unknown} src_charts=${SOURCE_CHARTS:-unknown} [skip ci]"
             echo "Committing: $COMMIT_MSG"
