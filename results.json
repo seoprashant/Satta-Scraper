@@ -1,26 +1,12 @@
 {
-    "last_updated": "2026-07-09T13:05:42.230237+05:30",
-    "updated_at": "2026-07-09T13:05:42.230237+05:30",
+    "last_updated": "2026-07-09T14:15:52.806574+05:30",
+    "updated_at": "2026-07-09T14:15:52.806574+05:30",
     "games": [
         {
-            "game-name": "DESAWAR",
-            "game-time": "05:10 AM",
-            "game-link": "https://sattaking-ghaziabad.com/desawar-satta-king-result-chart.php",
-            "yesterday-number": "53",
-            "today-number": "02"
-        },
-        {
-            "game-name": "NAV BHARAT",
-            "game-time": "01:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/nav-bharat-satta-king-result-chart.php",
-            "yesterday-number": "89",
-            "today-number": "95"
-        },
-        {
-            "game-name": "NEW DELHI BAZAR",
-            "game-time": "02:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
-            "yesterday-number": "89",
+            "game-name": "DELHI BAZAR",
+            "game-time": "03:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/delhi-bazar-satta-king-result-chart.php",
+            "yesterday-number": "83",
             "today-number": "XX"
         },
         {
@@ -38,10 +24,10 @@
             "today-number": "XX"
         },
         {
-            "game-name": "DELHI BAZAR",
-            "game-time": "03:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/delhi-bazar-satta-king-result-chart.php",
-            "yesterday-number": "83",
+            "game-name": "NEW DELHI BAZAR",
+            "game-time": "02:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
+            "yesterday-number": "89",
             "today-number": "XX"
         },
         {
@@ -50,6 +36,20 @@
             "game-link": "https://sattaking-ghaziabad.com/delhi-noon-satta-king-result-chart.php",
             "yesterday-number": "64",
             "today-number": "XX"
+        },
+        {
+            "game-name": "DESAWAR",
+            "game-time": "05:10 AM",
+            "game-link": "https://sattaking-ghaziabad.com/desawar-satta-king-result-chart.php",
+            "yesterday-number": "53",
+            "today-number": "02"
+        },
+        {
+            "game-name": "NAV BHARAT",
+            "game-time": "01:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/nav-bharat-satta-king-result-chart.php",
+            "yesterday-number": "89",
+            "today-number": "95"
         },
         {
             "game-name": "TAJ",
