@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-10T18:01:38.253142+05:30",
-    "updated_at": "2026-07-10T18:01:38.253142+05:30",
+    "last_updated": "2026-07-10T18:05:42.654675+05:30",
+    "updated_at": "2026-07-10T18:05:42.654675+05:30",
     "games": [
         {
             "game-name": "FARIDABAD",
@@ -8,13 +8,6 @@
             "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
             "yesterday-number": "88",
             "today-number": "XX"
-        },
-        {
-            "game-name": "PUNJAB DAY",
-            "game-time": "05:05 PM",
-            "game-link": "https://sattaking-ghaziabad.com/punjab-day-satta-king-result-chart.php",
-            "yesterday-number": "30",
-            "today-number": "84"
         },
         {
             "game-name": "NEW FARIDABAD",
@@ -134,6 +127,13 @@
             "game-link": "https://sattaking-ghaziabad.com/patna-satta-king-result-chart.php",
             "yesterday-number": "44",
             "today-number": "76"
+        },
+        {
+            "game-name": "PUNJAB DAY",
+            "game-time": "05:05 PM",
+            "game-link": "https://sattaking-ghaziabad.com/punjab-day-satta-king-result-chart.php",
+            "yesterday-number": "30",
+            "today-number": "84"
         },
         {
             "game-name": "JAMNAPAR",
