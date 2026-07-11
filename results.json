@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-11T20:56:29.957911+05:30",
-    "updated_at": "2026-07-11T20:56:29.957911+05:30",
+    "last_updated": "2026-07-11T21:01:31.013281+05:30",
+    "updated_at": "2026-07-11T21:01:31.013281+05:30",
     "games": [
         {
             "game-name": "GHAZIABAD",
@@ -8,13 +8,6 @@
             "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
             "yesterday-number": "42",
             "today-number": "XX"
-        },
-        {
-            "game-name": "NEW FARIDABAD",
-            "game-time": "07:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/new-faridabad-satta-king-result-chart.php",
-            "yesterday-number": "72",
-            "today-number": "29"
         },
         {
             "game-name": "GHAZIABAD GOLD",
@@ -28,6 +21,13 @@
             "game-time": "09:00 PM",
             "game-link": "https://sattaking-ghaziabad.com/delhi-cant-satta-king-result-chart.php",
             "yesterday-number": "XX",
+            "today-number": "XX"
+        },
+        {
+            "game-name": "GALI",
+            "game-time": "11:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/gali-satta-king-result-chart.php",
+            "yesterday-number": "35",
             "today-number": "XX"
         },
         {
@@ -143,6 +143,13 @@
             "today-number": "32"
         },
         {
+            "game-name": "NEW FARIDABAD",
+            "game-time": "07:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/new-faridabad-satta-king-result-chart.php",
+            "yesterday-number": "72",
+            "today-number": "29"
+        },
+        {
             "game-name": "NAGPUR",
             "game-time": "07:00 PM",
             "game-link": "https://sattaking-ghaziabad.com/nagpur-satta-king-result-chart.php",
@@ -169,13 +176,6 @@
             "game-link": "https://sattaking-ghaziabad.com/shalimar-satta-king-result-chart.php",
             "yesterday-number": "31",
             "today-number": "71"
-        },
-        {
-            "game-name": "GALI",
-            "game-time": "11:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/gali-satta-king-result-chart.php",
-            "yesterday-number": "35",
-            "today-number": "XX"
         }
     ]
 }
