@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-20T18:20:53.796273+05:30",
-    "updated_at": "2026-07-20T18:20:53.796273+05:30",
+    "last_updated": "2026-07-20T19:01:06.096909+05:30",
+    "updated_at": "2026-07-20T19:01:06.096909+05:30",
     "games": [
         {
             "game-name": "FARIDABAD",
@@ -31,10 +31,24 @@
             "today-number": "XX"
         },
         {
+            "game-name": "SHALIMAR",
+            "game-time": "07:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/shalimar-satta-king-result-chart.php",
+            "yesterday-number": "31",
+            "today-number": "XX"
+        },
+        {
             "game-name": "FARIDABAD GOLD",
             "game-time": "07:30 PM",
             "game-link": "https://sattaking-ghaziabad.com/faridabad-gold-satta-king-result-chart.php",
             "yesterday-number": "96",
+            "today-number": "XX"
+        },
+        {
+            "game-name": "GHAZIABAD GOLD",
+            "game-time": "08:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-gold-satta-king-result-chart.php",
+            "yesterday-number": "67",
             "today-number": "XX"
         },
         {
@@ -141,20 +155,6 @@
             "game-link": "https://sattaking-ghaziabad.com/jamnapar-satta-king-result-chart.php",
             "yesterday-number": "07",
             "today-number": "84"
-        },
-        {
-            "game-name": "SHALIMAR",
-            "game-time": "07:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/shalimar-satta-king-result-chart.php",
-            "yesterday-number": "31",
-            "today-number": "XX"
-        },
-        {
-            "game-name": "GHAZIABAD GOLD",
-            "game-time": "08:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-gold-satta-king-result-chart.php",
-            "yesterday-number": "67",
-            "today-number": "XX"
         },
         {
             "game-name": "GHAZIABAD",
