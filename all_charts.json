@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-20T23:55:43.189516+05:30",
-    "updated_at": "2026-07-20T23:55:43.189516+05:30",
+    "last_updated": "2026-07-21T00:01:14.679048+05:30",
+    "updated_at": "2026-07-21T00:01:14.679048+05:30",
     "months": {
         "2025-09": {
             "year": "2025",
@@ -2326,6 +2326,13 @@
                     "FARIDABAD": "47",
                     "GALI": "XX",
                     "SHRI GANESH": "57"
+                },
+                "21": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
                 }
             }
         }
