@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-20T15:25:41.156442+05:30",
-    "updated_at": "2026-07-20T15:25:41.156442+05:30",
+    "last_updated": "2026-07-20T15:31:18.244026+05:30",
+    "updated_at": "2026-07-20T15:31:18.244026+05:30",
     "games": [
         {
             "game-name": "DELHI BAZAR",
@@ -8,13 +8,6 @@
             "game-link": "https://sattaking-ghaziabad.com/delhi-bazar-satta-king-result-chart.php",
             "yesterday-number": "85",
             "today-number": "49"
-        },
-        {
-            "game-name": "PATNA CITY",
-            "game-time": "02:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/patna-city-satta-king-result-chart.php",
-            "yesterday-number": "56",
-            "today-number": "58"
         },
         {
             "game-name": "CHOTU TAJ",
@@ -35,6 +28,13 @@
             "game-time": "03:00 PM",
             "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
             "yesterday-number": "24",
+            "today-number": "19"
+        },
+        {
+            "game-name": "SUPER SAVERA",
+            "game-time": "04:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/super-savera-satta-king-result-chart.php",
+            "yesterday-number": "34",
             "today-number": "XX"
         },
         {
@@ -45,10 +45,10 @@
             "today-number": "90"
         },
         {
-            "game-name": "SUPER SAVERA",
-            "game-time": "04:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/super-savera-satta-king-result-chart.php",
-            "yesterday-number": "34",
+            "game-name": "SHRI GANESH",
+            "game-time": "04:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/shri-ganesh-satta-king-result-chart.php",
+            "yesterday-number": "22",
             "today-number": "XX"
         },
         {
@@ -73,11 +73,11 @@
             "today-number": "70"
         },
         {
-            "game-name": "SHRI GANESH",
-            "game-time": "04:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/shri-ganesh-satta-king-result-chart.php",
-            "yesterday-number": "22",
-            "today-number": "XX"
+            "game-name": "PATNA CITY",
+            "game-time": "02:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/patna-city-satta-king-result-chart.php",
+            "yesterday-number": "56",
+            "today-number": "58"
         },
         {
             "game-name": "KASHIPUR",
