@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-22T19:55:47.375234+05:30",
-    "updated_at": "2026-07-22T19:55:47.375234+05:30",
+    "last_updated": "2026-07-22T20:01:14.739536+05:30",
+    "updated_at": "2026-07-22T20:01:14.739536+05:30",
     "games": [
         {
             "game-name": "FARIDABAD",
@@ -8,6 +8,13 @@
             "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
             "yesterday-number": "06",
             "today-number": "34"
+        },
+        {
+            "game-name": "GHAZIABAD",
+            "game-time": "08:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
+            "yesterday-number": "82",
+            "today-number": "XX"
         },
         {
             "game-name": "NEW FARIDABAD",
@@ -35,7 +42,7 @@
             "game-time": "07:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/shalimar-satta-king-result-chart.php",
             "yesterday-number": "65",
-            "today-number": "XX"
+            "today-number": "77"
         },
         {
             "game-name": "FARIDABAD GOLD",
@@ -52,10 +59,10 @@
             "today-number": "XX"
         },
         {
-            "game-name": "GHAZIABAD",
-            "game-time": "08:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
-            "yesterday-number": "82",
+            "game-name": "DELHI CANT",
+            "game-time": "09:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/delhi-cant-satta-king-result-chart.php",
+            "yesterday-number": "XX",
             "today-number": "XX"
         },
         {
@@ -162,13 +169,6 @@
             "game-link": "https://sattaking-ghaziabad.com/jamnapar-satta-king-result-chart.php",
             "yesterday-number": "48",
             "today-number": "06"
-        },
-        {
-            "game-name": "DELHI CANT",
-            "game-time": "09:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/delhi-cant-satta-king-result-chart.php",
-            "yesterday-number": "XX",
-            "today-number": "XX"
         },
         {
             "game-name": "GALI",
