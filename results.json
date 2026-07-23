@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-23T15:10:51.579115+05:30",
-    "updated_at": "2026-07-23T15:10:51.579115+05:30",
+    "last_updated": "2026-07-23T15:15:46.600940+05:30",
+    "updated_at": "2026-07-23T15:15:46.600940+05:30",
     "games": [
         {
             "game-name": "DELHI BAZAR",
@@ -38,13 +38,6 @@
             "today-number": "XX"
         },
         {
-            "game-name": "NEW DELHI BAZAR",
-            "game-time": "02:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
-            "yesterday-number": "68",
-            "today-number": "39"
-        },
-        {
             "game-name": "CHENNAI",
             "game-time": "03:05 PM",
             "game-link": "https://sattaking-ghaziabad.com/chennai-satta-king-result-chart.php",
@@ -71,6 +64,13 @@
             "game-link": "https://sattaking-ghaziabad.com/nav-bharat-satta-king-result-chart.php",
             "yesterday-number": "59",
             "today-number": "14"
+        },
+        {
+            "game-name": "NEW DELHI BAZAR",
+            "game-time": "02:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
+            "yesterday-number": "68",
+            "today-number": "39"
         },
         {
             "game-name": "SHRI GANESH",
