@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-07-28T16:01:13.660729+05:30",
-    "updated_at": "2026-07-28T16:01:13.660729+05:30",
+    "last_updated": "2026-07-28T16:15:51.613551+05:30",
+    "updated_at": "2026-07-28T16:15:51.613551+05:30",
     "games": [
         {
             "game-name": "SHRI GANESH",
@@ -38,17 +38,17 @@
             "today-number": "22"
         },
         {
-            "game-name": "CHENNAI",
-            "game-time": "03:05 PM",
-            "game-link": "https://sattaking-ghaziabad.com/chennai-satta-king-result-chart.php",
-            "yesterday-number": "98",
-            "today-number": "85"
-        },
-        {
             "game-name": "JAMNAPAR",
             "game-time": "04:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/jamnapar-satta-king-result-chart.php",
             "yesterday-number": "12",
+            "today-number": "XX"
+        },
+        {
+            "game-name": "FARIDABAD",
+            "game-time": "06:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
+            "yesterday-number": "74",
             "today-number": "XX"
         },
         {
@@ -108,11 +108,11 @@
             "today-number": "22"
         },
         {
-            "game-name": "FARIDABAD",
-            "game-time": "06:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
-            "yesterday-number": "74",
-            "today-number": "XX"
+            "game-name": "CHENNAI",
+            "game-time": "03:05 PM",
+            "game-link": "https://sattaking-ghaziabad.com/chennai-satta-king-result-chart.php",
+            "yesterday-number": "98",
+            "today-number": "85"
         },
         {
             "game-name": "NEW FARIDABAD",
