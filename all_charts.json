@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-06T23:03:37.326038+05:30",
-    "updated_at": "2026-08-06T23:03:37.326038+05:30",
+    "last_updated": "2026-08-07T00:11:22.658808+05:30",
+    "updated_at": "2026-08-07T00:11:22.658808+05:30",
     "months": {
         "2025-09": {
             "year": "2025",
@@ -2449,8 +2449,15 @@
                     "DESAWAR": "51",
                     "GHAZIABAD": "89",
                     "FARIDABAD": "22",
-                    "GALI": "XX",
+                    "GALI": "80",
                     "SHRI GANESH": "97"
+                },
+                "07": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
                 }
             }
         }
