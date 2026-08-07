@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-07T13:05:51.993364+05:30",
-    "updated_at": "2026-08-07T13:05:51.993364+05:30",
+    "last_updated": "2026-08-07T13:31:21.865643+05:30",
+    "updated_at": "2026-08-07T13:31:21.865643+05:30",
     "games": [
         {
             "game-name": "DESAWAR",
@@ -8,6 +8,13 @@
             "game-link": "https://sattaking-ghaziabad.com/desawar-satta-king-result-chart.php",
             "yesterday-number": "51",
             "today-number": "83"
+        },
+        {
+            "game-name": "NEW DELHI BAZAR",
+            "game-time": "02:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
+            "yesterday-number": "94",
+            "today-number": "XX"
         },
         {
             "game-name": "NAV BHARAT",
@@ -21,13 +28,6 @@
             "game-time": "01:30 PM",
             "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
             "yesterday-number": "95",
-            "today-number": "XX"
-        },
-        {
-            "game-name": "NEW DELHI BAZAR",
-            "game-time": "02:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
-            "yesterday-number": "94",
             "today-number": "XX"
         },
         {
@@ -105,6 +105,13 @@
             "game-time": "05:05 PM",
             "game-link": "https://sattaking-ghaziabad.com/punjab-day-satta-king-result-chart.php",
             "yesterday-number": "80",
+            "today-number": "XX"
+        },
+        {
+            "game-name": "MG PRIME",
+            "game-time": "04:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/mg-prime-satta-king-result-chart.php",
+            "yesterday-number": "XX",
             "today-number": "XX"
         },
         {
