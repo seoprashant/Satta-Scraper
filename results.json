@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-15T21:28:29.303121+05:30",
-    "updated_at": "2026-08-15T21:28:29.303121+05:30",
+    "last_updated": "2026-08-15T21:31:04.122896+05:30",
+    "updated_at": "2026-08-15T21:31:04.122896+05:30",
     "games": [
         {
             "game-name": "GHAZIABAD",
@@ -8,13 +8,6 @@
             "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
             "yesterday-number": "38",
             "today-number": "XX"
-        },
-        {
-            "game-name": "GHAZIABAD GOLD",
-            "game-time": "08:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-gold-satta-king-result-chart.php",
-            "yesterday-number": "18",
-            "today-number": "86"
         },
         {
             "game-name": "DELHI CANT",
@@ -197,6 +190,13 @@
             "game-link": "https://sattaking-ghaziabad.com/shalimar-satta-king-result-chart.php",
             "yesterday-number": "94",
             "today-number": "57"
+        },
+        {
+            "game-name": "GHAZIABAD GOLD",
+            "game-time": "08:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-gold-satta-king-result-chart.php",
+            "yesterday-number": "18",
+            "today-number": "86"
         }
     ]
 }
