@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-18T18:01:02.049142+05:30",
-    "updated_at": "2026-08-18T18:01:02.049142+05:30",
+    "last_updated": "2026-08-18T18:10:46.925052+05:30",
+    "updated_at": "2026-08-18T18:10:46.925052+05:30",
     "games": [
         {
             "game-name": "FARIDABAD",
@@ -8,13 +8,6 @@
             "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
             "yesterday-number": "46",
             "today-number": "XX"
-        },
-        {
-            "game-name": "PUNJAB DAY",
-            "game-time": "05:05 PM",
-            "game-link": "https://sattaking-ghaziabad.com/punjab-day-satta-king-result-chart.php",
-            "yesterday-number": "21",
-            "today-number": "91"
         },
         {
             "game-name": "NEW FARIDABAD",
@@ -36,13 +29,6 @@
             "game-link": "https://sattaking-ghaziabad.com/delhi-day-satta-king-result-chart.php",
             "yesterday-number": "38",
             "today-number": "XX"
-        },
-        {
-            "game-name": "HINDUSTAN",
-            "game-time": "05:10 PM",
-            "game-link": "https://sattaking-ghaziabad.com/hindustan-satta-king-result-chart.php",
-            "yesterday-number": "52",
-            "today-number": "67"
         },
         {
             "game-name": "FARIDABAD GOLD",
@@ -150,6 +136,13 @@
             "today-number": "73"
         },
         {
+            "game-name": "PUNJAB DAY",
+            "game-time": "05:05 PM",
+            "game-link": "https://sattaking-ghaziabad.com/punjab-day-satta-king-result-chart.php",
+            "yesterday-number": "21",
+            "today-number": "91"
+        },
+        {
             "game-name": "MG PRIME",
             "game-time": "04:30 PM",
             "game-link": "https://sattaking-ghaziabad.com/mg-prime-satta-king-result-chart.php",
@@ -162,6 +155,13 @@
             "game-link": "https://sattaking-ghaziabad.com/jamnapar-satta-king-result-chart.php",
             "yesterday-number": "04",
             "today-number": "92"
+        },
+        {
+            "game-name": "HINDUSTAN",
+            "game-time": "05:10 PM",
+            "game-link": "https://sattaking-ghaziabad.com/hindustan-satta-king-result-chart.php",
+            "yesterday-number": "52",
+            "today-number": "67"
         },
         {
             "game-name": "SHALIMAR",
