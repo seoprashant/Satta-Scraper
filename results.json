@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-21T14:25:33.530675+05:30",
-    "updated_at": "2026-08-21T14:25:33.530675+05:30",
+    "last_updated": "2026-08-21T14:30:01.594648+05:30",
+    "updated_at": "2026-08-21T14:30:01.594648+05:30",
     "games": [
         {
             "game-name": "DELHI BAZAR",
@@ -24,6 +24,13 @@
             "today-number": "XX"
         },
         {
+            "game-name": "DELHI NOON",
+            "game-time": "03:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/delhi-noon-satta-king-result-chart.php",
+            "yesterday-number": "81",
+            "today-number": "XX"
+        },
+        {
             "game-name": "NEW DELHI BAZAR",
             "game-time": "02:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
@@ -31,17 +38,10 @@
             "today-number": "83"
         },
         {
-            "game-name": "SADAR BAZAR",
-            "game-time": "01:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
-            "yesterday-number": "76",
-            "today-number": "71"
-        },
-        {
-            "game-name": "DELHI NOON",
-            "game-time": "03:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/delhi-noon-satta-king-result-chart.php",
-            "yesterday-number": "81",
+            "game-name": "CHENNAI",
+            "game-time": "03:05 PM",
+            "game-link": "https://sattaking-ghaziabad.com/chennai-satta-king-result-chart.php",
+            "yesterday-number": "74",
             "today-number": "XX"
         },
         {
@@ -59,17 +59,17 @@
             "today-number": "99"
         },
         {
+            "game-name": "SADAR BAZAR",
+            "game-time": "01:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
+            "yesterday-number": "76",
+            "today-number": "71"
+        },
+        {
             "game-name": "TAJ",
             "game-time": "03:00 PM",
             "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
             "yesterday-number": "04",
-            "today-number": "XX"
-        },
-        {
-            "game-name": "CHENNAI",
-            "game-time": "03:05 PM",
-            "game-link": "https://sattaking-ghaziabad.com/chennai-satta-king-result-chart.php",
-            "yesterday-number": "74",
             "today-number": "XX"
         },
         {
