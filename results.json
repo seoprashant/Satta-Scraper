@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-08-30T16:25:30.154863+05:30",
-    "updated_at": "2026-08-30T16:25:30.154863+05:30",
+    "last_updated": "2026-08-30T16:31:04.169099+05:30",
+    "updated_at": "2026-08-30T16:31:04.169099+05:30",
     "games": [
         {
             "game-name": "SHRI GANESH",
@@ -45,6 +45,13 @@
             "today-number": "95"
         },
         {
+            "game-name": "HINDUSTAN",
+            "game-time": "05:10 PM",
+            "game-link": "https://sattaking-ghaziabad.com/hindustan-satta-king-result-chart.php",
+            "yesterday-number": "71",
+            "today-number": "XX"
+        },
+        {
             "game-name": "MG PRIME",
             "game-time": "04:30 PM",
             "game-link": "https://sattaking-ghaziabad.com/mg-prime-satta-king-result-chart.php",
@@ -52,10 +59,10 @@
             "today-number": "XX"
         },
         {
-            "game-name": "HINDUSTAN",
-            "game-time": "05:10 PM",
-            "game-link": "https://sattaking-ghaziabad.com/hindustan-satta-king-result-chart.php",
-            "yesterday-number": "71",
+            "game-name": "FARIDABAD",
+            "game-time": "06:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
+            "yesterday-number": "62",
             "today-number": "XX"
         },
         {
@@ -120,13 +127,6 @@
             "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
             "yesterday-number": "18",
             "today-number": "77"
-        },
-        {
-            "game-name": "FARIDABAD",
-            "game-time": "06:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
-            "yesterday-number": "62",
-            "today-number": "XX"
         },
         {
             "game-name": "NEW FARIDABAD",
