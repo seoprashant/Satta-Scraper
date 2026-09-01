@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-01T14:55:31.180422+05:30",
-    "updated_at": "2026-09-01T14:55:31.180422+05:30",
+    "last_updated": "2026-09-01T15:00:57.411866+05:30",
+    "updated_at": "2026-09-01T15:00:57.411866+05:30",
     "games": [
         {
             "game-name": "DELHI BAZAR",
@@ -31,6 +31,13 @@
             "today-number": "XX"
         },
         {
+            "game-name": "TAJ",
+            "game-time": "03:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
+            "yesterday-number": "XX",
+            "today-number": "XX"
+        },
+        {
             "game-name": "NEW DELHI BAZAR",
             "game-time": "02:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
@@ -38,9 +45,9 @@
             "today-number": "33"
         },
         {
-            "game-name": "TAJ",
-            "game-time": "03:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
+            "game-name": "SUPER SAVERA",
+            "game-time": "04:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/super-savera-satta-king-result-chart.php",
             "yesterday-number": "XX",
             "today-number": "XX"
         },
@@ -64,13 +71,6 @@
             "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
             "yesterday-number": "XX",
             "today-number": "57"
-        },
-        {
-            "game-name": "SUPER SAVERA",
-            "game-time": "04:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/super-savera-satta-king-result-chart.php",
-            "yesterday-number": "XX",
-            "today-number": "XX"
         },
         {
             "game-name": "SHRI GANESH",
