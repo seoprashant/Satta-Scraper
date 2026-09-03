@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-03T14:25:34.354202+05:30",
-    "updated_at": "2026-09-03T14:25:34.354202+05:30",
+    "last_updated": "2026-09-03T14:31:14.522530+05:30",
+    "updated_at": "2026-09-03T14:31:14.522530+05:30",
     "games": [
         {
             "game-name": "DELHI BAZAR",
@@ -14,13 +14,20 @@
             "game-time": "02:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/patna-city-satta-king-result-chart.php",
             "yesterday-number": "75",
-            "today-number": "XX"
+            "today-number": "80"
         },
         {
             "game-name": "CHOTU TAJ",
             "game-time": "02:50 PM",
             "game-link": "https://sattaking-ghaziabad.com/chotu-taj-satta-king-result-chart.php",
             "yesterday-number": "33",
+            "today-number": "XX"
+        },
+        {
+            "game-name": "DELHI NOON",
+            "game-time": "03:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/delhi-noon-satta-king-result-chart.php",
+            "yesterday-number": "95",
             "today-number": "XX"
         },
         {
@@ -31,17 +38,10 @@
             "today-number": "39"
         },
         {
-            "game-name": "SADAR BAZAR",
-            "game-time": "01:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
-            "yesterday-number": "87",
-            "today-number": "65"
-        },
-        {
-            "game-name": "DELHI NOON",
+            "game-name": "TAJ",
             "game-time": "03:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/delhi-noon-satta-king-result-chart.php",
-            "yesterday-number": "95",
+            "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
+            "yesterday-number": "03",
             "today-number": "XX"
         },
         {
@@ -59,11 +59,11 @@
             "today-number": "83"
         },
         {
-            "game-name": "TAJ",
-            "game-time": "03:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
-            "yesterday-number": "03",
-            "today-number": "XX"
+            "game-name": "SADAR BAZAR",
+            "game-time": "01:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
+            "yesterday-number": "87",
+            "today-number": "65"
         },
         {
             "game-name": "SUPER SAVERA",
