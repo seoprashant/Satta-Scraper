@@ -1,14 +1,7 @@
 {
-    "last_updated": "2026-09-03T22:10:38.804990+05:30",
-    "updated_at": "2026-09-03T22:10:38.804990+05:30",
+    "last_updated": "2026-09-03T23:15:37.606773+05:30",
+    "updated_at": "2026-09-03T23:15:37.606773+05:30",
     "games": [
-        {
-            "game-name": "GHAZIABAD",
-            "game-time": "08:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
-            "yesterday-number": "85",
-            "today-number": "32"
-        },
         {
             "game-name": "GALI",
             "game-time": "11:15 PM",
@@ -190,6 +183,13 @@
             "game-link": "https://sattaking-ghaziabad.com/hindustan-satta-king-result-chart.php",
             "yesterday-number": "16",
             "today-number": "04"
+        },
+        {
+            "game-name": "GHAZIABAD",
+            "game-time": "08:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
+            "yesterday-number": "85",
+            "today-number": "32"
         },
         {
             "game-name": "DELHI CANT",
