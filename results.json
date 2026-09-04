@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-04T18:00:59.702407+05:30",
-    "updated_at": "2026-09-04T18:00:59.702407+05:30",
+    "last_updated": "2026-09-04T18:05:32.289893+05:30",
+    "updated_at": "2026-09-04T18:05:32.289893+05:30",
     "games": [
         {
             "game-name": "FARIDABAD",
@@ -8,13 +8,6 @@
             "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
             "yesterday-number": "08",
             "today-number": "XX"
-        },
-        {
-            "game-name": "PUNJAB DAY",
-            "game-time": "05:05 PM",
-            "game-link": "https://sattaking-ghaziabad.com/punjab-day-satta-king-result-chart.php",
-            "yesterday-number": "47",
-            "today-number": "16"
         },
         {
             "game-name": "NEW FARIDABAD",
@@ -134,6 +127,13 @@
             "game-link": "https://sattaking-ghaziabad.com/patna-satta-king-result-chart.php",
             "yesterday-number": "35",
             "today-number": "48"
+        },
+        {
+            "game-name": "PUNJAB DAY",
+            "game-time": "05:05 PM",
+            "game-link": "https://sattaking-ghaziabad.com/punjab-day-satta-king-result-chart.php",
+            "yesterday-number": "47",
+            "today-number": "16"
         },
         {
             "game-name": "MG PRIME",
