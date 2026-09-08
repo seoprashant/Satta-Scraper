@@ -1,14 +1,7 @@
 {
-    "last_updated": "2026-09-08T14:25:36.729018+05:30",
-    "updated_at": "2026-09-08T14:25:36.729018+05:30",
+    "last_updated": "2026-09-08T14:31:12.154880+05:30",
+    "updated_at": "2026-09-08T14:31:12.154880+05:30",
     "games": [
-        {
-            "game-name": "SADAR BAZAR",
-            "game-time": "01:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
-            "yesterday-number": "51",
-            "today-number": "42"
-        },
         {
             "game-name": "PATNA CITY",
             "game-time": "02:15 PM",
@@ -21,7 +14,7 @@
             "game-time": "02:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
             "yesterday-number": "27",
-            "today-number": "49"
+            "today-number": "75"
         },
         {
             "game-name": "CHOTU TAJ",
@@ -45,6 +38,13 @@
             "today-number": "XX"
         },
         {
+            "game-name": "TAJ",
+            "game-time": "03:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
+            "yesterday-number": "32",
+            "today-number": "XX"
+        },
+        {
             "game-name": "DESAWAR",
             "game-time": "05:10 AM",
             "game-link": "https://sattaking-ghaziabad.com/desawar-satta-king-result-chart.php",
@@ -59,11 +59,11 @@
             "today-number": "76"
         },
         {
-            "game-name": "TAJ",
-            "game-time": "03:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php",
-            "yesterday-number": "32",
-            "today-number": "XX"
+            "game-name": "SADAR BAZAR",
+            "game-time": "01:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
+            "yesterday-number": "51",
+            "today-number": "42"
         },
         {
             "game-name": "SUPER SAVERA",
