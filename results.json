@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-28T15:10:54.841375+05:30",
-    "updated_at": "2026-09-28T15:10:54.841375+05:30",
+    "last_updated": "2026-09-28T15:15:42.781829+05:30",
+    "updated_at": "2026-09-28T15:15:42.781829+05:30",
     "games": [
         {
             "game-name": "DELHI BAZAR",
@@ -17,13 +17,6 @@
             "today-number": "81"
         },
         {
-            "game-name": "NEW DELHI BAZAR",
-            "game-time": "02:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
-            "yesterday-number": "34",
-            "today-number": "18"
-        },
-        {
             "game-name": "CHOTU TAJ",
             "game-time": "02:50 PM",
             "game-link": "https://sattaking-ghaziabad.com/chotu-taj-satta-king-result-chart.php",
@@ -35,7 +28,7 @@
             "game-time": "03:00 PM",
             "game-link": "https://sattaking-ghaziabad.com/delhi-noon-satta-king-result-chart.php",
             "yesterday-number": "24",
-            "today-number": "XX"
+            "today-number": "62"
         },
         {
             "game-name": "TAJ",
@@ -71,6 +64,13 @@
             "game-link": "https://sattaking-ghaziabad.com/sadar-bazar-satta-king-result-chart.php",
             "yesterday-number": "95",
             "today-number": "04"
+        },
+        {
+            "game-name": "NEW DELHI BAZAR",
+            "game-time": "02:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
+            "yesterday-number": "34",
+            "today-number": "18"
         },
         {
             "game-name": "JAMNAPAR",
