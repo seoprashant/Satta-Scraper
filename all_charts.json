@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-30T23:55:34.340055+05:30",
-    "updated_at": "2026-09-30T23:55:34.340055+05:30",
+    "last_updated": "2026-10-01T00:01:04.672256+05:30",
+    "updated_at": "2026-10-01T00:01:04.672256+05:30",
     "months": {
         "2025-09": {
             "year": "2025",
@@ -2838,6 +2838,19 @@
                 },
                 "30": {
                     "DESAWAR": "25",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX"
+                }
+            }
+        },
+        "2026-10": {
+            "year": "2026",
+            "month": "October",
+            "chart": {
+                "01": {
+                    "DESAWAR": "XX",
                     "GHAZIABAD": "XX",
                     "FARIDABAD": "XX",
                     "GALI": "XX",
