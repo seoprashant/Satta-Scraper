@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-09-30T15:25:32.410924+05:30",
-    "updated_at": "2026-09-30T15:25:32.410924+05:30",
+    "last_updated": "2026-09-30T15:31:15.207471+05:30",
+    "updated_at": "2026-09-30T15:31:15.207471+05:30",
     "games": [
         {
             "game-name": "DELHI BAZAR",
@@ -8,13 +8,6 @@
             "game-link": "https://sattaking-ghaziabad.com/delhi-bazar-satta-king-result-chart.php",
             "yesterday-number": "51",
             "today-number": "XX"
-        },
-        {
-            "game-name": "PATNA CITY",
-            "game-time": "02:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/patna-city-satta-king-result-chart.php",
-            "yesterday-number": "19",
-            "today-number": "11"
         },
         {
             "game-name": "CHOTU TAJ",
@@ -45,6 +38,13 @@
             "today-number": "XX"
         },
         {
+            "game-name": "JAMNAPAR",
+            "game-time": "04:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/jamnapar-satta-king-result-chart.php",
+            "yesterday-number": "43",
+            "today-number": "XX"
+        },
+        {
             "game-name": "DESAWAR",
             "game-time": "05:10 AM",
             "game-link": "https://sattaking-ghaziabad.com/desawar-satta-king-result-chart.php",
@@ -66,18 +66,18 @@
             "today-number": "XX"
         },
         {
+            "game-name": "PATNA CITY",
+            "game-time": "02:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/patna-city-satta-king-result-chart.php",
+            "yesterday-number": "19",
+            "today-number": "11"
+        },
+        {
             "game-name": "NEW DELHI BAZAR",
             "game-time": "02:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/new-delhi-bazar-satta-king-result-chart.php",
             "yesterday-number": "92",
             "today-number": "28"
-        },
-        {
-            "game-name": "JAMNAPAR",
-            "game-time": "04:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/jamnapar-satta-king-result-chart.php",
-            "yesterday-number": "43",
-            "today-number": "XX"
         },
         {
             "game-name": "KASHIPUR",
