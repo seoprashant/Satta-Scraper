@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-07T21:10:48.850931+05:30",
-    "updated_at": "2026-10-07T21:10:48.850931+05:30",
+    "last_updated": "2026-10-07T21:15:48.290822+05:30",
+    "updated_at": "2026-10-07T21:15:48.290822+05:30",
     "games": [
         {
             "game-name": "GHAZIABAD",
@@ -8,13 +8,6 @@
             "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
             "yesterday-number": "38",
             "today-number": "XX"
-        },
-        {
-            "game-name": "HINDUSTAN",
-            "game-time": "08:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/hindustan-satta-king-result-chart.php",
-            "yesterday-number": "93",
-            "today-number": "36"
         },
         {
             "game-name": "GHAZIABAD GOLD",
@@ -204,6 +197,13 @@
             "game-link": "https://sattaking-ghaziabad.com/faridabad-gold-satta-king-result-chart.php",
             "yesterday-number": "51",
             "today-number": "84"
+        },
+        {
+            "game-name": "HINDUSTAN",
+            "game-time": "08:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/hindustan-satta-king-result-chart.php",
+            "yesterday-number": "93",
+            "today-number": "36"
         }
     ]
 }
