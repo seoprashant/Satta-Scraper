@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-17T18:15:44.365285+05:30",
-    "updated_at": "2026-10-17T18:15:44.365285+05:30",
+    "last_updated": "2026-10-17T18:20:44.641861+05:30",
+    "updated_at": "2026-10-17T18:20:44.641861+05:30",
     "year": "2026",
     "month": "October",
     "chart": {
@@ -119,7 +119,7 @@
         "17": {
             "DESAWAR": "97",
             "GHAZIABAD": "XX",
-            "FARIDABAD": "XX",
+            "FARIDABAD": "78",
             "GALI": "XX",
             "SHRI GANESH": "XX"
         }
