@@ -1,14 +1,7 @@
 {
-    "last_updated": "2026-10-17T20:25:38.701767+05:30",
-    "updated_at": "2026-10-17T20:25:38.701767+05:30",
+    "last_updated": "2026-10-17T20:31:20.203709+05:30",
+    "updated_at": "2026-10-17T20:31:20.203709+05:30",
     "games": [
-        {
-            "game-name": "FARIDABAD",
-            "game-time": "06:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
-            "yesterday-number": "29",
-            "today-number": "78"
-        },
         {
             "game-name": "GHAZIABAD",
             "game-time": "08:30 PM",
@@ -24,34 +17,6 @@
             "today-number": "20"
         },
         {
-            "game-name": "NAGPUR",
-            "game-time": "07:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/nagpur-satta-king-result-chart.php",
-            "yesterday-number": "35",
-            "today-number": "71"
-        },
-        {
-            "game-name": "DELHI DAY",
-            "game-time": "07:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/delhi-day-satta-king-result-chart.php",
-            "yesterday-number": "07",
-            "today-number": "43"
-        },
-        {
-            "game-name": "SHALIMAR",
-            "game-time": "07:15 PM",
-            "game-link": "https://sattaking-ghaziabad.com/shalimar-satta-king-result-chart.php",
-            "yesterday-number": "63",
-            "today-number": "59"
-        },
-        {
-            "game-name": "FARIDABAD GOLD",
-            "game-time": "07:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/faridabad-gold-satta-king-result-chart.php",
-            "yesterday-number": "16",
-            "today-number": "12"
-        },
-        {
             "game-name": "HINDUSTAN",
             "game-time": "08:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/hindustan-satta-king-result-chart.php",
@@ -63,7 +28,7 @@
             "game-time": "08:30 PM",
             "game-link": "https://sattaking-ghaziabad.com/ghaziabad-gold-satta-king-result-chart.php",
             "yesterday-number": "20",
-            "today-number": "XX"
+            "today-number": "58"
         },
         {
             "game-name": "FARIDABAD CITY",
@@ -192,11 +157,46 @@
             "today-number": "19"
         },
         {
+            "game-name": "FARIDABAD",
+            "game-time": "06:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
+            "yesterday-number": "29",
+            "today-number": "78"
+        },
+        {
             "game-name": "OLD FARIDABAD",
             "game-time": "06:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/old-faridabad-satta-king-result-chart.php",
             "yesterday-number": "29",
             "today-number": "28"
+        },
+        {
+            "game-name": "NAGPUR",
+            "game-time": "07:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/nagpur-satta-king-result-chart.php",
+            "yesterday-number": "35",
+            "today-number": "71"
+        },
+        {
+            "game-name": "DELHI DAY",
+            "game-time": "07:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/delhi-day-satta-king-result-chart.php",
+            "yesterday-number": "07",
+            "today-number": "43"
+        },
+        {
+            "game-name": "SHALIMAR",
+            "game-time": "07:15 PM",
+            "game-link": "https://sattaking-ghaziabad.com/shalimar-satta-king-result-chart.php",
+            "yesterday-number": "63",
+            "today-number": "59"
+        },
+        {
+            "game-name": "FARIDABAD GOLD",
+            "game-time": "07:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/faridabad-gold-satta-king-result-chart.php",
+            "yesterday-number": "16",
+            "today-number": "12"
         },
         {
             "game-name": "GALI",
