@@ -275,6 +275,73 @@ def backfill_patna(start_key):
                        "months": dict(sorted(months.items()))}, ALL_CHARTS_FILE)
 
 
+def overlay_today_from_results(chart, year, month):
+    """The source chart never fills the LAST day of a month for evening games
+    (it stays 'XX' forever), even though the result is declared. scraper.py
+    runs first in the workflow and writes today's declared numbers to
+    results.json — use those to fill today's row wherever the chart still
+    shows XX. DESAWAR is skipped: the source records its 05:10 AM result on
+    the previous date's row, so "today" doesn't map to today's row for it."""
+    try:
+        with open("results.json", "r", encoding="utf-8") as f:
+            res = json.load(f)
+    except Exception as e:
+        logging.warning(f"results.json not readable for overlay: {e}")
+        return chart
+    now = datetime.now(IST_TZ)
+    if str(now.year) != str(year) or now.strftime('%B') != month:
+        return chart
+    day = f"{now.day:02d}"
+    row = chart.get(day)
+    if not isinstance(row, dict):
+        return chart
+    for g in res.get("games", []):
+        name = str(g.get("game-name", "")).strip().upper()
+        val = str(g.get("today-number", "")).strip()
+        if name == "DESAWAR" or name not in row:
+            continue
+        if row[name] == "XX" and val.isdigit() and len(val) == 2:
+            row[name] = val
+            logging.info(f"Overlay: filled {name} {year}-{month} {day} = {val} from results.json")
+    return chart
+
+
+def fill_prev_month_last_day():
+    """On the 1st of a month, results.json's yesterday-number is the previous
+    month's LAST day — the one day the source chart never records. Fill those
+    XX cells in the archive (non-DESAWAR games only, see overlay note)."""
+    import calendar
+    now = datetime.now(IST_TZ)
+    if now.day != 1:
+        return
+    try:
+        with open("results.json", "r", encoding="utf-8") as f:
+            res = json.load(f)
+        with open(ALL_CHARTS_FILE, "r", encoding="utf-8") as f:
+            archive = json.load(f)
+    except Exception as e:
+        logging.warning(f"Prev-month fill skipped: {e}")
+        return
+    py, pm = (now.year, now.month - 1) if now.month > 1 else (now.year - 1, 12)
+    key = f"{py}-{pm:02d}"
+    last = f"{calendar.monthrange(py, pm)[1]:02d}"
+    row = archive.get("months", {}).get(key, {}).get("chart", {}).get(last)
+    if not isinstance(row, dict):
+        return
+    changed = False
+    for g in res.get("games", []):
+        name = str(g.get("game-name", "")).strip().upper()
+        val = str(g.get("yesterday-number", "")).strip()
+        if name == "DESAWAR" or name not in row:
+            continue
+        if row[name] == "XX" and val.isdigit() and len(val) == 2:
+            row[name] = val
+            changed = True
+            logging.info(f"Filled {name} {key}-{last} = {val} from yesterday-number")
+    if changed:
+        save_to_json_safe(archive, ALL_CHARTS_FILE)
+
+
 def main():
     logging.info("Starting simplified monthly chart scraper...")
 
@@ -295,6 +362,8 @@ def main():
     else:
         logging.warning("Patna chart unavailable or month mismatch — PATNA column skipped this run.")
 
+    overlay_today_from_results(chart, year, month)
+
     now_iso = datetime.now(IST_TZ).isoformat()
     chart_results = {
         "last_updated": now_iso,
@@ -310,6 +379,9 @@ def main():
 
     # 2) NEW: accumulate into the archive so the dropdown has history
     update_all_charts(year, month, chart)
+
+    # 3) Month-end gap: fill previous month's last day on the 1st
+    fill_prev_month_last_day()
 
 
 if __name__ == "__main__":
