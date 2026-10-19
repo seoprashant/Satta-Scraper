@@ -15,6 +15,9 @@ OUTPUT_FILE = "monthly_charts.json"
 ALL_CHARTS_FILE = "all_charts.json"  # NEW: accumulates every month's chart (for dropdown)
 TEST_MODE = os.getenv('TEST_MODE', 'false').lower() in ('1', 'true', 'yes', 'y')  # Live mode unless TEST_MODE env var set
 GHAZIABAD_CHART_URL = "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php"
+# Patna has its own chart page on the source (not on the Ghaziabad chart) —
+# scraped separately and merged in as a "PATNA" column.
+PATNA_CHART_URL = "https://sattaking-ghaziabad.com/patna-satta-king-result-chart.php"
 IST_TZ = ZoneInfo('Asia/Kolkata')
 
 MONTHS_LIST = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
@@ -67,7 +70,8 @@ def normalize_game_label(label):
         'GZBD': 'GHAZIABAD',
         'GALI': 'GALI',
         'DELHI BAZAR': 'DELHI BAZAR',
-        'SHRI GANESH': 'SHRI GANESH'
+        'SHRI GANESH': 'SHRI GANESH',
+        'PATNA': 'PATNA'
     }
     return mapping.get(label, label.title() if label.isupper() else label)
 
@@ -216,6 +220,60 @@ def update_all_charts(year, month, chart):
 # MAIN EXECUTION
 # ==========================================
 
+def merge_game_column(chart, other_chart, game):
+    """Copy one game's column from other_chart into chart (per date), without
+    touching the other games already in chart."""
+    for date_key, games in other_chart.items():
+        if game in games:
+            chart.setdefault(date_key, {})[game] = games[game]
+    return chart
+
+
+def fetch_patna_chart(month_num=None, year=None):
+    url = PATNA_CHART_URL
+    if month_num and year:
+        url = f"{PATNA_CHART_URL}?month={month_num}&year={year}"
+    html = get_html(url)
+    if not html:
+        return None, None, {}
+    return parse_chart_page(html)
+
+
+def backfill_patna(start_key):
+    """One-off: python chart_scraper.py --backfill-patna 2025-01
+    Fetches every month from start_key to the current month from the source's
+    Patna chart page and merges the real PATNA column into all_charts.json.
+    Months not yet in the archive get all columns from the Patna page."""
+    import time
+    existing = {}
+    if os.path.exists(ALL_CHARTS_FILE):
+        with open(ALL_CHARTS_FILE, 'r', encoding='utf-8') as f:
+            existing = json.load(f)
+    months = existing.get("months", {}) if isinstance(existing, dict) else {}
+
+    y, m = (int(x) for x in start_key.split('-'))
+    now = datetime.now(IST_TZ)
+    while (y, m) <= (now.year, now.month):
+        key = f"{y}-{m:02d}"
+        py, pm, pchart = fetch_patna_chart(f"{m:02d}", str(y))
+        if pchart and py == str(y) and month_number(pm) == f"{m:02d}":
+            if key in months and isinstance(months[key].get("chart"), dict):
+                merge_game_column(months[key]["chart"], pchart, "PATNA")
+            else:
+                months[key] = {"year": str(y), "month": pm, "chart": pchart}
+            logging.info(f"Backfilled PATNA for {key} ({len(pchart)} days)")
+        else:
+            logging.warning(f"Skipped {key}: source returned no/mismatched chart")
+        m += 1
+        if m > 12:
+            m, y = 1, y + 1
+        time.sleep(2)
+
+    now_iso = now.isoformat()
+    save_to_json_safe({"last_updated": now_iso, "updated_at": now_iso,
+                       "months": dict(sorted(months.items()))}, ALL_CHARTS_FILE)
+
+
 def main():
     logging.info("Starting simplified monthly chart scraper...")
 
@@ -228,6 +286,13 @@ def main():
     if not year or not month or not chart:
         logging.error("Chart parsing failed. Exiting without writing file.")
         return
+
+    # Merge the real PATNA column from the Patna chart page (same month only)
+    py, pm, pchart = fetch_patna_chart()
+    if pchart and py == year and pm == month:
+        merge_game_column(chart, pchart, "PATNA")
+    else:
+        logging.warning("Patna chart unavailable or month mismatch — PATNA column skipped this run.")
 
     now_iso = datetime.now(IST_TZ).isoformat()
     chart_results = {
@@ -247,4 +312,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    if len(sys.argv) == 3 and sys.argv[1] == "--backfill-patna":
+        backfill_patna(sys.argv[2])
+    else:
+        main()

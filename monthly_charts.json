@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-20T01:35:40.439662+05:30",
-    "updated_at": "2026-10-20T01:35:40.439662+05:30",
+    "last_updated": "2026-10-20T01:38:56.590422+05:30",
+    "updated_at": "2026-10-20T01:38:56.590422+05:30",
     "year": "2026",
     "month": "October",
     "chart": {
@@ -9,140 +9,160 @@
             "GHAZIABAD": "67",
             "FARIDABAD": "42",
             "GALI": "93",
-            "SHRI GANESH": "51"
+            "SHRI GANESH": "51",
+            "PATNA": "59"
         },
         "02": {
             "DESAWAR": "52",
             "GHAZIABAD": "81",
             "FARIDABAD": "05",
             "GALI": "01",
-            "SHRI GANESH": "31"
+            "SHRI GANESH": "31",
+            "PATNA": "57"
         },
         "03": {
             "DESAWAR": "18",
             "GHAZIABAD": "95",
             "FARIDABAD": "58",
             "GALI": "68",
-            "SHRI GANESH": "54"
+            "SHRI GANESH": "54",
+            "PATNA": "94"
         },
         "04": {
             "DESAWAR": "15",
             "GHAZIABAD": "98",
             "FARIDABAD": "36",
             "GALI": "80",
-            "SHRI GANESH": "47"
+            "SHRI GANESH": "47",
+            "PATNA": "75"
         },
         "05": {
             "DESAWAR": "70",
             "GHAZIABAD": "78",
             "FARIDABAD": "26",
             "GALI": "24",
-            "SHRI GANESH": "18"
+            "SHRI GANESH": "18",
+            "PATNA": "91"
         },
         "06": {
             "DESAWAR": "59",
             "GHAZIABAD": "38",
             "FARIDABAD": "01",
             "GALI": "53",
-            "SHRI GANESH": "27"
+            "SHRI GANESH": "27",
+            "PATNA": "47"
         },
         "07": {
             "DESAWAR": "23",
             "GHAZIABAD": "84",
             "FARIDABAD": "87",
             "GALI": "29",
-            "SHRI GANESH": "89"
+            "SHRI GANESH": "89",
+            "PATNA": "41"
         },
         "08": {
             "DESAWAR": "90",
             "GHAZIABAD": "74",
             "FARIDABAD": "92",
             "GALI": "62",
-            "SHRI GANESH": "02"
+            "SHRI GANESH": "02",
+            "PATNA": "34"
         },
         "09": {
             "DESAWAR": "26",
             "GHAZIABAD": "89",
             "FARIDABAD": "99",
             "GALI": "83",
-            "SHRI GANESH": "01"
+            "SHRI GANESH": "01",
+            "PATNA": "59"
         },
         "10": {
             "DESAWAR": "22",
             "GHAZIABAD": "71",
             "FARIDABAD": "08",
             "GALI": "12",
-            "SHRI GANESH": "06"
+            "SHRI GANESH": "06",
+            "PATNA": "37"
         },
         "11": {
             "DESAWAR": "27",
             "GHAZIABAD": "46",
             "FARIDABAD": "96",
             "GALI": "40",
-            "SHRI GANESH": "58"
+            "SHRI GANESH": "58",
+            "PATNA": "86"
         },
         "12": {
             "DESAWAR": "98",
             "GHAZIABAD": "48",
             "FARIDABAD": "55",
             "GALI": "90",
-            "SHRI GANESH": "67"
+            "SHRI GANESH": "67",
+            "PATNA": "19"
         },
         "13": {
             "DESAWAR": "40",
             "GHAZIABAD": "58",
             "FARIDABAD": "87",
             "GALI": "22",
-            "SHRI GANESH": "98"
+            "SHRI GANESH": "98",
+            "PATNA": "46"
         },
         "14": {
             "DESAWAR": "97",
             "GHAZIABAD": "80",
             "FARIDABAD": "11",
             "GALI": "81",
-            "SHRI GANESH": "80"
+            "SHRI GANESH": "80",
+            "PATNA": "60"
         },
         "15": {
             "DESAWAR": "42",
             "GHAZIABAD": "74",
             "FARIDABAD": "48",
             "GALI": "12",
-            "SHRI GANESH": "56"
+            "SHRI GANESH": "56",
+            "PATNA": "56"
         },
         "16": {
             "DESAWAR": "98",
             "GHAZIABAD": "42",
             "FARIDABAD": "29",
             "GALI": "51",
-            "SHRI GANESH": "62"
+            "SHRI GANESH": "62",
+            "PATNA": "19"
         },
         "17": {
             "DESAWAR": "97",
             "GHAZIABAD": "15",
             "FARIDABAD": "78",
             "GALI": "69",
-            "SHRI GANESH": "55"
+            "SHRI GANESH": "55",
+            "PATNA": "96"
         },
         "18": {
             "DESAWAR": "44",
             "GHAZIABAD": "16",
             "FARIDABAD": "78",
             "GALI": "73",
-            "SHRI GANESH": "19"
+            "SHRI GANESH": "19",
+            "PATNA": "37"
         },
         "19": {
             "DESAWAR": "23",
             "GHAZIABAD": "23",
             "FARIDABAD": "72",
             "GALI": "47",
-            "SHRI GANESH": "11"
+            "SHRI GANESH": "11",
+            "PATNA": "72"
         },
         "20": {
             "DESAWAR": "XX",
             "GHAZIABAD": "XX",
             "FARIDABAD": "XX",
             "GALI": "XX",
-            "SHRI GANESH": "XX"
+            "SHRI GANESH": "XX",
+            "PATNA": "XX"
         }
     }
 }
