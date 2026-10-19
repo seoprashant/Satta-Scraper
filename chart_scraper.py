@@ -280,8 +280,8 @@ def overlay_today_from_results(chart, year, month):
     (it stays 'XX' forever), even though the result is declared. scraper.py
     runs first in the workflow and writes today's declared numbers to
     results.json — use those to fill today's row wherever the chart still
-    shows XX. DESAWAR is skipped: the source records its 05:10 AM result on
-    the previous date's row, so "today" doesn't map to today's row for it."""
+    shows XX. The same gap exists for DESAWAR on the 1st of every month —
+    its 05:10 AM result (today-number) belongs to today's row like the rest."""
     try:
         with open("results.json", "r", encoding="utf-8") as f:
             res = json.load(f)
@@ -298,7 +298,7 @@ def overlay_today_from_results(chart, year, month):
     for g in res.get("games", []):
         name = str(g.get("game-name", "")).strip().upper()
         val = str(g.get("today-number", "")).strip()
-        if name == "DESAWAR" or name not in row:
+        if name not in row:
             continue
         if row[name] == "XX" and val.isdigit() and len(val) == 2:
             row[name] = val
@@ -309,7 +309,7 @@ def overlay_today_from_results(chart, year, month):
 def fill_prev_month_last_day():
     """On the 1st of a month, results.json's yesterday-number is the previous
     month's LAST day — the one day the source chart never records. Fill those
-    XX cells in the archive (non-DESAWAR games only, see overlay note)."""
+    XX cells in the archive."""
     import calendar
     now = datetime.now(IST_TZ)
     if now.day != 1:
@@ -332,7 +332,7 @@ def fill_prev_month_last_day():
     for g in res.get("games", []):
         name = str(g.get("game-name", "")).strip().upper()
         val = str(g.get("yesterday-number", "")).strip()
-        if name == "DESAWAR" or name not in row:
+        if name not in row:
             continue
         if row[name] == "XX" and val.isdigit() and len(val) == 2:
             row[name] = val
