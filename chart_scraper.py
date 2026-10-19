@@ -256,14 +256,15 @@ def backfill_patna(start_key):
     while (y, m) <= (now.year, now.month):
         key = f"{y}-{m:02d}"
         py, pm, pchart = fetch_patna_chart(f"{m:02d}", str(y))
-        if pchart and py == str(y) and month_number(pm) == f"{m:02d}":
+        has_data = any(v != 'XX' for day in (pchart or {}).values() for v in day.values())
+        if pchart and has_data and py == str(y) and month_number(pm) == f"{m:02d}":
             if key in months and isinstance(months[key].get("chart"), dict):
                 merge_game_column(months[key]["chart"], pchart, "PATNA")
             else:
                 months[key] = {"year": str(y), "month": pm, "chart": pchart}
             logging.info(f"Backfilled PATNA for {key} ({len(pchart)} days)")
         else:
-            logging.warning(f"Skipped {key}: source returned no/mismatched chart")
+            logging.warning(f"Skipped {key}: source has no declared results for this month")
         m += 1
         if m > 12:
             m, y = 1, y + 1
