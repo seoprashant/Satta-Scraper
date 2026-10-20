@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-20T13:31:20.492818+05:30",
-    "updated_at": "2026-10-20T13:31:20.492818+05:30",
+    "last_updated": "2026-10-20T13:34:52.609024+05:30",
+    "updated_at": "2026-10-20T13:34:52.609024+05:30",
     "months": {
         "2025-09": {
             "year": "2025",
@@ -12,7 +12,8 @@
                     "FARIDABAD": "70",
                     "GALI": "68",
                     "SHRI GANESH": "71",
-                    "PATNA": "48"
+                    "PATNA": "48",
+                    "PATNA CITY": "16"
                 },
                 "02": {
                     "DESAWAR": "66",
@@ -20,7 +21,8 @@
                     "FARIDABAD": "00",
                     "GALI": "57",
                     "SHRI GANESH": "07",
-                    "PATNA": "03"
+                    "PATNA": "03",
+                    "PATNA CITY": "43"
                 },
                 "03": {
                     "DESAWAR": "70",
@@ -28,7 +30,8 @@
                     "FARIDABAD": "88",
                     "GALI": "72",
                     "SHRI GANESH": "06",
-                    "PATNA": "91"
+                    "PATNA": "91",
+                    "PATNA CITY": "70"
                 },
                 "04": {
                     "DESAWAR": "73",
@@ -36,7 +39,8 @@
                     "FARIDABAD": "00",
                     "GALI": "54",
                     "SHRI GANESH": "86",
-                    "PATNA": "48"
+                    "PATNA": "48",
+                    "PATNA CITY": "87"
                 },
                 "05": {
                     "DESAWAR": "72",
@@ -44,7 +48,8 @@
                     "FARIDABAD": "52",
                     "GALI": "41",
                     "SHRI GANESH": "55",
-                    "PATNA": "54"
+                    "PATNA": "54",
+                    "PATNA CITY": "32"
                 },
                 "06": {
                     "DESAWAR": "04",
@@ -52,7 +57,8 @@
                     "FARIDABAD": "82",
                     "GALI": "73",
                     "SHRI GANESH": "07",
-                    "PATNA": "09"
+                    "PATNA": "09",
+                    "PATNA CITY": "04"
                 },
                 "07": {
                     "DESAWAR": "96",
@@ -60,7 +66,8 @@
                     "FARIDABAD": "83",
                     "GALI": "21",
                     "SHRI GANESH": "63",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "49"
                 },
                 "08": {
                     "DESAWAR": "64",
@@ -68,7 +75,8 @@
                     "FARIDABAD": "03",
                     "GALI": "64",
                     "SHRI GANESH": "69",
-                    "PATNA": "26"
+                    "PATNA": "26",
+                    "PATNA CITY": "53"
                 },
                 "09": {
                     "DESAWAR": "03",
@@ -76,7 +84,8 @@
                     "FARIDABAD": "96",
                     "GALI": "40",
                     "SHRI GANESH": "69",
-                    "PATNA": "91"
+                    "PATNA": "91",
+                    "PATNA CITY": "11"
                 },
                 "10": {
                     "DESAWAR": "48",
@@ -84,7 +93,8 @@
                     "FARIDABAD": "08",
                     "GALI": "26",
                     "SHRI GANESH": "56",
-                    "PATNA": "40"
+                    "PATNA": "40",
+                    "PATNA CITY": "47"
                 },
                 "11": {
                     "DESAWAR": "36",
@@ -92,7 +102,8 @@
                     "FARIDABAD": "13",
                     "GALI": "95",
                     "SHRI GANESH": "76",
-                    "PATNA": "66"
+                    "PATNA": "66",
+                    "PATNA CITY": "40"
                 },
                 "12": {
                     "DESAWAR": "23",
@@ -100,7 +111,8 @@
                     "FARIDABAD": "78",
                     "GALI": "23",
                     "SHRI GANESH": "81",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "96"
                 },
                 "13": {
                     "DESAWAR": "93",
@@ -108,7 +120,8 @@
                     "FARIDABAD": "41",
                     "GALI": "81",
                     "SHRI GANESH": "48",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "93"
                 },
                 "14": {
                     "DESAWAR": "05",
@@ -116,7 +129,8 @@
                     "FARIDABAD": "40",
                     "GALI": "67",
                     "SHRI GANESH": "17",
-                    "PATNA": "11"
+                    "PATNA": "11",
+                    "PATNA CITY": "88"
                 },
                 "15": {
                     "DESAWAR": "87",
@@ -124,7 +138,8 @@
                     "FARIDABAD": "12",
                     "GALI": "87",
                     "SHRI GANESH": "60",
-                    "PATNA": "39"
+                    "PATNA": "39",
+                    "PATNA CITY": "53"
                 },
                 "16": {
                     "DESAWAR": "73",
@@ -132,7 +147,8 @@
                     "FARIDABAD": "90",
                     "GALI": "14",
                     "SHRI GANESH": "25",
-                    "PATNA": "38"
+                    "PATNA": "38",
+                    "PATNA CITY": "03"
                 },
                 "17": {
                     "DESAWAR": "63",
@@ -140,7 +156,8 @@
                     "FARIDABAD": "41",
                     "GALI": "30",
                     "SHRI GANESH": "19",
-                    "PATNA": "76"
+                    "PATNA": "76",
+                    "PATNA CITY": "63"
                 },
                 "18": {
                     "DESAWAR": "09",
@@ -148,7 +165,8 @@
                     "FARIDABAD": "33",
                     "GALI": "95",
                     "SHRI GANESH": "07",
-                    "PATNA": "60"
+                    "PATNA": "60",
+                    "PATNA CITY": "59"
                 },
                 "19": {
                     "DESAWAR": "71",
@@ -156,7 +174,8 @@
                     "FARIDABAD": "94",
                     "GALI": "64",
                     "SHRI GANESH": "27",
-                    "PATNA": "12"
+                    "PATNA": "12",
+                    "PATNA CITY": "74"
                 },
                 "20": {
                     "DESAWAR": "36",
@@ -164,7 +183,8 @@
                     "FARIDABAD": "19",
                     "GALI": "40",
                     "SHRI GANESH": "38",
-                    "PATNA": "51"
+                    "PATNA": "51",
+                    "PATNA CITY": "64"
                 },
                 "21": {
                     "DESAWAR": "24",
@@ -172,7 +192,8 @@
                     "FARIDABAD": "08",
                     "GALI": "54",
                     "SHRI GANESH": "76",
-                    "PATNA": "45"
+                    "PATNA": "45",
+                    "PATNA CITY": "53"
                 },
                 "22": {
                     "DESAWAR": "70",
@@ -180,7 +201,8 @@
                     "FARIDABAD": "55",
                     "GALI": "31",
                     "SHRI GANESH": "33",
-                    "PATNA": "70"
+                    "PATNA": "70",
+                    "PATNA CITY": "78"
                 },
                 "23": {
                     "DESAWAR": "42",
@@ -188,7 +210,8 @@
                     "FARIDABAD": "64",
                     "GALI": "95",
                     "SHRI GANESH": "08",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "30"
                 },
                 "24": {
                     "DESAWAR": "63",
@@ -196,7 +219,8 @@
                     "FARIDABAD": "44",
                     "GALI": "00",
                     "SHRI GANESH": "27",
-                    "PATNA": "22"
+                    "PATNA": "22",
+                    "PATNA CITY": "86"
                 },
                 "25": {
                     "DESAWAR": "62",
@@ -204,7 +228,8 @@
                     "FARIDABAD": "10",
                     "GALI": "82",
                     "SHRI GANESH": "66",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "92"
                 },
                 "26": {
                     "DESAWAR": "48",
@@ -212,7 +237,8 @@
                     "FARIDABAD": "91",
                     "GALI": "42",
                     "SHRI GANESH": "37",
-                    "PATNA": "17"
+                    "PATNA": "17",
+                    "PATNA CITY": "82"
                 },
                 "27": {
                     "DESAWAR": "96",
@@ -220,7 +246,8 @@
                     "FARIDABAD": "60",
                     "GALI": "19",
                     "SHRI GANESH": "57",
-                    "PATNA": "70"
+                    "PATNA": "70",
+                    "PATNA CITY": "57"
                 },
                 "28": {
                     "DESAWAR": "84",
@@ -228,7 +255,8 @@
                     "FARIDABAD": "58",
                     "GALI": "63",
                     "SHRI GANESH": "04",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "59"
                 },
                 "29": {
                     "DESAWAR": "48",
@@ -236,7 +264,8 @@
                     "FARIDABAD": "57",
                     "GALI": "95",
                     "SHRI GANESH": "34",
-                    "PATNA": "52"
+                    "PATNA": "52",
+                    "PATNA CITY": "91"
                 },
                 "30": {
                     "DESAWAR": "17",
@@ -244,7 +273,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -258,7 +288,8 @@
                     "FARIDABAD": "54",
                     "GALI": "56",
                     "SHRI GANESH": "14",
-                    "PATNA": "60"
+                    "PATNA": "60",
+                    "PATNA CITY": "17"
                 },
                 "02": {
                     "DESAWAR": "41",
@@ -266,7 +297,8 @@
                     "FARIDABAD": "63",
                     "GALI": "70",
                     "SHRI GANESH": "02",
-                    "PATNA": "65"
+                    "PATNA": "65",
+                    "PATNA CITY": "41"
                 },
                 "03": {
                     "DESAWAR": "96",
@@ -274,7 +306,8 @@
                     "FARIDABAD": "31",
                     "GALI": "39",
                     "SHRI GANESH": "79",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "96"
                 },
                 "04": {
                     "DESAWAR": "87",
@@ -282,7 +315,8 @@
                     "FARIDABAD": "26",
                     "GALI": "06",
                     "SHRI GANESH": "30",
-                    "PATNA": "05"
+                    "PATNA": "05",
+                    "PATNA CITY": "87"
                 },
                 "05": {
                     "DESAWAR": "62",
@@ -290,7 +324,8 @@
                     "FARIDABAD": "43",
                     "GALI": "79",
                     "SHRI GANESH": "16",
-                    "PATNA": "11"
+                    "PATNA": "11",
+                    "PATNA CITY": "35"
                 },
                 "06": {
                     "DESAWAR": "55",
@@ -298,7 +333,8 @@
                     "FARIDABAD": "04",
                     "GALI": "94",
                     "SHRI GANESH": "55",
-                    "PATNA": "39"
+                    "PATNA": "39",
+                    "PATNA CITY": "41"
                 },
                 "07": {
                     "DESAWAR": "25",
@@ -306,7 +342,8 @@
                     "FARIDABAD": "84",
                     "GALI": "72",
                     "SHRI GANESH": "11",
-                    "PATNA": "79"
+                    "PATNA": "79",
+                    "PATNA CITY": "19"
                 },
                 "08": {
                     "DESAWAR": "45",
@@ -314,7 +351,8 @@
                     "FARIDABAD": "37",
                     "GALI": "07",
                     "SHRI GANESH": "39",
-                    "PATNA": "65"
+                    "PATNA": "65",
+                    "PATNA CITY": "15"
                 },
                 "09": {
                     "DESAWAR": "85",
@@ -322,7 +360,8 @@
                     "FARIDABAD": "32",
                     "GALI": "08",
                     "SHRI GANESH": "12",
-                    "PATNA": "14"
+                    "PATNA": "14",
+                    "PATNA CITY": "79"
                 },
                 "10": {
                     "DESAWAR": "73",
@@ -330,7 +369,8 @@
                     "FARIDABAD": "52",
                     "GALI": "67",
                     "SHRI GANESH": "81",
-                    "PATNA": "25"
+                    "PATNA": "25",
+                    "PATNA CITY": "02"
                 },
                 "11": {
                     "DESAWAR": "22",
@@ -338,7 +378,8 @@
                     "FARIDABAD": "64",
                     "GALI": "05",
                     "SHRI GANESH": "61",
-                    "PATNA": "68"
+                    "PATNA": "68",
+                    "PATNA CITY": "75"
                 },
                 "12": {
                     "DESAWAR": "88",
@@ -346,7 +387,8 @@
                     "FARIDABAD": "95",
                     "GALI": "32",
                     "SHRI GANESH": "20",
-                    "PATNA": "16"
+                    "PATNA": "16",
+                    "PATNA CITY": "06"
                 },
                 "13": {
                     "DESAWAR": "75",
@@ -354,7 +396,8 @@
                     "FARIDABAD": "92",
                     "GALI": "26",
                     "SHRI GANESH": "52",
-                    "PATNA": "41"
+                    "PATNA": "41",
+                    "PATNA CITY": "93"
                 },
                 "14": {
                     "DESAWAR": "24",
@@ -362,7 +405,8 @@
                     "FARIDABAD": "23",
                     "GALI": "32",
                     "SHRI GANESH": "61",
-                    "PATNA": "56"
+                    "PATNA": "56",
+                    "PATNA CITY": "21"
                 },
                 "15": {
                     "DESAWAR": "92",
@@ -370,7 +414,8 @@
                     "FARIDABAD": "88",
                     "GALI": "66",
                     "SHRI GANESH": "12",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "74"
                 },
                 "16": {
                     "DESAWAR": "50",
@@ -378,7 +423,8 @@
                     "FARIDABAD": "72",
                     "GALI": "83",
                     "SHRI GANESH": "69",
-                    "PATNA": "33"
+                    "PATNA": "33",
+                    "PATNA CITY": "54"
                 },
                 "17": {
                     "DESAWAR": "60",
@@ -386,7 +432,8 @@
                     "FARIDABAD": "59",
                     "GALI": "61",
                     "SHRI GANESH": "00",
-                    "PATNA": "77"
+                    "PATNA": "77",
+                    "PATNA CITY": "27"
                 },
                 "18": {
                     "DESAWAR": "55",
@@ -394,7 +441,8 @@
                     "FARIDABAD": "19",
                     "GALI": "12",
                     "SHRI GANESH": "53",
-                    "PATNA": "35"
+                    "PATNA": "35",
+                    "PATNA CITY": "13"
                 },
                 "19": {
                     "DESAWAR": "04",
@@ -402,7 +450,8 @@
                     "FARIDABAD": "57",
                     "GALI": "49",
                     "SHRI GANESH": "85",
-                    "PATNA": "41"
+                    "PATNA": "41",
+                    "PATNA CITY": "04"
                 },
                 "20": {
                     "DESAWAR": "75",
@@ -410,7 +459,8 @@
                     "FARIDABAD": "38",
                     "GALI": "45",
                     "SHRI GANESH": "29",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "03"
                 },
                 "21": {
                     "DESAWAR": "88",
@@ -418,7 +468,8 @@
                     "FARIDABAD": "70",
                     "GALI": "92",
                     "SHRI GANESH": "32",
-                    "PATNA": "83"
+                    "PATNA": "83",
+                    "PATNA CITY": "59"
                 },
                 "22": {
                     "DESAWAR": "38",
@@ -426,7 +477,8 @@
                     "FARIDABAD": "82",
                     "GALI": "15",
                     "SHRI GANESH": "10",
-                    "PATNA": "01"
+                    "PATNA": "01",
+                    "PATNA CITY": "38"
                 },
                 "23": {
                     "DESAWAR": "68",
@@ -434,7 +486,8 @@
                     "FARIDABAD": "11",
                     "GALI": "06",
                     "SHRI GANESH": "61",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "89"
                 },
                 "24": {
                     "DESAWAR": "50",
@@ -442,7 +495,8 @@
                     "FARIDABAD": "32",
                     "GALI": "31",
                     "SHRI GANESH": "94",
-                    "PATNA": "99"
+                    "PATNA": "99",
+                    "PATNA CITY": "73"
                 },
                 "25": {
                     "DESAWAR": "96",
@@ -450,7 +504,8 @@
                     "FARIDABAD": "44",
                     "GALI": "72",
                     "SHRI GANESH": "73",
-                    "PATNA": "12"
+                    "PATNA": "12",
+                    "PATNA CITY": "87"
                 },
                 "26": {
                     "DESAWAR": "61",
@@ -458,7 +513,8 @@
                     "FARIDABAD": "18",
                     "GALI": "55",
                     "SHRI GANESH": "14",
-                    "PATNA": "51"
+                    "PATNA": "51",
+                    "PATNA CITY": "61"
                 },
                 "27": {
                     "DESAWAR": "33",
@@ -466,7 +522,8 @@
                     "FARIDABAD": "81",
                     "GALI": "36",
                     "SHRI GANESH": "05",
-                    "PATNA": "10"
+                    "PATNA": "10",
+                    "PATNA CITY": "28"
                 },
                 "28": {
                     "DESAWAR": "68",
@@ -474,7 +531,8 @@
                     "FARIDABAD": "24",
                     "GALI": "62",
                     "SHRI GANESH": "36",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "46"
                 },
                 "29": {
                     "DESAWAR": "37",
@@ -482,7 +540,8 @@
                     "FARIDABAD": "71",
                     "GALI": "18",
                     "SHRI GANESH": "13",
-                    "PATNA": "13"
+                    "PATNA": "13",
+                    "PATNA CITY": "06"
                 },
                 "30": {
                     "DESAWAR": "40",
@@ -490,7 +549,8 @@
                     "FARIDABAD": "51",
                     "GALI": "85",
                     "SHRI GANESH": "17",
-                    "PATNA": "44"
+                    "PATNA": "44",
+                    "PATNA CITY": "04"
                 },
                 "31": {
                     "DESAWAR": "36",
@@ -498,7 +558,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -512,7 +573,8 @@
                     "FARIDABAD": "26",
                     "GALI": "40",
                     "SHRI GANESH": "54",
-                    "PATNA": "44"
+                    "PATNA": "44",
+                    "PATNA CITY": "36"
                 },
                 "02": {
                     "DESAWAR": "37",
@@ -520,7 +582,8 @@
                     "FARIDABAD": "08",
                     "GALI": "75",
                     "SHRI GANESH": "30",
-                    "PATNA": "22"
+                    "PATNA": "22",
+                    "PATNA CITY": "41"
                 },
                 "03": {
                     "DESAWAR": "89",
@@ -528,7 +591,8 @@
                     "FARIDABAD": "28",
                     "GALI": "07",
                     "SHRI GANESH": "30",
-                    "PATNA": "21"
+                    "PATNA": "21",
+                    "PATNA CITY": "84"
                 },
                 "04": {
                     "DESAWAR": "29",
@@ -536,7 +600,8 @@
                     "FARIDABAD": "74",
                     "GALI": "79",
                     "SHRI GANESH": "76",
-                    "PATNA": "63"
+                    "PATNA": "63",
+                    "PATNA CITY": "65"
                 },
                 "05": {
                     "DESAWAR": "92",
@@ -544,7 +609,8 @@
                     "FARIDABAD": "02",
                     "GALI": "80",
                     "SHRI GANESH": "02",
-                    "PATNA": "52"
+                    "PATNA": "52",
+                    "PATNA CITY": "25"
                 },
                 "06": {
                     "DESAWAR": "68",
@@ -552,7 +618,8 @@
                     "FARIDABAD": "60",
                     "GALI": "73",
                     "SHRI GANESH": "73",
-                    "PATNA": "76"
+                    "PATNA": "76",
+                    "PATNA CITY": "78"
                 },
                 "07": {
                     "DESAWAR": "94",
@@ -560,7 +627,8 @@
                     "FARIDABAD": "05",
                     "GALI": "19",
                     "SHRI GANESH": "76",
-                    "PATNA": "78"
+                    "PATNA": "78",
+                    "PATNA CITY": "89"
                 },
                 "08": {
                     "DESAWAR": "85",
@@ -568,7 +636,8 @@
                     "FARIDABAD": "17",
                     "GALI": "53",
                     "SHRI GANESH": "62",
-                    "PATNA": "20"
+                    "PATNA": "20",
+                    "PATNA CITY": "47"
                 },
                 "09": {
                     "DESAWAR": "08",
@@ -576,7 +645,8 @@
                     "FARIDABAD": "41",
                     "GALI": "32",
                     "SHRI GANESH": "75",
-                    "PATNA": "79"
+                    "PATNA": "79",
+                    "PATNA CITY": "90"
                 },
                 "10": {
                     "DESAWAR": "67",
@@ -584,7 +654,8 @@
                     "FARIDABAD": "54",
                     "GALI": "64",
                     "SHRI GANESH": "44",
-                    "PATNA": "42"
+                    "PATNA": "42",
+                    "PATNA CITY": "79"
                 },
                 "11": {
                     "DESAWAR": "51",
@@ -592,7 +663,8 @@
                     "FARIDABAD": "15",
                     "GALI": "57",
                     "SHRI GANESH": "79",
-                    "PATNA": "52"
+                    "PATNA": "52",
+                    "PATNA CITY": "45"
                 },
                 "12": {
                     "DESAWAR": "37",
@@ -600,7 +672,8 @@
                     "FARIDABAD": "44",
                     "GALI": "05",
                     "SHRI GANESH": "70",
-                    "PATNA": "60"
+                    "PATNA": "60",
+                    "PATNA CITY": "63"
                 },
                 "13": {
                     "DESAWAR": "53",
@@ -608,7 +681,8 @@
                     "FARIDABAD": "20",
                     "GALI": "13",
                     "SHRI GANESH": "33",
-                    "PATNA": "18"
+                    "PATNA": "18",
+                    "PATNA CITY": "58"
                 },
                 "14": {
                     "DESAWAR": "55",
@@ -616,7 +690,8 @@
                     "FARIDABAD": "90",
                     "GALI": "45",
                     "SHRI GANESH": "09",
-                    "PATNA": "68"
+                    "PATNA": "68",
+                    "PATNA CITY": "78"
                 },
                 "15": {
                     "DESAWAR": "20",
@@ -624,7 +699,8 @@
                     "FARIDABAD": "23",
                     "GALI": "93",
                     "SHRI GANESH": "76",
-                    "PATNA": "84"
+                    "PATNA": "84",
+                    "PATNA CITY": "82"
                 },
                 "16": {
                     "DESAWAR": "51",
@@ -632,7 +708,8 @@
                     "FARIDABAD": "66",
                     "GALI": "46",
                     "SHRI GANESH": "46",
-                    "PATNA": "37"
+                    "PATNA": "37",
+                    "PATNA CITY": "21"
                 },
                 "17": {
                     "DESAWAR": "28",
@@ -640,7 +717,8 @@
                     "FARIDABAD": "52",
                     "GALI": "14",
                     "SHRI GANESH": "86",
-                    "PATNA": "91"
+                    "PATNA": "91",
+                    "PATNA CITY": "86"
                 },
                 "18": {
                     "DESAWAR": "41",
@@ -648,7 +726,8 @@
                     "FARIDABAD": "68",
                     "GALI": "85",
                     "SHRI GANESH": "94",
-                    "PATNA": "50"
+                    "PATNA": "50",
+                    "PATNA CITY": "49"
                 },
                 "19": {
                     "DESAWAR": "75",
@@ -656,7 +735,8 @@
                     "FARIDABAD": "46",
                     "GALI": "14",
                     "SHRI GANESH": "92",
-                    "PATNA": "56"
+                    "PATNA": "56",
+                    "PATNA CITY": "75"
                 },
                 "20": {
                     "DESAWAR": "60",
@@ -664,7 +744,8 @@
                     "FARIDABAD": "41",
                     "GALI": "24",
                     "SHRI GANESH": "79",
-                    "PATNA": "31"
+                    "PATNA": "31",
+                    "PATNA CITY": "51"
                 },
                 "21": {
                     "DESAWAR": "24",
@@ -672,7 +753,8 @@
                     "FARIDABAD": "30",
                     "GALI": "11",
                     "SHRI GANESH": "14",
-                    "PATNA": "69"
+                    "PATNA": "69",
+                    "PATNA CITY": "79"
                 },
                 "22": {
                     "DESAWAR": "83",
@@ -680,7 +762,8 @@
                     "FARIDABAD": "31",
                     "GALI": "37",
                     "SHRI GANESH": "15",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "53"
                 },
                 "23": {
                     "DESAWAR": "68",
@@ -688,7 +771,8 @@
                     "FARIDABAD": "75",
                     "GALI": "02",
                     "SHRI GANESH": "99",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "53"
                 },
                 "24": {
                     "DESAWAR": "34",
@@ -696,7 +780,8 @@
                     "FARIDABAD": "78",
                     "GALI": "49",
                     "SHRI GANESH": "86",
-                    "PATNA": "45"
+                    "PATNA": "45",
+                    "PATNA CITY": "38"
                 },
                 "25": {
                     "DESAWAR": "67",
@@ -704,7 +789,8 @@
                     "FARIDABAD": "35",
                     "GALI": "07",
                     "SHRI GANESH": "99",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "46"
                 },
                 "26": {
                     "DESAWAR": "22",
@@ -712,7 +798,8 @@
                     "FARIDABAD": "15",
                     "GALI": "17",
                     "SHRI GANESH": "12",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "91"
                 },
                 "27": {
                     "DESAWAR": "06",
@@ -720,7 +807,8 @@
                     "FARIDABAD": "17",
                     "GALI": "39",
                     "SHRI GANESH": "91",
-                    "PATNA": "53"
+                    "PATNA": "53",
+                    "PATNA CITY": "06"
                 },
                 "28": {
                     "DESAWAR": "57",
@@ -728,7 +816,8 @@
                     "FARIDABAD": "98",
                     "GALI": "01",
                     "SHRI GANESH": "66",
-                    "PATNA": "41"
+                    "PATNA": "41",
+                    "PATNA CITY": "35"
                 },
                 "29": {
                     "DESAWAR": "08",
@@ -736,7 +825,8 @@
                     "FARIDABAD": "83",
                     "GALI": "24",
                     "SHRI GANESH": "34",
-                    "PATNA": "62"
+                    "PATNA": "62",
+                    "PATNA CITY": "03"
                 },
                 "30": {
                     "DESAWAR": "60",
@@ -744,7 +834,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -758,7 +849,8 @@
                     "FARIDABAD": "86",
                     "GALI": "44",
                     "SHRI GANESH": "15",
-                    "PATNA": "54"
+                    "PATNA": "54",
+                    "PATNA CITY": "57"
                 },
                 "02": {
                     "DESAWAR": "71",
@@ -766,7 +858,8 @@
                     "FARIDABAD": "19",
                     "GALI": "76",
                     "SHRI GANESH": "89",
-                    "PATNA": "70"
+                    "PATNA": "70",
+                    "PATNA CITY": "08"
                 },
                 "03": {
                     "DESAWAR": "27",
@@ -774,7 +867,8 @@
                     "FARIDABAD": "69",
                     "GALI": "31",
                     "SHRI GANESH": "02",
-                    "PATNA": "31"
+                    "PATNA": "31",
+                    "PATNA CITY": "27"
                 },
                 "04": {
                     "DESAWAR": "72",
@@ -782,7 +876,8 @@
                     "FARIDABAD": "35",
                     "GALI": "92",
                     "SHRI GANESH": "49",
-                    "PATNA": "72"
+                    "PATNA": "72",
+                    "PATNA CITY": "18"
                 },
                 "05": {
                     "DESAWAR": "64",
@@ -790,7 +885,8 @@
                     "FARIDABAD": "67",
                     "GALI": "92",
                     "SHRI GANESH": "25",
-                    "PATNA": "18"
+                    "PATNA": "18",
+                    "PATNA CITY": "75"
                 },
                 "06": {
                     "DESAWAR": "81",
@@ -798,7 +894,8 @@
                     "FARIDABAD": "92",
                     "GALI": "81",
                     "SHRI GANESH": "23",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "81"
                 },
                 "07": {
                     "DESAWAR": "88",
@@ -806,7 +903,8 @@
                     "FARIDABAD": "41",
                     "GALI": "52",
                     "SHRI GANESH": "88",
-                    "PATNA": "42"
+                    "PATNA": "42",
+                    "PATNA CITY": "88"
                 },
                 "08": {
                     "DESAWAR": "96",
@@ -814,7 +912,8 @@
                     "FARIDABAD": "38",
                     "GALI": "99",
                     "SHRI GANESH": "55",
-                    "PATNA": "65"
+                    "PATNA": "65",
+                    "PATNA CITY": "94"
                 },
                 "09": {
                     "DESAWAR": "25",
@@ -822,7 +921,8 @@
                     "FARIDABAD": "39",
                     "GALI": "35",
                     "SHRI GANESH": "87",
-                    "PATNA": "29"
+                    "PATNA": "29",
+                    "PATNA CITY": "41"
                 },
                 "10": {
                     "DESAWAR": "41",
@@ -830,7 +930,8 @@
                     "FARIDABAD": "33",
                     "GALI": "90",
                     "SHRI GANESH": "71",
-                    "PATNA": "36"
+                    "PATNA": "36",
+                    "PATNA CITY": "63"
                 },
                 "11": {
                     "DESAWAR": "43",
@@ -838,7 +939,8 @@
                     "FARIDABAD": "61",
                     "GALI": "22",
                     "SHRI GANESH": "69",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "88"
                 },
                 "12": {
                     "DESAWAR": "31",
@@ -846,7 +948,8 @@
                     "FARIDABAD": "97",
                     "GALI": "96",
                     "SHRI GANESH": "28",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "35"
                 },
                 "13": {
                     "DESAWAR": "99",
@@ -854,7 +957,8 @@
                     "FARIDABAD": "73",
                     "GALI": "38",
                     "SHRI GANESH": "93",
-                    "PATNA": "95"
+                    "PATNA": "95",
+                    "PATNA CITY": "64"
                 },
                 "14": {
                     "DESAWAR": "38",
@@ -862,7 +966,8 @@
                     "FARIDABAD": "58",
                     "GALI": "66",
                     "SHRI GANESH": "78",
-                    "PATNA": "21"
+                    "PATNA": "21",
+                    "PATNA CITY": "39"
                 },
                 "15": {
                     "DESAWAR": "97",
@@ -870,7 +975,8 @@
                     "FARIDABAD": "89",
                     "GALI": "23",
                     "SHRI GANESH": "92",
-                    "PATNA": "63"
+                    "PATNA": "63",
+                    "PATNA CITY": "91"
                 },
                 "16": {
                     "DESAWAR": "49",
@@ -878,7 +984,8 @@
                     "FARIDABAD": "21",
                     "GALI": "43",
                     "SHRI GANESH": "90",
-                    "PATNA": "23"
+                    "PATNA": "23",
+                    "PATNA CITY": "51"
                 },
                 "17": {
                     "DESAWAR": "13",
@@ -886,7 +993,8 @@
                     "FARIDABAD": "82",
                     "GALI": "87",
                     "SHRI GANESH": "96",
-                    "PATNA": "35"
+                    "PATNA": "35",
+                    "PATNA CITY": "39"
                 },
                 "18": {
                     "DESAWAR": "81",
@@ -894,7 +1002,8 @@
                     "FARIDABAD": "81",
                     "GALI": "06",
                     "SHRI GANESH": "02",
-                    "PATNA": "44"
+                    "PATNA": "44",
+                    "PATNA CITY": "14"
                 },
                 "19": {
                     "DESAWAR": "32",
@@ -902,7 +1011,8 @@
                     "FARIDABAD": "58",
                     "GALI": "11",
                     "SHRI GANESH": "26",
-                    "PATNA": "58"
+                    "PATNA": "58",
+                    "PATNA CITY": "67"
                 },
                 "20": {
                     "DESAWAR": "73",
@@ -910,7 +1020,8 @@
                     "FARIDABAD": "61",
                     "GALI": "49",
                     "SHRI GANESH": "26",
-                    "PATNA": "87"
+                    "PATNA": "87",
+                    "PATNA CITY": "82"
                 },
                 "21": {
                     "DESAWAR": "41",
@@ -918,7 +1029,8 @@
                     "FARIDABAD": "45",
                     "GALI": "89",
                     "SHRI GANESH": "50",
-                    "PATNA": "75"
+                    "PATNA": "75",
+                    "PATNA CITY": "97"
                 },
                 "22": {
                     "DESAWAR": "61",
@@ -926,7 +1038,8 @@
                     "FARIDABAD": "12",
                     "GALI": "80",
                     "SHRI GANESH": "42",
-                    "PATNA": "08"
+                    "PATNA": "08",
+                    "PATNA CITY": "93"
                 },
                 "23": {
                     "DESAWAR": "44",
@@ -934,7 +1047,8 @@
                     "FARIDABAD": "55",
                     "GALI": "44",
                     "SHRI GANESH": "39",
-                    "PATNA": "66"
+                    "PATNA": "66",
+                    "PATNA CITY": "44"
                 },
                 "24": {
                     "DESAWAR": "34",
@@ -942,7 +1056,8 @@
                     "FARIDABAD": "63",
                     "GALI": "89",
                     "SHRI GANESH": "93",
-                    "PATNA": "95"
+                    "PATNA": "95",
+                    "PATNA CITY": "26"
                 },
                 "25": {
                     "DESAWAR": "19",
@@ -950,7 +1065,8 @@
                     "FARIDABAD": "78",
                     "GALI": "87",
                     "SHRI GANESH": "50",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "20"
                 },
                 "26": {
                     "DESAWAR": "92",
@@ -958,7 +1074,8 @@
                     "FARIDABAD": "96",
                     "GALI": "54",
                     "SHRI GANESH": "01",
-                    "PATNA": "41"
+                    "PATNA": "41",
+                    "PATNA CITY": "06"
                 },
                 "27": {
                     "DESAWAR": "43",
@@ -966,7 +1083,8 @@
                     "FARIDABAD": "50",
                     "GALI": "20",
                     "SHRI GANESH": "36",
-                    "PATNA": "65"
+                    "PATNA": "65",
+                    "PATNA CITY": "43"
                 },
                 "28": {
                     "DESAWAR": "29",
@@ -974,7 +1092,8 @@
                     "FARIDABAD": "75",
                     "GALI": "53",
                     "SHRI GANESH": "21",
-                    "PATNA": "84"
+                    "PATNA": "84",
+                    "PATNA CITY": "63"
                 },
                 "29": {
                     "DESAWAR": "53",
@@ -982,7 +1101,8 @@
                     "FARIDABAD": "45",
                     "GALI": "48",
                     "SHRI GANESH": "62",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "53"
                 },
                 "30": {
                     "DESAWAR": "78",
@@ -990,7 +1110,8 @@
                     "FARIDABAD": "94",
                     "GALI": "09",
                     "SHRI GANESH": "31",
-                    "PATNA": "42"
+                    "PATNA": "42",
+                    "PATNA CITY": "78"
                 },
                 "31": {
                     "DESAWAR": "62",
@@ -998,7 +1119,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -1012,7 +1134,8 @@
                     "FARIDABAD": "42",
                     "GALI": "58",
                     "SHRI GANESH": "12",
-                    "PATNA": "18"
+                    "PATNA": "18",
+                    "PATNA CITY": "87"
                 },
                 "02": {
                     "DESAWAR": "65",
@@ -1020,7 +1143,8 @@
                     "FARIDABAD": "96",
                     "GALI": "92",
                     "SHRI GANESH": "28",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "21"
                 },
                 "03": {
                     "DESAWAR": "63",
@@ -1028,7 +1152,8 @@
                     "FARIDABAD": "81",
                     "GALI": "99",
                     "SHRI GANESH": "88",
-                    "PATNA": "81"
+                    "PATNA": "81",
+                    "PATNA CITY": "63"
                 },
                 "04": {
                     "DESAWAR": "44",
@@ -1036,7 +1161,8 @@
                     "FARIDABAD": "28",
                     "GALI": "23",
                     "SHRI GANESH": "39",
-                    "PATNA": "61"
+                    "PATNA": "61",
+                    "PATNA CITY": "44"
                 },
                 "05": {
                     "DESAWAR": "88",
@@ -1044,7 +1170,8 @@
                     "FARIDABAD": "36",
                     "GALI": "40",
                     "SHRI GANESH": "37",
-                    "PATNA": "09"
+                    "PATNA": "09",
+                    "PATNA CITY": "90"
                 },
                 "06": {
                     "DESAWAR": "18",
@@ -1052,7 +1179,8 @@
                     "FARIDABAD": "86",
                     "GALI": "78",
                     "SHRI GANESH": "40",
-                    "PATNA": "77"
+                    "PATNA": "77",
+                    "PATNA CITY": "20"
                 },
                 "07": {
                     "DESAWAR": "61",
@@ -1060,7 +1188,8 @@
                     "FARIDABAD": "28",
                     "GALI": "11",
                     "SHRI GANESH": "01",
-                    "PATNA": "92"
+                    "PATNA": "92",
+                    "PATNA CITY": "92"
                 },
                 "08": {
                     "DESAWAR": "06",
@@ -1068,7 +1197,8 @@
                     "FARIDABAD": "49",
                     "GALI": "25",
                     "SHRI GANESH": "76",
-                    "PATNA": "93"
+                    "PATNA": "93",
+                    "PATNA CITY": "06"
                 },
                 "09": {
                     "DESAWAR": "95",
@@ -1076,7 +1206,8 @@
                     "FARIDABAD": "66",
                     "GALI": "21",
                     "SHRI GANESH": "85",
-                    "PATNA": "35"
+                    "PATNA": "35",
+                    "PATNA CITY": "71"
                 },
                 "10": {
                     "DESAWAR": "24",
@@ -1084,7 +1215,8 @@
                     "FARIDABAD": "43",
                     "GALI": "52",
                     "SHRI GANESH": "84",
-                    "PATNA": "99"
+                    "PATNA": "99",
+                    "PATNA CITY": "55"
                 },
                 "11": {
                     "DESAWAR": "05",
@@ -1092,7 +1224,8 @@
                     "FARIDABAD": "51",
                     "GALI": "78",
                     "SHRI GANESH": "84",
-                    "PATNA": "05"
+                    "PATNA": "05",
+                    "PATNA CITY": "98"
                 },
                 "12": {
                     "DESAWAR": "33",
@@ -1100,7 +1233,8 @@
                     "FARIDABAD": "04",
                     "GALI": "14",
                     "SHRI GANESH": "82",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "29"
                 },
                 "13": {
                     "DESAWAR": "51",
@@ -1108,7 +1242,8 @@
                     "FARIDABAD": "07",
                     "GALI": "58",
                     "SHRI GANESH": "48",
-                    "PATNA": "82"
+                    "PATNA": "82",
+                    "PATNA CITY": "51"
                 },
                 "14": {
                     "DESAWAR": "05",
@@ -1116,7 +1251,8 @@
                     "FARIDABAD": "89",
                     "GALI": "70",
                     "SHRI GANESH": "81",
-                    "PATNA": "58"
+                    "PATNA": "58",
+                    "PATNA CITY": "33"
                 },
                 "15": {
                     "DESAWAR": "56",
@@ -1124,7 +1260,8 @@
                     "FARIDABAD": "55",
                     "GALI": "02",
                     "SHRI GANESH": "34",
-                    "PATNA": "24"
+                    "PATNA": "24",
+                    "PATNA CITY": "56"
                 },
                 "16": {
                     "DESAWAR": "42",
@@ -1132,7 +1269,8 @@
                     "FARIDABAD": "89",
                     "GALI": "74",
                     "SHRI GANESH": "73",
-                    "PATNA": "75"
+                    "PATNA": "75",
+                    "PATNA CITY": "47"
                 },
                 "17": {
                     "DESAWAR": "54",
@@ -1140,7 +1278,8 @@
                     "FARIDABAD": "46",
                     "GALI": "34",
                     "SHRI GANESH": "60",
-                    "PATNA": "69"
+                    "PATNA": "69",
+                    "PATNA CITY": "64"
                 },
                 "18": {
                     "DESAWAR": "97",
@@ -1148,7 +1287,8 @@
                     "FARIDABAD": "01",
                     "GALI": "20",
                     "SHRI GANESH": "60",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "96"
                 },
                 "19": {
                     "DESAWAR": "65",
@@ -1156,7 +1296,8 @@
                     "FARIDABAD": "24",
                     "GALI": "31",
                     "SHRI GANESH": "56",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "85"
                 },
                 "20": {
                     "DESAWAR": "68",
@@ -1164,7 +1305,8 @@
                     "FARIDABAD": "57",
                     "GALI": "97",
                     "SHRI GANESH": "70",
-                    "PATNA": "43"
+                    "PATNA": "43",
+                    "PATNA CITY": "39"
                 },
                 "21": {
                     "DESAWAR": "02",
@@ -1172,7 +1314,8 @@
                     "FARIDABAD": "48",
                     "GALI": "50",
                     "SHRI GANESH": "70",
-                    "PATNA": "37"
+                    "PATNA": "37",
+                    "PATNA CITY": "20"
                 },
                 "22": {
                     "DESAWAR": "82",
@@ -1180,7 +1323,8 @@
                     "FARIDABAD": "06",
                     "GALI": "35",
                     "SHRI GANESH": "82",
-                    "PATNA": "52"
+                    "PATNA": "52",
+                    "PATNA CITY": "72"
                 },
                 "23": {
                     "DESAWAR": "07",
@@ -1188,7 +1332,8 @@
                     "FARIDABAD": "17",
                     "GALI": "02",
                     "SHRI GANESH": "72",
-                    "PATNA": "96"
+                    "PATNA": "96",
+                    "PATNA CITY": "77"
                 },
                 "24": {
                     "DESAWAR": "81",
@@ -1196,7 +1341,8 @@
                     "FARIDABAD": "67",
                     "GALI": "42",
                     "SHRI GANESH": "20",
-                    "PATNA": "80"
+                    "PATNA": "80",
+                    "PATNA CITY": "81"
                 },
                 "25": {
                     "DESAWAR": "36",
@@ -1204,7 +1350,8 @@
                     "FARIDABAD": "55",
                     "GALI": "82",
                     "SHRI GANESH": "16",
-                    "PATNA": "49"
+                    "PATNA": "49",
+                    "PATNA CITY": "35"
                 },
                 "26": {
                     "DESAWAR": "94",
@@ -1212,7 +1359,8 @@
                     "FARIDABAD": "18",
                     "GALI": "51",
                     "SHRI GANESH": "08",
-                    "PATNA": "06"
+                    "PATNA": "06",
+                    "PATNA CITY": "77"
                 },
                 "27": {
                     "DESAWAR": "10",
@@ -1220,7 +1368,8 @@
                     "FARIDABAD": "72",
                     "GALI": "47",
                     "SHRI GANESH": "73",
-                    "PATNA": "18"
+                    "PATNA": "18",
+                    "PATNA CITY": "11"
                 },
                 "28": {
                     "DESAWAR": "89",
@@ -1228,7 +1377,8 @@
                     "FARIDABAD": "71",
                     "GALI": "79",
                     "SHRI GANESH": "01",
-                    "PATNA": "29"
+                    "PATNA": "29",
+                    "PATNA CITY": "89"
                 },
                 "29": {
                     "DESAWAR": "51",
@@ -1236,7 +1386,8 @@
                     "FARIDABAD": "33",
                     "GALI": "34",
                     "SHRI GANESH": "19",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "21"
                 },
                 "30": {
                     "DESAWAR": "56",
@@ -1244,7 +1395,8 @@
                     "FARIDABAD": "74",
                     "GALI": "12",
                     "SHRI GANESH": "95",
-                    "PATNA": "64"
+                    "PATNA": "64",
+                    "PATNA CITY": "56"
                 },
                 "31": {
                     "DESAWAR": "82",
@@ -1252,7 +1404,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -1266,7 +1419,8 @@
                     "FARIDABAD": "39",
                     "GALI": "05",
                     "SHRI GANESH": "02",
-                    "PATNA": "16"
+                    "PATNA": "16",
+                    "PATNA CITY": "68"
                 },
                 "02": {
                     "DESAWAR": "93",
@@ -1274,7 +1428,8 @@
                     "FARIDABAD": "90",
                     "GALI": "04",
                     "SHRI GANESH": "06",
-                    "PATNA": "26"
+                    "PATNA": "26",
+                    "PATNA CITY": "93"
                 },
                 "03": {
                     "DESAWAR": "78",
@@ -1282,7 +1437,8 @@
                     "FARIDABAD": "08",
                     "GALI": "37",
                     "SHRI GANESH": "67",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "48"
                 },
                 "04": {
                     "DESAWAR": "94",
@@ -1290,7 +1446,8 @@
                     "FARIDABAD": "40",
                     "GALI": "95",
                     "SHRI GANESH": "48",
-                    "PATNA": "39"
+                    "PATNA": "39",
+                    "PATNA CITY": "84"
                 },
                 "05": {
                     "DESAWAR": "18",
@@ -1298,7 +1455,8 @@
                     "FARIDABAD": "04",
                     "GALI": "40",
                     "SHRI GANESH": "36",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "19"
                 },
                 "06": {
                     "DESAWAR": "20",
@@ -1306,7 +1464,8 @@
                     "FARIDABAD": "35",
                     "GALI": "92",
                     "SHRI GANESH": "97",
-                    "PATNA": "75"
+                    "PATNA": "75",
+                    "PATNA CITY": "86"
                 },
                 "07": {
                     "DESAWAR": "99",
@@ -1314,7 +1473,8 @@
                     "FARIDABAD": "25",
                     "GALI": "28",
                     "SHRI GANESH": "31",
-                    "PATNA": "41"
+                    "PATNA": "41",
+                    "PATNA CITY": "45"
                 },
                 "08": {
                     "DESAWAR": "31",
@@ -1322,7 +1482,8 @@
                     "FARIDABAD": "10",
                     "GALI": "71",
                     "SHRI GANESH": "53",
-                    "PATNA": "59"
+                    "PATNA": "59",
+                    "PATNA CITY": "32"
                 },
                 "09": {
                     "DESAWAR": "94",
@@ -1330,7 +1491,8 @@
                     "FARIDABAD": "21",
                     "GALI": "07",
                     "SHRI GANESH": "66",
-                    "PATNA": "68"
+                    "PATNA": "68",
+                    "PATNA CITY": "57"
                 },
                 "10": {
                     "DESAWAR": "53",
@@ -1338,7 +1500,8 @@
                     "FARIDABAD": "30",
                     "GALI": "00",
                     "SHRI GANESH": "73",
-                    "PATNA": "83"
+                    "PATNA": "83",
+                    "PATNA CITY": "08"
                 },
                 "11": {
                     "DESAWAR": "99",
@@ -1346,7 +1509,8 @@
                     "FARIDABAD": "72",
                     "GALI": "90",
                     "SHRI GANESH": "56",
-                    "PATNA": "29"
+                    "PATNA": "29",
+                    "PATNA CITY": "74"
                 },
                 "12": {
                     "DESAWAR": "83",
@@ -1354,7 +1518,8 @@
                     "FARIDABAD": "14",
                     "GALI": "57",
                     "SHRI GANESH": "42",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "29"
                 },
                 "13": {
                     "DESAWAR": "29",
@@ -1362,7 +1527,8 @@
                     "FARIDABAD": "46",
                     "GALI": "88",
                     "SHRI GANESH": "09",
-                    "PATNA": "99"
+                    "PATNA": "99",
+                    "PATNA CITY": "75"
                 },
                 "14": {
                     "DESAWAR": "28",
@@ -1370,7 +1536,8 @@
                     "FARIDABAD": "84",
                     "GALI": "35",
                     "SHRI GANESH": "10",
-                    "PATNA": "32"
+                    "PATNA": "32",
+                    "PATNA CITY": "61"
                 },
                 "15": {
                     "DESAWAR": "54",
@@ -1378,7 +1545,8 @@
                     "FARIDABAD": "31",
                     "GALI": "18",
                     "SHRI GANESH": "16",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "54"
                 },
                 "16": {
                     "DESAWAR": "07",
@@ -1386,7 +1554,8 @@
                     "FARIDABAD": "59",
                     "GALI": "95",
                     "SHRI GANESH": "45",
-                    "PATNA": "64"
+                    "PATNA": "64",
+                    "PATNA CITY": "52"
                 },
                 "17": {
                     "DESAWAR": "97",
@@ -1394,7 +1563,8 @@
                     "FARIDABAD": "36",
                     "GALI": "49",
                     "SHRI GANESH": "12",
-                    "PATNA": "55"
+                    "PATNA": "55",
+                    "PATNA CITY": "47"
                 },
                 "18": {
                     "DESAWAR": "33",
@@ -1402,7 +1572,8 @@
                     "FARIDABAD": "01",
                     "GALI": "88",
                     "SHRI GANESH": "40",
-                    "PATNA": "86"
+                    "PATNA": "86",
+                    "PATNA CITY": "76"
                 },
                 "19": {
                     "DESAWAR": "63",
@@ -1410,7 +1581,8 @@
                     "FARIDABAD": "86",
                     "GALI": "88",
                     "SHRI GANESH": "29",
-                    "PATNA": "90"
+                    "PATNA": "90",
+                    "PATNA CITY": "83"
                 },
                 "20": {
                     "DESAWAR": "81",
@@ -1418,7 +1590,8 @@
                     "FARIDABAD": "29",
                     "GALI": "34",
                     "SHRI GANESH": "96",
-                    "PATNA": "43"
+                    "PATNA": "43",
+                    "PATNA CITY": "91"
                 },
                 "21": {
                     "DESAWAR": "78",
@@ -1426,7 +1599,8 @@
                     "FARIDABAD": "70",
                     "GALI": "36",
                     "SHRI GANESH": "30",
-                    "PATNA": "18"
+                    "PATNA": "18",
+                    "PATNA CITY": "78"
                 },
                 "22": {
                     "DESAWAR": "95",
@@ -1434,7 +1608,8 @@
                     "FARIDABAD": "89",
                     "GALI": "52",
                     "SHRI GANESH": "64",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "94"
                 },
                 "23": {
                     "DESAWAR": "61",
@@ -1442,7 +1617,8 @@
                     "FARIDABAD": "64",
                     "GALI": "66",
                     "SHRI GANESH": "90",
-                    "PATNA": "67"
+                    "PATNA": "67",
+                    "PATNA CITY": "61"
                 },
                 "24": {
                     "DESAWAR": "27",
@@ -1450,7 +1626,8 @@
                     "FARIDABAD": "12",
                     "GALI": "84",
                     "SHRI GANESH": "56",
-                    "PATNA": "37"
+                    "PATNA": "37",
+                    "PATNA CITY": "09"
                 },
                 "25": {
                     "DESAWAR": "68",
@@ -1458,7 +1635,8 @@
                     "FARIDABAD": "86",
                     "GALI": "12",
                     "SHRI GANESH": "92",
-                    "PATNA": "58"
+                    "PATNA": "58",
+                    "PATNA CITY": "36"
                 },
                 "26": {
                     "DESAWAR": "57",
@@ -1466,7 +1644,8 @@
                     "FARIDABAD": "99",
                     "GALI": "75",
                     "SHRI GANESH": "70",
-                    "PATNA": "29"
+                    "PATNA": "29",
+                    "PATNA CITY": "72"
                 },
                 "27": {
                     "DESAWAR": "53",
@@ -1474,7 +1653,8 @@
                     "FARIDABAD": "70",
                     "GALI": "83",
                     "SHRI GANESH": "83",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "53"
                 },
                 "28": {
                     "DESAWAR": "27",
@@ -1482,7 +1662,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -1496,7 +1677,8 @@
                     "FARIDABAD": "02",
                     "GALI": "92",
                     "SHRI GANESH": "36",
-                    "PATNA": "24"
+                    "PATNA": "24",
+                    "PATNA CITY": "45"
                 },
                 "02": {
                     "DESAWAR": "68",
@@ -1504,7 +1686,8 @@
                     "FARIDABAD": "91",
                     "GALI": "30",
                     "SHRI GANESH": "00",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "68"
                 },
                 "03": {
                     "DESAWAR": "49",
@@ -1512,7 +1695,8 @@
                     "FARIDABAD": "06",
                     "GALI": "17",
                     "SHRI GANESH": "17",
-                    "PATNA": "56"
+                    "PATNA": "56",
+                    "PATNA CITY": "76"
                 },
                 "04": {
                     "DESAWAR": "19",
@@ -1520,7 +1704,8 @@
                     "FARIDABAD": "66",
                     "GALI": "90",
                     "SHRI GANESH": "74",
-                    "PATNA": "37"
+                    "PATNA": "37",
+                    "PATNA CITY": "19"
                 },
                 "05": {
                     "DESAWAR": "54",
@@ -1528,7 +1713,8 @@
                     "FARIDABAD": "07",
                     "GALI": "74",
                     "SHRI GANESH": "14",
-                    "PATNA": "91"
+                    "PATNA": "91",
+                    "PATNA CITY": "57"
                 },
                 "06": {
                     "DESAWAR": "36",
@@ -1536,7 +1722,8 @@
                     "FARIDABAD": "36",
                     "GALI": "45",
                     "SHRI GANESH": "59",
-                    "PATNA": "83"
+                    "PATNA": "83",
+                    "PATNA CITY": "23"
                 },
                 "07": {
                     "DESAWAR": "38",
@@ -1544,7 +1731,8 @@
                     "FARIDABAD": "62",
                     "GALI": "22",
                     "SHRI GANESH": "57",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "81"
                 },
                 "08": {
                     "DESAWAR": "45",
@@ -1552,7 +1740,8 @@
                     "FARIDABAD": "29",
                     "GALI": "51",
                     "SHRI GANESH": "98",
-                    "PATNA": "52"
+                    "PATNA": "52",
+                    "PATNA CITY": "94"
                 },
                 "09": {
                     "DESAWAR": "65",
@@ -1560,7 +1749,8 @@
                     "FARIDABAD": "46",
                     "GALI": "99",
                     "SHRI GANESH": "94",
-                    "PATNA": "68"
+                    "PATNA": "68",
+                    "PATNA CITY": "65"
                 },
                 "10": {
                     "DESAWAR": "49",
@@ -1568,7 +1758,8 @@
                     "FARIDABAD": "79",
                     "GALI": "64",
                     "SHRI GANESH": "79",
-                    "PATNA": "19"
+                    "PATNA": "19",
+                    "PATNA CITY": "32"
                 },
                 "11": {
                     "DESAWAR": "09",
@@ -1576,7 +1767,8 @@
                     "FARIDABAD": "28",
                     "GALI": "24",
                     "SHRI GANESH": "76",
-                    "PATNA": "45"
+                    "PATNA": "45",
+                    "PATNA CITY": "04"
                 },
                 "12": {
                     "DESAWAR": "25",
@@ -1584,7 +1776,8 @@
                     "FARIDABAD": "90",
                     "GALI": "09",
                     "SHRI GANESH": "15",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "87"
                 },
                 "13": {
                     "DESAWAR": "03",
@@ -1592,7 +1785,8 @@
                     "FARIDABAD": "49",
                     "GALI": "20",
                     "SHRI GANESH": "36",
-                    "PATNA": "49"
+                    "PATNA": "49",
+                    "PATNA CITY": "42"
                 },
                 "14": {
                     "DESAWAR": "95",
@@ -1600,7 +1794,8 @@
                     "FARIDABAD": "82",
                     "GALI": "74",
                     "SHRI GANESH": "16",
-                    "PATNA": "23"
+                    "PATNA": "23",
+                    "PATNA CITY": "59"
                 },
                 "15": {
                     "DESAWAR": "39",
@@ -1608,7 +1803,8 @@
                     "FARIDABAD": "39",
                     "GALI": "82",
                     "SHRI GANESH": "48",
-                    "PATNA": "61"
+                    "PATNA": "61",
+                    "PATNA CITY": "76"
                 },
                 "16": {
                     "DESAWAR": "28",
@@ -1616,7 +1812,8 @@
                     "FARIDABAD": "68",
                     "GALI": "17",
                     "SHRI GANESH": "61",
-                    "PATNA": "69"
+                    "PATNA": "69",
+                    "PATNA CITY": "68"
                 },
                 "17": {
                     "DESAWAR": "47",
@@ -1624,7 +1821,8 @@
                     "FARIDABAD": "58",
                     "GALI": "45",
                     "SHRI GANESH": "45",
-                    "PATNA": "42"
+                    "PATNA": "42",
+                    "PATNA CITY": "47"
                 },
                 "18": {
                     "DESAWAR": "82",
@@ -1632,7 +1830,8 @@
                     "FARIDABAD": "90",
                     "GALI": "76",
                     "SHRI GANESH": "33",
-                    "PATNA": "79"
+                    "PATNA": "79",
+                    "PATNA CITY": "31"
                 },
                 "19": {
                     "DESAWAR": "50",
@@ -1640,7 +1839,8 @@
                     "FARIDABAD": "87",
                     "GALI": "43",
                     "SHRI GANESH": "33",
-                    "PATNA": "81"
+                    "PATNA": "81",
+                    "PATNA CITY": "34"
                 },
                 "20": {
                     "DESAWAR": "12",
@@ -1648,7 +1848,8 @@
                     "FARIDABAD": "74",
                     "GALI": "85",
                     "SHRI GANESH": "07",
-                    "PATNA": "19"
+                    "PATNA": "19",
+                    "PATNA CITY": "50"
                 },
                 "21": {
                     "DESAWAR": "16",
@@ -1656,7 +1857,8 @@
                     "FARIDABAD": "49",
                     "GALI": "01",
                     "SHRI GANESH": "26",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "33"
                 },
                 "22": {
                     "DESAWAR": "70",
@@ -1664,7 +1866,8 @@
                     "FARIDABAD": "40",
                     "GALI": "70",
                     "SHRI GANESH": "34",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "70"
                 },
                 "23": {
                     "DESAWAR": "27",
@@ -1672,7 +1875,8 @@
                     "FARIDABAD": "59",
                     "GALI": "86",
                     "SHRI GANESH": "71",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "29"
                 },
                 "24": {
                     "DESAWAR": "66",
@@ -1680,7 +1884,8 @@
                     "FARIDABAD": "28",
                     "GALI": "82",
                     "SHRI GANESH": "02",
-                    "PATNA": "36"
+                    "PATNA": "36",
+                    "PATNA CITY": "19"
                 },
                 "25": {
                     "DESAWAR": "13",
@@ -1688,7 +1893,8 @@
                     "FARIDABAD": "48",
                     "GALI": "30",
                     "SHRI GANESH": "90",
-                    "PATNA": "13"
+                    "PATNA": "13",
+                    "PATNA CITY": "90"
                 },
                 "26": {
                     "DESAWAR": "92",
@@ -1696,7 +1902,8 @@
                     "FARIDABAD": "43",
                     "GALI": "68",
                     "SHRI GANESH": "42",
-                    "PATNA": "68"
+                    "PATNA": "68",
+                    "PATNA CITY": "42"
                 },
                 "27": {
                     "DESAWAR": "26",
@@ -1704,7 +1911,8 @@
                     "FARIDABAD": "82",
                     "GALI": "83",
                     "SHRI GANESH": "16",
-                    "PATNA": "96"
+                    "PATNA": "96",
+                    "PATNA CITY": "26"
                 },
                 "28": {
                     "DESAWAR": "40",
@@ -1712,7 +1920,8 @@
                     "FARIDABAD": "35",
                     "GALI": "26",
                     "SHRI GANESH": "05",
-                    "PATNA": "55"
+                    "PATNA": "55",
+                    "PATNA CITY": "49"
                 },
                 "29": {
                     "DESAWAR": "93",
@@ -1720,7 +1929,8 @@
                     "FARIDABAD": "00",
                     "GALI": "21",
                     "SHRI GANESH": "00",
-                    "PATNA": "78"
+                    "PATNA": "78",
+                    "PATNA CITY": "92"
                 },
                 "30": {
                     "DESAWAR": "23",
@@ -1728,7 +1938,8 @@
                     "FARIDABAD": "84",
                     "GALI": "39",
                     "SHRI GANESH": "14",
-                    "PATNA": "47"
+                    "PATNA": "47",
+                    "PATNA CITY": "23"
                 },
                 "31": {
                     "DESAWAR": "81",
@@ -1736,7 +1947,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -1750,7 +1962,8 @@
                     "FARIDABAD": "35",
                     "GALI": "97",
                     "SHRI GANESH": "43",
-                    "PATNA": "08"
+                    "PATNA": "08",
+                    "PATNA CITY": "56"
                 },
                 "02": {
                     "DESAWAR": "81",
@@ -1758,7 +1971,8 @@
                     "FARIDABAD": "33",
                     "GALI": "63",
                     "SHRI GANESH": "55",
-                    "PATNA": "79"
+                    "PATNA": "79",
+                    "PATNA CITY": "28"
                 },
                 "03": {
                     "DESAWAR": "41",
@@ -1766,7 +1980,8 @@
                     "FARIDABAD": "99",
                     "GALI": "62",
                     "SHRI GANESH": "58",
-                    "PATNA": "23"
+                    "PATNA": "23",
+                    "PATNA CITY": "13"
                 },
                 "04": {
                     "DESAWAR": "97",
@@ -1774,7 +1989,8 @@
                     "FARIDABAD": "59",
                     "GALI": "75",
                     "SHRI GANESH": "39",
-                    "PATNA": "82"
+                    "PATNA": "82",
+                    "PATNA CITY": "42"
                 },
                 "05": {
                     "DESAWAR": "71",
@@ -1782,7 +1998,8 @@
                     "FARIDABAD": "29",
                     "GALI": "59",
                     "SHRI GANESH": "87",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "71"
                 },
                 "06": {
                     "DESAWAR": "47",
@@ -1790,7 +2007,8 @@
                     "FARIDABAD": "39",
                     "GALI": "46",
                     "SHRI GANESH": "43",
-                    "PATNA": "96"
+                    "PATNA": "96",
+                    "PATNA CITY": "37"
                 },
                 "07": {
                     "DESAWAR": "44",
@@ -1798,7 +2016,8 @@
                     "FARIDABAD": "07",
                     "GALI": "01",
                     "SHRI GANESH": "96",
-                    "PATNA": "18"
+                    "PATNA": "18",
+                    "PATNA CITY": "87"
                 },
                 "08": {
                     "DESAWAR": "05",
@@ -1806,7 +2025,8 @@
                     "FARIDABAD": "91",
                     "GALI": "42",
                     "SHRI GANESH": "83",
-                    "PATNA": "41"
+                    "PATNA": "41",
+                    "PATNA CITY": "45"
                 },
                 "09": {
                     "DESAWAR": "67",
@@ -1814,7 +2034,8 @@
                     "FARIDABAD": "47",
                     "GALI": "47",
                     "SHRI GANESH": "69",
-                    "PATNA": "65"
+                    "PATNA": "65",
+                    "PATNA CITY": "69"
                 },
                 "10": {
                     "DESAWAR": "85",
@@ -1822,7 +2043,8 @@
                     "FARIDABAD": "05",
                     "GALI": "11",
                     "SHRI GANESH": "85",
-                    "PATNA": "57"
+                    "PATNA": "57",
+                    "PATNA CITY": "94"
                 },
                 "11": {
                     "DESAWAR": "85",
@@ -1830,7 +2052,8 @@
                     "FARIDABAD": "04",
                     "GALI": "24",
                     "SHRI GANESH": "48",
-                    "PATNA": "21"
+                    "PATNA": "21",
+                    "PATNA CITY": "06"
                 },
                 "12": {
                     "DESAWAR": "92",
@@ -1838,7 +2061,8 @@
                     "FARIDABAD": "65",
                     "GALI": "06",
                     "SHRI GANESH": "65",
-                    "PATNA": "47"
+                    "PATNA": "47",
+                    "PATNA CITY": "29"
                 },
                 "13": {
                     "DESAWAR": "82",
@@ -1846,7 +2070,8 @@
                     "FARIDABAD": "33",
                     "GALI": "39",
                     "SHRI GANESH": "49",
-                    "PATNA": "32"
+                    "PATNA": "32",
+                    "PATNA CITY": "17"
                 },
                 "14": {
                     "DESAWAR": "00",
@@ -1854,7 +2079,8 @@
                     "FARIDABAD": "04",
                     "GALI": "02",
                     "SHRI GANESH": "42",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "98"
                 },
                 "15": {
                     "DESAWAR": "49",
@@ -1862,7 +2088,8 @@
                     "FARIDABAD": "64",
                     "GALI": "82",
                     "SHRI GANESH": "29",
-                    "PATNA": "76"
+                    "PATNA": "76",
+                    "PATNA CITY": "49"
                 },
                 "16": {
                     "DESAWAR": "93",
@@ -1870,7 +2097,8 @@
                     "FARIDABAD": "03",
                     "GALI": "15",
                     "SHRI GANESH": "52",
-                    "PATNA": "52"
+                    "PATNA": "52",
+                    "PATNA CITY": "39"
                 },
                 "17": {
                     "DESAWAR": "99",
@@ -1878,7 +2106,8 @@
                     "FARIDABAD": "44",
                     "GALI": "40",
                     "SHRI GANESH": "69",
-                    "PATNA": "64"
+                    "PATNA": "64",
+                    "PATNA CITY": "90"
                 },
                 "18": {
                     "DESAWAR": "15",
@@ -1886,7 +2115,8 @@
                     "FARIDABAD": "21",
                     "GALI": "69",
                     "SHRI GANESH": "67",
-                    "PATNA": "25"
+                    "PATNA": "25",
+                    "PATNA CITY": "26"
                 },
                 "19": {
                     "DESAWAR": "93",
@@ -1894,7 +2124,8 @@
                     "FARIDABAD": "60",
                     "GALI": "46",
                     "SHRI GANESH": "27",
-                    "PATNA": "91"
+                    "PATNA": "91",
+                    "PATNA CITY": "63"
                 },
                 "20": {
                     "DESAWAR": "87",
@@ -1902,7 +2133,8 @@
                     "FARIDABAD": "64",
                     "GALI": "62",
                     "SHRI GANESH": "91",
-                    "PATNA": "84"
+                    "PATNA": "84",
+                    "PATNA CITY": "52"
                 },
                 "21": {
                     "DESAWAR": "41",
@@ -1910,7 +2142,8 @@
                     "FARIDABAD": "04",
                     "GALI": "25",
                     "SHRI GANESH": "38",
-                    "PATNA": "13"
+                    "PATNA": "13",
+                    "PATNA CITY": "41"
                 },
                 "22": {
                     "DESAWAR": "62",
@@ -1918,7 +2151,8 @@
                     "FARIDABAD": "60",
                     "GALI": "95",
                     "SHRI GANESH": "38",
-                    "PATNA": "50"
+                    "PATNA": "50",
+                    "PATNA CITY": "67"
                 },
                 "23": {
                     "DESAWAR": "44",
@@ -1926,7 +2160,8 @@
                     "FARIDABAD": "68",
                     "GALI": "33",
                     "SHRI GANESH": "37",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "75"
                 },
                 "24": {
                     "DESAWAR": "79",
@@ -1934,7 +2169,8 @@
                     "FARIDABAD": "91",
                     "GALI": "14",
                     "SHRI GANESH": "22",
-                    "PATNA": "19"
+                    "PATNA": "19",
+                    "PATNA CITY": "24"
                 },
                 "25": {
                     "DESAWAR": "11",
@@ -1942,7 +2178,8 @@
                     "FARIDABAD": "59",
                     "GALI": "38",
                     "SHRI GANESH": "82",
-                    "PATNA": "42"
+                    "PATNA": "42",
+                    "PATNA CITY": "89"
                 },
                 "26": {
                     "DESAWAR": "88",
@@ -1950,7 +2187,8 @@
                     "FARIDABAD": "31",
                     "GALI": "09",
                     "SHRI GANESH": "68",
-                    "PATNA": "68"
+                    "PATNA": "68",
+                    "PATNA CITY": "47"
                 },
                 "27": {
                     "DESAWAR": "15",
@@ -1958,7 +2196,8 @@
                     "FARIDABAD": "65",
                     "GALI": "19",
                     "SHRI GANESH": "63",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "97"
                 },
                 "28": {
                     "DESAWAR": "44",
@@ -1966,7 +2205,8 @@
                     "FARIDABAD": "25",
                     "GALI": "08",
                     "SHRI GANESH": "58",
-                    "PATNA": "39"
+                    "PATNA": "39",
+                    "PATNA CITY": "34"
                 },
                 "29": {
                     "DESAWAR": "56",
@@ -1974,7 +2214,8 @@
                     "FARIDABAD": "13",
                     "GALI": "85",
                     "SHRI GANESH": "64",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "55"
                 },
                 "30": {
                     "DESAWAR": "56",
@@ -1982,7 +2223,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "06"
                 }
             }
         },
@@ -1996,7 +2238,8 @@
                     "FARIDABAD": "63",
                     "GALI": "54",
                     "SHRI GANESH": "48",
-                    "PATNA": "39"
+                    "PATNA": "39",
+                    "PATNA CITY": "51"
                 },
                 "02": {
                     "DESAWAR": "79",
@@ -2004,7 +2247,8 @@
                     "FARIDABAD": "72",
                     "GALI": "42",
                     "SHRI GANESH": "41",
-                    "PATNA": "82"
+                    "PATNA": "82",
+                    "PATNA CITY": "78"
                 },
                 "03": {
                     "DESAWAR": "00",
@@ -2012,7 +2256,8 @@
                     "FARIDABAD": "84",
                     "GALI": "74",
                     "SHRI GANESH": "86",
-                    "PATNA": "21"
+                    "PATNA": "21",
+                    "PATNA CITY": "33"
                 },
                 "04": {
                     "DESAWAR": "27",
@@ -2020,7 +2265,8 @@
                     "FARIDABAD": "08",
                     "GALI": "14",
                     "SHRI GANESH": "78",
-                    "PATNA": "63"
+                    "PATNA": "63",
+                    "PATNA CITY": "49"
                 },
                 "05": {
                     "DESAWAR": "06",
@@ -2028,7 +2274,8 @@
                     "FARIDABAD": "12",
                     "GALI": "87",
                     "SHRI GANESH": "69",
-                    "PATNA": "48"
+                    "PATNA": "48",
+                    "PATNA CITY": "64"
                 },
                 "06": {
                     "DESAWAR": "03",
@@ -2036,7 +2283,8 @@
                     "FARIDABAD": "70",
                     "GALI": "38",
                     "SHRI GANESH": "77",
-                    "PATNA": "57"
+                    "PATNA": "57",
+                    "PATNA CITY": "25"
                 },
                 "07": {
                     "DESAWAR": "84",
@@ -2044,7 +2292,8 @@
                     "FARIDABAD": "69",
                     "GALI": "33",
                     "SHRI GANESH": "94",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "82"
                 },
                 "08": {
                     "DESAWAR": "06",
@@ -2052,7 +2301,8 @@
                     "FARIDABAD": "48",
                     "GALI": "97",
                     "SHRI GANESH": "24",
-                    "PATNA": "16"
+                    "PATNA": "16",
+                    "PATNA CITY": "06"
                 },
                 "09": {
                     "DESAWAR": "19",
@@ -2060,7 +2310,8 @@
                     "FARIDABAD": "86",
                     "GALI": "64",
                     "SHRI GANESH": "08",
-                    "PATNA": "95"
+                    "PATNA": "95",
+                    "PATNA CITY": "97"
                 },
                 "10": {
                     "DESAWAR": "62",
@@ -2068,7 +2319,8 @@
                     "FARIDABAD": "46",
                     "GALI": "56",
                     "SHRI GANESH": "22",
-                    "PATNA": "00"
+                    "PATNA": "00",
+                    "PATNA CITY": "10"
                 },
                 "11": {
                     "DESAWAR": "10",
@@ -2076,7 +2328,8 @@
                     "FARIDABAD": "22",
                     "GALI": "83",
                     "SHRI GANESH": "17",
-                    "PATNA": "81"
+                    "PATNA": "81",
+                    "PATNA CITY": "74"
                 },
                 "12": {
                     "DESAWAR": "08",
@@ -2084,7 +2337,8 @@
                     "FARIDABAD": "28",
                     "GALI": "47",
                     "SHRI GANESH": "80",
-                    "PATNA": "20"
+                    "PATNA": "20",
+                    "PATNA CITY": "53"
                 },
                 "13": {
                     "DESAWAR": "46",
@@ -2092,7 +2346,8 @@
                     "FARIDABAD": "01",
                     "GALI": "58",
                     "SHRI GANESH": "12",
-                    "PATNA": "91"
+                    "PATNA": "91",
+                    "PATNA CITY": "46"
                 },
                 "14": {
                     "DESAWAR": "76",
@@ -2100,7 +2355,8 @@
                     "FARIDABAD": "05",
                     "GALI": "58",
                     "SHRI GANESH": "83",
-                    "PATNA": "19"
+                    "PATNA": "19",
+                    "PATNA CITY": "74"
                 },
                 "15": {
                     "DESAWAR": "74",
@@ -2108,7 +2364,8 @@
                     "FARIDABAD": "09",
                     "GALI": "35",
                     "SHRI GANESH": "79",
-                    "PATNA": "73"
+                    "PATNA": "73",
+                    "PATNA CITY": "96"
                 },
                 "16": {
                     "DESAWAR": "73",
@@ -2116,7 +2373,8 @@
                     "FARIDABAD": "80",
                     "GALI": "72",
                     "SHRI GANESH": "52",
-                    "PATNA": "45"
+                    "PATNA": "45",
+                    "PATNA CITY": "27"
                 },
                 "17": {
                     "DESAWAR": "76",
@@ -2124,7 +2382,8 @@
                     "FARIDABAD": "69",
                     "GALI": "85",
                     "SHRI GANESH": "20",
-                    "PATNA": "17"
+                    "PATNA": "17",
+                    "PATNA CITY": "75"
                 },
                 "18": {
                     "DESAWAR": "88",
@@ -2132,7 +2391,8 @@
                     "FARIDABAD": "13",
                     "GALI": "46",
                     "SHRI GANESH": "13",
-                    "PATNA": "99"
+                    "PATNA": "99",
+                    "PATNA CITY": "47"
                 },
                 "19": {
                     "DESAWAR": "39",
@@ -2140,7 +2400,8 @@
                     "FARIDABAD": "49",
                     "GALI": "86",
                     "SHRI GANESH": "03",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "23"
                 },
                 "20": {
                     "DESAWAR": "74",
@@ -2148,7 +2409,8 @@
                     "FARIDABAD": "79",
                     "GALI": "19",
                     "SHRI GANESH": "86",
-                    "PATNA": "58"
+                    "PATNA": "58",
+                    "PATNA CITY": "84"
                 },
                 "21": {
                     "DESAWAR": "96",
@@ -2156,7 +2418,8 @@
                     "FARIDABAD": "53",
                     "GALI": "60",
                     "SHRI GANESH": "51",
-                    "PATNA": "87"
+                    "PATNA": "87",
+                    "PATNA CITY": "28"
                 },
                 "22": {
                     "DESAWAR": "71",
@@ -2164,7 +2427,8 @@
                     "FARIDABAD": "01",
                     "GALI": "43",
                     "SHRI GANESH": "85",
-                    "PATNA": "26"
+                    "PATNA": "26",
+                    "PATNA CITY": "90"
                 },
                 "23": {
                     "DESAWAR": "16",
@@ -2172,7 +2436,8 @@
                     "FARIDABAD": "77",
                     "GALI": "23",
                     "SHRI GANESH": "73",
-                    "PATNA": "75"
+                    "PATNA": "75",
+                    "PATNA CITY": "87"
                 },
                 "24": {
                     "DESAWAR": "97",
@@ -2180,7 +2445,8 @@
                     "FARIDABAD": "21",
                     "GALI": "21",
                     "SHRI GANESH": "43",
-                    "PATNA": "24"
+                    "PATNA": "24",
+                    "PATNA CITY": "41"
                 },
                 "25": {
                     "DESAWAR": "73",
@@ -2188,7 +2454,8 @@
                     "FARIDABAD": "54",
                     "GALI": "72",
                     "SHRI GANESH": "79",
-                    "PATNA": "82"
+                    "PATNA": "82",
+                    "PATNA CITY": "73"
                 },
                 "26": {
                     "DESAWAR": "09",
@@ -2196,7 +2463,8 @@
                     "FARIDABAD": "13",
                     "GALI": "79",
                     "SHRI GANESH": "44",
-                    "PATNA": "56"
+                    "PATNA": "56",
+                    "PATNA CITY": "09"
                 },
                 "27": {
                     "DESAWAR": "83",
@@ -2204,7 +2472,8 @@
                     "FARIDABAD": "45",
                     "GALI": "17",
                     "SHRI GANESH": "07",
-                    "PATNA": "35"
+                    "PATNA": "35",
+                    "PATNA CITY": "57"
                 },
                 "28": {
                     "DESAWAR": "64",
@@ -2212,7 +2481,8 @@
                     "FARIDABAD": "25",
                     "GALI": "81",
                     "SHRI GANESH": "08",
-                    "PATNA": "11"
+                    "PATNA": "11",
+                    "PATNA CITY": "64"
                 },
                 "29": {
                     "DESAWAR": "53",
@@ -2220,7 +2490,8 @@
                     "FARIDABAD": "76",
                     "GALI": "06",
                     "SHRI GANESH": "02",
-                    "PATNA": "40"
+                    "PATNA": "40",
+                    "PATNA CITY": "37"
                 },
                 "30": {
                     "DESAWAR": "71",
@@ -2228,7 +2499,8 @@
                     "FARIDABAD": "43",
                     "GALI": "78",
                     "SHRI GANESH": "52",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "45"
                 },
                 "31": {
                     "DESAWAR": "36",
@@ -2236,7 +2508,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -2250,7 +2523,8 @@
                     "FARIDABAD": "03",
                     "GALI": "53",
                     "SHRI GANESH": "22",
-                    "PATNA": "94"
+                    "PATNA": "94",
+                    "PATNA CITY": "78"
                 },
                 "02": {
                     "DESAWAR": "11",
@@ -2258,7 +2532,8 @@
                     "FARIDABAD": "51",
                     "GALI": "50",
                     "SHRI GANESH": "03",
-                    "PATNA": "39"
+                    "PATNA": "39",
+                    "PATNA CITY": "43"
                 },
                 "03": {
                     "DESAWAR": "48",
@@ -2266,7 +2541,8 @@
                     "FARIDABAD": "65",
                     "GALI": "02",
                     "SHRI GANESH": "88",
-                    "PATNA": "28"
+                    "PATNA": "28",
+                    "PATNA CITY": "61"
                 },
                 "04": {
                     "DESAWAR": "47",
@@ -2274,7 +2550,8 @@
                     "FARIDABAD": "04",
                     "GALI": "16",
                     "SHRI GANESH": "16",
-                    "PATNA": "57"
+                    "PATNA": "57",
+                    "PATNA CITY": "54"
                 },
                 "05": {
                     "DESAWAR": "78",
@@ -2282,7 +2559,8 @@
                     "FARIDABAD": "72",
                     "GALI": "16",
                     "SHRI GANESH": "90",
-                    "PATNA": "61"
+                    "PATNA": "61",
+                    "PATNA CITY": "87"
                 },
                 "06": {
                     "DESAWAR": "10",
@@ -2290,7 +2568,8 @@
                     "FARIDABAD": "32",
                     "GALI": "55",
                     "SHRI GANESH": "05",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "09"
                 },
                 "07": {
                     "DESAWAR": "28",
@@ -2298,7 +2577,8 @@
                     "FARIDABAD": "88",
                     "GALI": "78",
                     "SHRI GANESH": "37",
-                    "PATNA": "85"
+                    "PATNA": "85",
+                    "PATNA CITY": "26"
                 },
                 "08": {
                     "DESAWAR": "62",
@@ -2306,7 +2586,8 @@
                     "FARIDABAD": "39",
                     "GALI": "66",
                     "SHRI GANESH": "60",
-                    "PATNA": "73"
+                    "PATNA": "73",
+                    "PATNA CITY": "32"
                 },
                 "09": {
                     "DESAWAR": "26",
@@ -2314,7 +2595,8 @@
                     "FARIDABAD": "35",
                     "GALI": "00",
                     "SHRI GANESH": "01",
-                    "PATNA": "12"
+                    "PATNA": "12",
+                    "PATNA CITY": "92"
                 },
                 "10": {
                     "DESAWAR": "65",
@@ -2322,7 +2604,8 @@
                     "FARIDABAD": "85",
                     "GALI": "31",
                     "SHRI GANESH": "48",
-                    "PATNA": "67"
+                    "PATNA": "67",
+                    "PATNA CITY": "64"
                 },
                 "11": {
                     "DESAWAR": "31",
@@ -2330,7 +2613,8 @@
                     "FARIDABAD": "75",
                     "GALI": "07",
                     "SHRI GANESH": "60",
-                    "PATNA": "32"
+                    "PATNA": "32",
+                    "PATNA CITY": "68"
                 },
                 "12": {
                     "DESAWAR": "52",
@@ -2338,7 +2622,8 @@
                     "FARIDABAD": "79",
                     "GALI": "59",
                     "SHRI GANESH": "49",
-                    "PATNA": "45"
+                    "PATNA": "45",
+                    "PATNA CITY": "41"
                 },
                 "13": {
                     "DESAWAR": "71",
@@ -2346,7 +2631,8 @@
                     "FARIDABAD": "58",
                     "GALI": "10",
                     "SHRI GANESH": "73",
-                    "PATNA": "21"
+                    "PATNA": "21",
+                    "PATNA CITY": "73"
                 },
                 "14": {
                     "DESAWAR": "40",
@@ -2354,7 +2640,8 @@
                     "FARIDABAD": "23",
                     "GALI": "96",
                     "SHRI GANESH": "08",
-                    "PATNA": "64"
+                    "PATNA": "64",
+                    "PATNA CITY": "39"
                 },
                 "15": {
                     "DESAWAR": "05",
@@ -2362,7 +2649,8 @@
                     "FARIDABAD": "31",
                     "GALI": "60",
                     "SHRI GANESH": "47",
-                    "PATNA": "50"
+                    "PATNA": "50",
+                    "PATNA CITY": "60"
                 },
                 "16": {
                     "DESAWAR": "86",
@@ -2370,7 +2658,8 @@
                     "FARIDABAD": "57",
                     "GALI": "70",
                     "SHRI GANESH": "97",
-                    "PATNA": "47"
+                    "PATNA": "47",
+                    "PATNA CITY": "86"
                 },
                 "17": {
                     "DESAWAR": "03",
@@ -2378,7 +2667,8 @@
                     "FARIDABAD": "13",
                     "GALI": "75",
                     "SHRI GANESH": "49",
-                    "PATNA": "36"
+                    "PATNA": "36",
+                    "PATNA CITY": "08"
                 },
                 "18": {
                     "DESAWAR": "43",
@@ -2386,7 +2676,8 @@
                     "FARIDABAD": "77",
                     "GALI": "96",
                     "SHRI GANESH": "39",
-                    "PATNA": "26"
+                    "PATNA": "26",
+                    "PATNA CITY": "43"
                 },
                 "19": {
                     "DESAWAR": "37",
@@ -2394,7 +2685,8 @@
                     "FARIDABAD": "01",
                     "GALI": "93",
                     "SHRI GANESH": "14",
-                    "PATNA": "13"
+                    "PATNA": "13",
+                    "PATNA CITY": "37"
                 },
                 "20": {
                     "DESAWAR": "13",
@@ -2402,7 +2694,8 @@
                     "FARIDABAD": "56",
                     "GALI": "56",
                     "SHRI GANESH": "90",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "13"
                 },
                 "21": {
                     "DESAWAR": "56",
@@ -2410,7 +2703,8 @@
                     "FARIDABAD": "59",
                     "GALI": "61",
                     "SHRI GANESH": "14",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "54"
                 },
                 "22": {
                     "DESAWAR": "76",
@@ -2418,7 +2712,8 @@
                     "FARIDABAD": "19",
                     "GALI": "86",
                     "SHRI GANESH": "60",
-                    "PATNA": "56"
+                    "PATNA": "56",
+                    "PATNA CITY": "76"
                 },
                 "23": {
                     "DESAWAR": "70",
@@ -2426,7 +2721,8 @@
                     "FARIDABAD": "77",
                     "GALI": "40",
                     "SHRI GANESH": "54",
-                    "PATNA": "41"
+                    "PATNA": "41",
+                    "PATNA CITY": "70"
                 },
                 "24": {
                     "DESAWAR": "97",
@@ -2434,7 +2730,8 @@
                     "FARIDABAD": "14",
                     "GALI": "13",
                     "SHRI GANESH": "31",
-                    "PATNA": "52"
+                    "PATNA": "52",
+                    "PATNA CITY": "95"
                 },
                 "25": {
                     "DESAWAR": "46",
@@ -2442,7 +2739,8 @@
                     "FARIDABAD": "66",
                     "GALI": "54",
                     "SHRI GANESH": "58",
-                    "PATNA": "68"
+                    "PATNA": "68",
+                    "PATNA CITY": "46"
                 },
                 "26": {
                     "DESAWAR": "85",
@@ -2450,7 +2748,8 @@
                     "FARIDABAD": "08",
                     "GALI": "61",
                     "SHRI GANESH": "20",
-                    "PATNA": "33"
+                    "PATNA": "33",
+                    "PATNA CITY": "85"
                 },
                 "27": {
                     "DESAWAR": "60",
@@ -2458,7 +2757,8 @@
                     "FARIDABAD": "67",
                     "GALI": "00",
                     "SHRI GANESH": "33",
-                    "PATNA": "84"
+                    "PATNA": "84",
+                    "PATNA CITY": "60"
                 },
                 "28": {
                     "DESAWAR": "17",
@@ -2466,7 +2766,8 @@
                     "FARIDABAD": "06",
                     "GALI": "66",
                     "SHRI GANESH": "32",
-                    "PATNA": "69"
+                    "PATNA": "69",
+                    "PATNA CITY": "23"
                 },
                 "29": {
                     "DESAWAR": "53",
@@ -2474,7 +2775,8 @@
                     "FARIDABAD": "41",
                     "GALI": "97",
                     "SHRI GANESH": "04",
-                    "PATNA": "72"
+                    "PATNA": "72",
+                    "PATNA CITY": "57"
                 },
                 "30": {
                     "DESAWAR": "40",
@@ -2482,7 +2784,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -2496,7 +2799,8 @@
                     "FARIDABAD": "97",
                     "GALI": "78",
                     "SHRI GANESH": "92",
-                    "PATNA": "59"
+                    "PATNA": "59",
+                    "PATNA CITY": "74"
                 },
                 "02": {
                     "DESAWAR": "24",
@@ -2504,7 +2808,8 @@
                     "FARIDABAD": "69",
                     "GALI": "33",
                     "SHRI GANESH": "27",
-                    "PATNA": "06"
+                    "PATNA": "06",
+                    "PATNA CITY": "27"
                 },
                 "03": {
                     "DESAWAR": "39",
@@ -2512,7 +2817,8 @@
                     "FARIDABAD": "73",
                     "GALI": "49",
                     "SHRI GANESH": "42",
-                    "PATNA": "36"
+                    "PATNA": "36",
+                    "PATNA CITY": "45"
                 },
                 "04": {
                     "DESAWAR": "91",
@@ -2520,7 +2826,8 @@
                     "FARIDABAD": "34",
                     "GALI": "39",
                     "SHRI GANESH": "27",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "82"
                 },
                 "05": {
                     "DESAWAR": "23",
@@ -2528,7 +2835,8 @@
                     "FARIDABAD": "92",
                     "GALI": "36",
                     "SHRI GANESH": "87",
-                    "PATNA": "88"
+                    "PATNA": "88",
+                    "PATNA CITY": "78"
                 },
                 "06": {
                     "DESAWAR": "06",
@@ -2536,7 +2844,8 @@
                     "FARIDABAD": "19",
                     "GALI": "50",
                     "SHRI GANESH": "54",
-                    "PATNA": "80"
+                    "PATNA": "80",
+                    "PATNA CITY": "70"
                 },
                 "07": {
                     "DESAWAR": "19",
@@ -2544,7 +2853,8 @@
                     "FARIDABAD": "04",
                     "GALI": "41",
                     "SHRI GANESH": "45",
-                    "PATNA": "81"
+                    "PATNA": "81",
+                    "PATNA CITY": "13"
                 },
                 "08": {
                     "DESAWAR": "53",
@@ -2552,7 +2862,8 @@
                     "FARIDABAD": "41",
                     "GALI": "21",
                     "SHRI GANESH": "22",
-                    "PATNA": "97"
+                    "PATNA": "97",
+                    "PATNA CITY": "96"
                 },
                 "09": {
                     "DESAWAR": "02",
@@ -2560,7 +2871,8 @@
                     "FARIDABAD": "88",
                     "GALI": "75",
                     "SHRI GANESH": "94",
-                    "PATNA": "44"
+                    "PATNA": "44",
+                    "PATNA CITY": "25"
                 },
                 "10": {
                     "DESAWAR": "26",
@@ -2568,7 +2880,8 @@
                     "FARIDABAD": "74",
                     "GALI": "35",
                     "SHRI GANESH": "30",
-                    "PATNA": "76"
+                    "PATNA": "76",
+                    "PATNA CITY": "26"
                 },
                 "11": {
                     "DESAWAR": "53",
@@ -2576,7 +2889,8 @@
                     "FARIDABAD": "32",
                     "GALI": "04",
                     "SHRI GANESH": "96",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "67"
                 },
                 "12": {
                     "DESAWAR": "26",
@@ -2584,7 +2898,8 @@
                     "FARIDABAD": "91",
                     "GALI": "77",
                     "SHRI GANESH": "29",
-                    "PATNA": "53"
+                    "PATNA": "53",
+                    "PATNA CITY": "97"
                 },
                 "13": {
                     "DESAWAR": "66",
@@ -2592,7 +2907,8 @@
                     "FARIDABAD": "05",
                     "GALI": "45",
                     "SHRI GANESH": "96",
-                    "PATNA": "74"
+                    "PATNA": "74",
+                    "PATNA CITY": "19"
                 },
                 "14": {
                     "DESAWAR": "73",
@@ -2600,7 +2916,8 @@
                     "FARIDABAD": "93",
                     "GALI": "52",
                     "SHRI GANESH": "88",
-                    "PATNA": "82"
+                    "PATNA": "82",
+                    "PATNA CITY": "93"
                 },
                 "15": {
                     "DESAWAR": "16",
@@ -2608,7 +2925,8 @@
                     "FARIDABAD": "60",
                     "GALI": "08",
                     "SHRI GANESH": "77",
-                    "PATNA": "58"
+                    "PATNA": "58",
+                    "PATNA CITY": "74"
                 },
                 "16": {
                     "DESAWAR": "28",
@@ -2616,7 +2934,8 @@
                     "FARIDABAD": "15",
                     "GALI": "90",
                     "SHRI GANESH": "62",
-                    "PATNA": "69"
+                    "PATNA": "69",
+                    "PATNA CITY": "94"
                 },
                 "17": {
                     "DESAWAR": "32",
@@ -2624,7 +2943,8 @@
                     "FARIDABAD": "30",
                     "GALI": "14",
                     "SHRI GANESH": "75",
-                    "PATNA": "22"
+                    "PATNA": "22",
+                    "PATNA CITY": "62"
                 },
                 "18": {
                     "DESAWAR": "85",
@@ -2632,7 +2952,8 @@
                     "FARIDABAD": "07",
                     "GALI": "80",
                     "SHRI GANESH": "26",
-                    "PATNA": "91"
+                    "PATNA": "91",
+                    "PATNA CITY": "56"
                 },
                 "19": {
                     "DESAWAR": "16",
@@ -2640,7 +2961,8 @@
                     "FARIDABAD": "83",
                     "GALI": "57",
                     "SHRI GANESH": "22",
-                    "PATNA": "44"
+                    "PATNA": "44",
+                    "PATNA CITY": "56"
                 },
                 "20": {
                     "DESAWAR": "83",
@@ -2648,7 +2970,8 @@
                     "FARIDABAD": "47",
                     "GALI": "54",
                     "SHRI GANESH": "57",
-                    "PATNA": "96"
+                    "PATNA": "96",
+                    "PATNA CITY": "58"
                 },
                 "21": {
                     "DESAWAR": "73",
@@ -2656,7 +2979,8 @@
                     "FARIDABAD": "06",
                     "GALI": "11",
                     "SHRI GANESH": "44",
-                    "PATNA": "76"
+                    "PATNA": "76",
+                    "PATNA CITY": "70"
                 },
                 "22": {
                     "DESAWAR": "05",
@@ -2664,7 +2988,8 @@
                     "FARIDABAD": "34",
                     "GALI": "40",
                     "SHRI GANESH": "28",
-                    "PATNA": "78"
+                    "PATNA": "78",
+                    "PATNA CITY": "39"
                 },
                 "23": {
                     "DESAWAR": "20",
@@ -2672,7 +2997,8 @@
                     "FARIDABAD": "39",
                     "GALI": "43",
                     "SHRI GANESH": "75",
-                    "PATNA": "35"
+                    "PATNA": "35",
+                    "PATNA CITY": "49"
                 },
                 "24": {
                     "DESAWAR": "69",
@@ -2680,7 +3006,8 @@
                     "FARIDABAD": "76",
                     "GALI": "72",
                     "SHRI GANESH": "74",
-                    "PATNA": "99"
+                    "PATNA": "99",
+                    "PATNA CITY": "81"
                 },
                 "25": {
                     "DESAWAR": "89",
@@ -2688,7 +3015,8 @@
                     "FARIDABAD": "32",
                     "GALI": "58",
                     "SHRI GANESH": "92",
-                    "PATNA": "84"
+                    "PATNA": "84",
+                    "PATNA CITY": "70"
                 },
                 "26": {
                     "DESAWAR": "65",
@@ -2696,7 +3024,8 @@
                     "FARIDABAD": "22",
                     "GALI": "39",
                     "SHRI GANESH": "09",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "26"
                 },
                 "27": {
                     "DESAWAR": "06",
@@ -2704,7 +3033,8 @@
                     "FARIDABAD": "74",
                     "GALI": "72",
                     "SHRI GANESH": "93",
-                    "PATNA": "49"
+                    "PATNA": "49",
+                    "PATNA CITY": "92"
                 },
                 "28": {
                     "DESAWAR": "75",
@@ -2712,7 +3042,8 @@
                     "FARIDABAD": "27",
                     "GALI": "02",
                     "SHRI GANESH": "81",
-                    "PATNA": "11"
+                    "PATNA": "11",
+                    "PATNA CITY": "90"
                 },
                 "29": {
                     "DESAWAR": "16",
@@ -2720,7 +3051,8 @@
                     "FARIDABAD": "60",
                     "GALI": "16",
                     "SHRI GANESH": "04",
-                    "PATNA": "56"
+                    "PATNA": "56",
+                    "PATNA CITY": "42"
                 },
                 "30": {
                     "DESAWAR": "67",
@@ -2728,7 +3060,8 @@
                     "FARIDABAD": "40",
                     "GALI": "86",
                     "SHRI GANESH": "86",
-                    "PATNA": "17"
+                    "PATNA": "17",
+                    "PATNA CITY": "21"
                 },
                 "31": {
                     "DESAWAR": "05",
@@ -2736,7 +3069,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -2750,7 +3084,8 @@
                     "FARIDABAD": "57",
                     "GALI": "92",
                     "SHRI GANESH": "26",
-                    "PATNA": "66"
+                    "PATNA": "66",
+                    "PATNA CITY": "48"
                 },
                 "02": {
                     "DESAWAR": "31",
@@ -2758,7 +3093,8 @@
                     "FARIDABAD": "06",
                     "GALI": "31",
                     "SHRI GANESH": "58",
-                    "PATNA": "65"
+                    "PATNA": "65",
+                    "PATNA CITY": "48"
                 },
                 "03": {
                     "DESAWAR": "74",
@@ -2766,7 +3102,8 @@
                     "FARIDABAD": "95",
                     "GALI": "59",
                     "SHRI GANESH": "31",
-                    "PATNA": "87"
+                    "PATNA": "87",
+                    "PATNA CITY": "16"
                 },
                 "04": {
                     "DESAWAR": "31",
@@ -2774,7 +3111,8 @@
                     "FARIDABAD": "12",
                     "GALI": "27",
                     "SHRI GANESH": "10",
-                    "PATNA": "45"
+                    "PATNA": "45",
+                    "PATNA CITY": "51"
                 },
                 "05": {
                     "DESAWAR": "93",
@@ -2782,7 +3120,8 @@
                     "FARIDABAD": "57",
                     "GALI": "85",
                     "SHRI GANESH": "75",
-                    "PATNA": "44"
+                    "PATNA": "44",
+                    "PATNA CITY": "68"
                 },
                 "06": {
                     "DESAWAR": "51",
@@ -2790,7 +3129,8 @@
                     "FARIDABAD": "22",
                     "GALI": "80",
                     "SHRI GANESH": "97",
-                    "PATNA": "94"
+                    "PATNA": "94",
+                    "PATNA CITY": "71"
                 },
                 "07": {
                     "DESAWAR": "83",
@@ -2798,7 +3138,8 @@
                     "FARIDABAD": "26",
                     "GALI": "35",
                     "SHRI GANESH": "80",
-                    "PATNA": "29"
+                    "PATNA": "29",
+                    "PATNA CITY": "54"
                 },
                 "08": {
                     "DESAWAR": "96",
@@ -2806,7 +3147,8 @@
                     "FARIDABAD": "81",
                     "GALI": "93",
                     "SHRI GANESH": "93",
-                    "PATNA": "12"
+                    "PATNA": "12",
+                    "PATNA CITY": "72"
                 },
                 "09": {
                     "DESAWAR": "16",
@@ -2814,7 +3156,8 @@
                     "FARIDABAD": "63",
                     "GALI": "97",
                     "SHRI GANESH": "74",
-                    "PATNA": "33"
+                    "PATNA": "33",
+                    "PATNA CITY": "20"
                 },
                 "10": {
                     "DESAWAR": "64",
@@ -2822,7 +3165,8 @@
                     "FARIDABAD": "58",
                     "GALI": "57",
                     "SHRI GANESH": "64",
-                    "PATNA": "45"
+                    "PATNA": "45",
+                    "PATNA CITY": "95"
                 },
                 "11": {
                     "DESAWAR": "88",
@@ -2830,7 +3174,8 @@
                     "FARIDABAD": "58",
                     "GALI": "92",
                     "SHRI GANESH": "30",
-                    "PATNA": "22"
+                    "PATNA": "22",
+                    "PATNA CITY": "21"
                 },
                 "12": {
                     "DESAWAR": "19",
@@ -2838,7 +3183,8 @@
                     "FARIDABAD": "75",
                     "GALI": "36",
                     "SHRI GANESH": "41",
-                    "PATNA": "59"
+                    "PATNA": "59",
+                    "PATNA CITY": "94"
                 },
                 "13": {
                     "DESAWAR": "79",
@@ -2846,7 +3192,8 @@
                     "FARIDABAD": "54",
                     "GALI": "61",
                     "SHRI GANESH": "34",
-                    "PATNA": "58"
+                    "PATNA": "58",
+                    "PATNA CITY": "67"
                 },
                 "14": {
                     "DESAWAR": "12",
@@ -2854,7 +3201,8 @@
                     "FARIDABAD": "49",
                     "GALI": "71",
                     "SHRI GANESH": "02",
-                    "PATNA": "35"
+                    "PATNA": "35",
+                    "PATNA CITY": "64"
                 },
                 "15": {
                     "DESAWAR": "49",
@@ -2862,7 +3210,8 @@
                     "FARIDABAD": "58",
                     "GALI": "71",
                     "SHRI GANESH": "23",
-                    "PATNA": "16"
+                    "PATNA": "16",
+                    "PATNA CITY": "82"
                 },
                 "16": {
                     "DESAWAR": "57",
@@ -2870,7 +3219,8 @@
                     "FARIDABAD": "90",
                     "GALI": "59",
                     "SHRI GANESH": "53",
-                    "PATNA": "79"
+                    "PATNA": "79",
+                    "PATNA CITY": "57"
                 },
                 "17": {
                     "DESAWAR": "40",
@@ -2878,7 +3228,8 @@
                     "FARIDABAD": "46",
                     "GALI": "15",
                     "SHRI GANESH": "12",
-                    "PATNA": "64"
+                    "PATNA": "64",
+                    "PATNA CITY": "45"
                 },
                 "18": {
                     "DESAWAR": "29",
@@ -2886,7 +3237,8 @@
                     "FARIDABAD": "22",
                     "GALI": "88",
                     "SHRI GANESH": "87",
-                    "PATNA": "73"
+                    "PATNA": "73",
+                    "PATNA CITY": "98"
                 },
                 "19": {
                     "DESAWAR": "40",
@@ -2894,7 +3246,8 @@
                     "FARIDABAD": "59",
                     "GALI": "56",
                     "SHRI GANESH": "02",
-                    "PATNA": "20"
+                    "PATNA": "20",
+                    "PATNA CITY": "98"
                 },
                 "20": {
                     "DESAWAR": "08",
@@ -2902,7 +3255,8 @@
                     "FARIDABAD": "91",
                     "GALI": "53",
                     "SHRI GANESH": "12",
-                    "PATNA": "48"
+                    "PATNA": "48",
+                    "PATNA CITY": "12"
                 },
                 "21": {
                     "DESAWAR": "18",
@@ -2910,7 +3264,8 @@
                     "FARIDABAD": "34",
                     "GALI": "34",
                     "SHRI GANESH": "93",
-                    "PATNA": "96"
+                    "PATNA": "96",
+                    "PATNA CITY": "11"
                 },
                 "22": {
                     "DESAWAR": "08",
@@ -2918,7 +3273,8 @@
                     "FARIDABAD": "41",
                     "GALI": "82",
                     "SHRI GANESH": "81",
-                    "PATNA": "92"
+                    "PATNA": "92",
+                    "PATNA CITY": "59"
                 },
                 "23": {
                     "DESAWAR": "41",
@@ -2926,7 +3282,8 @@
                     "FARIDABAD": "88",
                     "GALI": "83",
                     "SHRI GANESH": "62",
-                    "PATNA": "89"
+                    "PATNA": "89",
+                    "PATNA CITY": "16"
                 },
                 "24": {
                     "DESAWAR": "16",
@@ -2934,7 +3291,8 @@
                     "FARIDABAD": "77",
                     "GALI": "75",
                     "SHRI GANESH": "45",
-                    "PATNA": "98"
+                    "PATNA": "98",
+                    "PATNA CITY": "97"
                 },
                 "25": {
                     "DESAWAR": "36",
@@ -2942,7 +3300,8 @@
                     "FARIDABAD": "71",
                     "GALI": "89",
                     "SHRI GANESH": "94",
-                    "PATNA": "44"
+                    "PATNA": "44",
+                    "PATNA CITY": "71"
                 },
                 "26": {
                     "DESAWAR": "80",
@@ -2950,7 +3309,8 @@
                     "FARIDABAD": "49",
                     "GALI": "77",
                     "SHRI GANESH": "21",
-                    "PATNA": "93"
+                    "PATNA": "93",
+                    "PATNA CITY": "99"
                 },
                 "27": {
                     "DESAWAR": "99",
@@ -2958,7 +3318,8 @@
                     "FARIDABAD": "61",
                     "GALI": "63",
                     "SHRI GANESH": "46",
-                    "PATNA": "42"
+                    "PATNA": "42",
+                    "PATNA CITY": "96"
                 },
                 "28": {
                     "DESAWAR": "27",
@@ -2966,7 +3327,8 @@
                     "FARIDABAD": "23",
                     "GALI": "86",
                     "SHRI GANESH": "15",
-                    "PATNA": "40"
+                    "PATNA": "40",
+                    "PATNA CITY": "53"
                 },
                 "29": {
                     "DESAWAR": "31",
@@ -2974,7 +3336,8 @@
                     "FARIDABAD": "62",
                     "GALI": "45",
                     "SHRI GANESH": "48",
-                    "PATNA": "31"
+                    "PATNA": "31",
+                    "PATNA CITY": "40"
                 },
                 "30": {
                     "DESAWAR": "96",
@@ -2982,7 +3345,8 @@
                     "FARIDABAD": "07",
                     "GALI": "21",
                     "SHRI GANESH": "97",
-                    "PATNA": "69"
+                    "PATNA": "69",
+                    "PATNA CITY": "83"
                 },
                 "31": {
                     "DESAWAR": "90",
@@ -2990,7 +3354,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         },
@@ -3004,7 +3369,8 @@
                     "FARIDABAD": "45",
                     "GALI": "81",
                     "SHRI GANESH": "89",
-                    "PATNA": "49"
+                    "PATNA": "49",
+                    "PATNA CITY": "23"
                 },
                 "02": {
                     "DESAWAR": "69",
@@ -3012,7 +3378,8 @@
                     "FARIDABAD": "19",
                     "GALI": "96",
                     "SHRI GANESH": "54",
-                    "PATNA": "24"
+                    "PATNA": "24",
+                    "PATNA CITY": "75"
                 },
                 "03": {
                     "DESAWAR": "57",
@@ -3020,7 +3387,8 @@
                     "FARIDABAD": "08",
                     "GALI": "77",
                     "SHRI GANESH": "20",
-                    "PATNA": "35"
+                    "PATNA": "35",
+                    "PATNA CITY": "80"
                 },
                 "04": {
                     "DESAWAR": "95",
@@ -3028,7 +3396,8 @@
                     "FARIDABAD": "02",
                     "GALI": "26",
                     "SHRI GANESH": "01",
-                    "PATNA": "48"
+                    "PATNA": "48",
+                    "PATNA CITY": "39"
                 },
                 "05": {
                     "DESAWAR": "59",
@@ -3036,7 +3405,8 @@
                     "FARIDABAD": "30",
                     "GALI": "37",
                     "SHRI GANESH": "02",
-                    "PATNA": "83"
+                    "PATNA": "83",
+                    "PATNA CITY": "13"
                 },
                 "06": {
                     "DESAWAR": "78",
@@ -3044,7 +3414,8 @@
                     "FARIDABAD": "88",
                     "GALI": "94",
                     "SHRI GANESH": "25",
-                    "PATNA": "72"
+                    "PATNA": "72",
+                    "PATNA CITY": "30"
                 },
                 "07": {
                     "DESAWAR": "67",
@@ -3052,7 +3423,8 @@
                     "FARIDABAD": "02",
                     "GALI": "10",
                     "SHRI GANESH": "17",
-                    "PATNA": "66"
+                    "PATNA": "66",
+                    "PATNA CITY": "97"
                 },
                 "08": {
                     "DESAWAR": "92",
@@ -3060,7 +3432,8 @@
                     "FARIDABAD": "71",
                     "GALI": "64",
                     "SHRI GANESH": "83",
-                    "PATNA": "33"
+                    "PATNA": "33",
+                    "PATNA CITY": "66"
                 },
                 "09": {
                     "DESAWAR": "54",
@@ -3068,7 +3441,8 @@
                     "FARIDABAD": "29",
                     "GALI": "69",
                     "SHRI GANESH": "15",
-                    "PATNA": "55"
+                    "PATNA": "55",
+                    "PATNA CITY": "19"
                 },
                 "10": {
                     "DESAWAR": "93",
@@ -3076,7 +3450,8 @@
                     "FARIDABAD": "15",
                     "GALI": "40",
                     "SHRI GANESH": "12",
-                    "PATNA": "39"
+                    "PATNA": "39",
+                    "PATNA CITY": "79"
                 },
                 "11": {
                     "DESAWAR": "40",
@@ -3084,7 +3459,8 @@
                     "FARIDABAD": "72",
                     "GALI": "34",
                     "SHRI GANESH": "32",
-                    "PATNA": "81"
+                    "PATNA": "81",
+                    "PATNA CITY": "77"
                 },
                 "12": {
                     "DESAWAR": "46",
@@ -3092,7 +3468,8 @@
                     "FARIDABAD": "65",
                     "GALI": "35",
                     "SHRI GANESH": "42",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "97"
                 },
                 "13": {
                     "DESAWAR": "02",
@@ -3100,7 +3477,8 @@
                     "FARIDABAD": "74",
                     "GALI": "72",
                     "SHRI GANESH": "48",
-                    "PATNA": "27"
+                    "PATNA": "27",
+                    "PATNA CITY": "71"
                 },
                 "14": {
                     "DESAWAR": "35",
@@ -3108,7 +3486,8 @@
                     "FARIDABAD": "30",
                     "GALI": "87",
                     "SHRI GANESH": "34",
-                    "PATNA": "15"
+                    "PATNA": "15",
+                    "PATNA CITY": "26"
                 },
                 "15": {
                     "DESAWAR": "89",
@@ -3116,7 +3495,8 @@
                     "FARIDABAD": "24",
                     "GALI": "83",
                     "SHRI GANESH": "28",
-                    "PATNA": "22"
+                    "PATNA": "22",
+                    "PATNA CITY": "40"
                 },
                 "16": {
                     "DESAWAR": "31",
@@ -3124,7 +3504,8 @@
                     "FARIDABAD": "21",
                     "GALI": "91",
                     "SHRI GANESH": "94",
-                    "PATNA": "61"
+                    "PATNA": "61",
+                    "PATNA CITY": "31"
                 },
                 "17": {
                     "DESAWAR": "90",
@@ -3132,7 +3513,8 @@
                     "FARIDABAD": "38",
                     "GALI": "73",
                     "SHRI GANESH": "50",
-                    "PATNA": "35"
+                    "PATNA": "35",
+                    "PATNA CITY": "13"
                 },
                 "18": {
                     "DESAWAR": "49",
@@ -3140,7 +3522,8 @@
                     "FARIDABAD": "36",
                     "GALI": "50",
                     "SHRI GANESH": "38",
-                    "PATNA": "86"
+                    "PATNA": "86",
+                    "PATNA CITY": "65"
                 },
                 "19": {
                     "DESAWAR": "35",
@@ -3148,7 +3531,8 @@
                     "FARIDABAD": "21",
                     "GALI": "07",
                     "SHRI GANESH": "20",
-                    "PATNA": "33"
+                    "PATNA": "33",
+                    "PATNA CITY": "44"
                 },
                 "20": {
                     "DESAWAR": "32",
@@ -3156,7 +3540,8 @@
                     "FARIDABAD": "84",
                     "GALI": "66",
                     "SHRI GANESH": "80",
-                    "PATNA": "43"
+                    "PATNA": "43",
+                    "PATNA CITY": "32"
                 },
                 "21": {
                     "DESAWAR": "01",
@@ -3164,7 +3549,8 @@
                     "FARIDABAD": "71",
                     "GALI": "32",
                     "SHRI GANESH": "08",
-                    "PATNA": "20"
+                    "PATNA": "20",
+                    "PATNA CITY": "75"
                 },
                 "22": {
                     "DESAWAR": "73",
@@ -3172,7 +3558,8 @@
                     "FARIDABAD": "42",
                     "GALI": "00",
                     "SHRI GANESH": "98",
-                    "PATNA": "12"
+                    "PATNA": "12",
+                    "PATNA CITY": "99"
                 },
                 "23": {
                     "DESAWAR": "35",
@@ -3180,7 +3567,8 @@
                     "FARIDABAD": "00",
                     "GALI": "02",
                     "SHRI GANESH": "10",
-                    "PATNA": "23"
+                    "PATNA": "23",
+                    "PATNA CITY": "91"
                 },
                 "24": {
                     "DESAWAR": "26",
@@ -3188,7 +3576,8 @@
                     "FARIDABAD": "38",
                     "GALI": "90",
                     "SHRI GANESH": "48",
-                    "PATNA": "67"
+                    "PATNA": "67",
+                    "PATNA CITY": "85"
                 },
                 "25": {
                     "DESAWAR": "86",
@@ -3196,7 +3585,8 @@
                     "FARIDABAD": "08",
                     "GALI": "37",
                     "SHRI GANESH": "68",
-                    "PATNA": "61"
+                    "PATNA": "61",
+                    "PATNA CITY": "89"
                 },
                 "26": {
                     "DESAWAR": "48",
@@ -3204,7 +3594,8 @@
                     "FARIDABAD": "09",
                     "GALI": "66",
                     "SHRI GANESH": "43",
-                    "PATNA": "81"
+                    "PATNA": "81",
+                    "PATNA CITY": "66"
                 },
                 "27": {
                     "DESAWAR": "81",
@@ -3212,7 +3603,8 @@
                     "FARIDABAD": "61",
                     "GALI": "64",
                     "SHRI GANESH": "07",
-                    "PATNA": "29"
+                    "PATNA": "29",
+                    "PATNA CITY": "78"
                 },
                 "28": {
                     "DESAWAR": "49",
@@ -3220,7 +3612,8 @@
                     "FARIDABAD": "58",
                     "GALI": "03",
                     "SHRI GANESH": "90",
-                    "PATNA": "71"
+                    "PATNA": "71",
+                    "PATNA CITY": "81"
                 },
                 "29": {
                     "DESAWAR": "43",
@@ -3228,7 +3621,8 @@
                     "FARIDABAD": "90",
                     "GALI": "66",
                     "SHRI GANESH": "61",
-                    "PATNA": "61"
+                    "PATNA": "61",
+                    "PATNA CITY": "19"
                 },
                 "30": {
                     "DESAWAR": "25",
@@ -3236,7 +3630,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "40"
+                    "PATNA": "40",
+                    "PATNA CITY": "11"
                 }
             }
         },
@@ -3250,7 +3645,8 @@
                     "FARIDABAD": "42",
                     "GALI": "93",
                     "SHRI GANESH": "51",
-                    "PATNA": "59"
+                    "PATNA": "59",
+                    "PATNA CITY": "28"
                 },
                 "02": {
                     "DESAWAR": "52",
@@ -3258,7 +3654,8 @@
                     "FARIDABAD": "05",
                     "GALI": "01",
                     "SHRI GANESH": "31",
-                    "PATNA": "57"
+                    "PATNA": "57",
+                    "PATNA CITY": "47"
                 },
                 "03": {
                     "DESAWAR": "18",
@@ -3266,7 +3663,8 @@
                     "FARIDABAD": "58",
                     "GALI": "68",
                     "SHRI GANESH": "54",
-                    "PATNA": "94"
+                    "PATNA": "94",
+                    "PATNA CITY": "48"
                 },
                 "04": {
                     "DESAWAR": "15",
@@ -3274,7 +3672,8 @@
                     "FARIDABAD": "36",
                     "GALI": "80",
                     "SHRI GANESH": "47",
-                    "PATNA": "75"
+                    "PATNA": "75",
+                    "PATNA CITY": "40"
                 },
                 "05": {
                     "DESAWAR": "70",
@@ -3282,7 +3681,8 @@
                     "FARIDABAD": "26",
                     "GALI": "24",
                     "SHRI GANESH": "18",
-                    "PATNA": "91"
+                    "PATNA": "91",
+                    "PATNA CITY": "78"
                 },
                 "06": {
                     "DESAWAR": "59",
@@ -3290,7 +3690,8 @@
                     "FARIDABAD": "01",
                     "GALI": "53",
                     "SHRI GANESH": "27",
-                    "PATNA": "47"
+                    "PATNA": "47",
+                    "PATNA CITY": "45"
                 },
                 "07": {
                     "DESAWAR": "23",
@@ -3298,7 +3699,8 @@
                     "FARIDABAD": "87",
                     "GALI": "29",
                     "SHRI GANESH": "89",
-                    "PATNA": "41"
+                    "PATNA": "41",
+                    "PATNA CITY": "42"
                 },
                 "08": {
                     "DESAWAR": "90",
@@ -3306,7 +3708,8 @@
                     "FARIDABAD": "92",
                     "GALI": "62",
                     "SHRI GANESH": "02",
-                    "PATNA": "34"
+                    "PATNA": "34",
+                    "PATNA CITY": "88"
                 },
                 "09": {
                     "DESAWAR": "26",
@@ -3314,7 +3717,8 @@
                     "FARIDABAD": "99",
                     "GALI": "83",
                     "SHRI GANESH": "01",
-                    "PATNA": "59"
+                    "PATNA": "59",
+                    "PATNA CITY": "29"
                 },
                 "10": {
                     "DESAWAR": "22",
@@ -3322,7 +3726,8 @@
                     "FARIDABAD": "08",
                     "GALI": "12",
                     "SHRI GANESH": "06",
-                    "PATNA": "37"
+                    "PATNA": "37",
+                    "PATNA CITY": "57"
                 },
                 "11": {
                     "DESAWAR": "27",
@@ -3330,7 +3735,8 @@
                     "FARIDABAD": "96",
                     "GALI": "40",
                     "SHRI GANESH": "58",
-                    "PATNA": "86"
+                    "PATNA": "86",
+                    "PATNA CITY": "55"
                 },
                 "12": {
                     "DESAWAR": "98",
@@ -3338,7 +3744,8 @@
                     "FARIDABAD": "55",
                     "GALI": "90",
                     "SHRI GANESH": "67",
-                    "PATNA": "19"
+                    "PATNA": "19",
+                    "PATNA CITY": "41"
                 },
                 "13": {
                     "DESAWAR": "40",
@@ -3346,7 +3753,8 @@
                     "FARIDABAD": "87",
                     "GALI": "22",
                     "SHRI GANESH": "98",
-                    "PATNA": "46"
+                    "PATNA": "46",
+                    "PATNA CITY": "87"
                 },
                 "14": {
                     "DESAWAR": "97",
@@ -3354,7 +3762,8 @@
                     "FARIDABAD": "11",
                     "GALI": "81",
                     "SHRI GANESH": "80",
-                    "PATNA": "60"
+                    "PATNA": "60",
+                    "PATNA CITY": "45"
                 },
                 "15": {
                     "DESAWAR": "42",
@@ -3362,7 +3771,8 @@
                     "FARIDABAD": "48",
                     "GALI": "12",
                     "SHRI GANESH": "56",
-                    "PATNA": "56"
+                    "PATNA": "56",
+                    "PATNA CITY": "60"
                 },
                 "16": {
                     "DESAWAR": "98",
@@ -3370,7 +3780,8 @@
                     "FARIDABAD": "29",
                     "GALI": "51",
                     "SHRI GANESH": "62",
-                    "PATNA": "19"
+                    "PATNA": "19",
+                    "PATNA CITY": "87"
                 },
                 "17": {
                     "DESAWAR": "97",
@@ -3378,7 +3789,8 @@
                     "FARIDABAD": "78",
                     "GALI": "69",
                     "SHRI GANESH": "55",
-                    "PATNA": "96"
+                    "PATNA": "96",
+                    "PATNA CITY": "37"
                 },
                 "18": {
                     "DESAWAR": "44",
@@ -3386,7 +3798,8 @@
                     "FARIDABAD": "78",
                     "GALI": "73",
                     "SHRI GANESH": "19",
-                    "PATNA": "37"
+                    "PATNA": "37",
+                    "PATNA CITY": "57"
                 },
                 "19": {
                     "DESAWAR": "23",
@@ -3394,7 +3807,8 @@
                     "FARIDABAD": "72",
                     "GALI": "47",
                     "SHRI GANESH": "11",
-                    "PATNA": "72"
+                    "PATNA": "72",
+                    "PATNA CITY": "71"
                 },
                 "20": {
                     "DESAWAR": "64",
@@ -3402,7 +3816,8 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
-                    "PATNA": "XX"
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX"
                 }
             }
         }

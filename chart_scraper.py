@@ -18,6 +18,13 @@ GHAZIABAD_CHART_URL = "https://sattaking-ghaziabad.com/ghaziabad-satta-king-resu
 # Patna has its own chart page on the source (not on the Ghaziabad chart) —
 # scraped separately and merged in as a "PATNA" column.
 PATNA_CHART_URL = "https://sattaking-ghaziabad.com/patna-satta-king-result-chart.php"
+PATNA_CITY_CHART_URL = "https://sattaking-ghaziabad.com/patna-city-satta-king-result-chart.php"
+# Games that are NOT columns on the Ghaziabad chart: each has its own chart page
+# on the source, and only that game's column is merged into our chart.
+EXTRA_GAME_CHARTS = {
+    "PATNA": PATNA_CHART_URL,
+    "PATNA CITY": PATNA_CITY_CHART_URL,
+}
 IST_TZ = ZoneInfo('Asia/Kolkata')
 
 MONTHS_LIST = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
@@ -71,7 +78,8 @@ def normalize_game_label(label):
         'GALI': 'GALI',
         'DELHI BAZAR': 'DELHI BAZAR',
         'SHRI GANESH': 'SHRI GANESH',
-        'PATNA': 'PATNA'
+        'PATNA': 'PATNA',
+        'PATNA CITY': 'PATNA CITY'
     }
     return mapping.get(label, label.title() if label.isupper() else label)
 
@@ -229,21 +237,30 @@ def merge_game_column(chart, other_chart, game):
     return chart
 
 
-def fetch_patna_chart(month_num=None, year=None):
-    url = PATNA_CHART_URL
-    if month_num and year:
-        url = f"{PATNA_CHART_URL}?month={month_num}&year={year}"
+def fetch_game_chart(game, month_num=None, year=None):
+    base = EXTRA_GAME_CHARTS[game]
+    url = f"{base}?month={month_num}&year={year}" if month_num and year else base
     html = get_html(url)
     if not html:
         return None, None, {}
     return parse_chart_page(html)
 
 
+def fetch_patna_chart(month_num=None, year=None):
+    return fetch_game_chart("PATNA", month_num, year)
+
+
 def backfill_patna(start_key):
-    """One-off: python chart_scraper.py --backfill-patna 2025-01
-    Fetches every month from start_key to the current month from the source's
-    Patna chart page and merges the real PATNA column into all_charts.json.
-    Months not yet in the archive get all columns from the Patna page."""
+    """One-off: python chart_scraper.py --backfill-patna 2025-01"""
+    backfill_game("PATNA", start_key)
+
+
+def backfill_game(game, start_key):
+    """One-off: python chart_scraper.py --backfill "PATNA CITY" 2025-09
+    Fetches every month from start_key to the current month from the game's
+    own chart page and merges that game's column into all_charts.json.
+    Only PATNA may create months missing from the archive (legacy behaviour);
+    other games are merged into existing months only."""
     import time
     existing = {}
     if os.path.exists(ALL_CHARTS_FILE):
@@ -255,14 +272,17 @@ def backfill_patna(start_key):
     now = datetime.now(IST_TZ)
     while (y, m) <= (now.year, now.month):
         key = f"{y}-{m:02d}"
-        py, pm, pchart = fetch_patna_chart(f"{m:02d}", str(y))
-        has_data = any(v != 'XX' for day in (pchart or {}).values() for v in day.values())
+        py, pm, pchart = fetch_game_chart(game, f"{m:02d}", str(y))
+        has_data = any(day.get(game, 'XX') != 'XX' for day in (pchart or {}).values())
         if pchart and has_data and py == str(y) and month_number(pm) == f"{m:02d}":
             if key in months and isinstance(months[key].get("chart"), dict):
-                merge_game_column(months[key]["chart"], pchart, "PATNA")
-            else:
+                merge_game_column(months[key]["chart"], pchart, game)
+                logging.info(f"Backfilled {game} for {key} ({len(pchart)} days)")
+            elif game == "PATNA":
                 months[key] = {"year": str(y), "month": pm, "chart": pchart}
-            logging.info(f"Backfilled PATNA for {key} ({len(pchart)} days)")
+                logging.info(f"Backfilled {game} for {key} ({len(pchart)} days)")
+            else:
+                logging.warning(f"Skipped {key}: month not in archive")
         else:
             logging.warning(f"Skipped {key}: source has no declared results for this month")
         m += 1
@@ -355,12 +375,13 @@ def main():
         logging.error("Chart parsing failed. Exiting without writing file.")
         return
 
-    # Merge the real PATNA column from the Patna chart page (same month only)
-    py, pm, pchart = fetch_patna_chart()
-    if pchart and py == year and pm == month:
-        merge_game_column(chart, pchart, "PATNA")
-    else:
-        logging.warning("Patna chart unavailable or month mismatch — PATNA column skipped this run.")
+    # Merge each extra game's column from its own chart page (same month only)
+    for game in EXTRA_GAME_CHARTS:
+        gy, gm, gchart = fetch_game_chart(game)
+        if gchart and gy == year and gm == month:
+            merge_game_column(chart, gchart, game)
+        else:
+            logging.warning(f"{game} chart unavailable or month mismatch — column skipped this run.")
 
     overlay_today_from_results(chart, year, month)
 
@@ -388,5 +409,7 @@ if __name__ == "__main__":
     import sys
     if len(sys.argv) == 3 and sys.argv[1] == "--backfill-patna":
         backfill_patna(sys.argv[2])
+    elif len(sys.argv) == 4 and sys.argv[1] == "--backfill":
+        backfill_game(sys.argv[2].upper(), sys.argv[3])
     else:
         main()
