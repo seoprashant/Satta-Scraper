@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-21T19:55:39.509098+05:30",
-    "updated_at": "2026-10-21T19:55:39.509098+05:30",
+    "last_updated": "2026-10-21T20:01:12.622708+05:30",
+    "updated_at": "2026-10-21T20:01:12.622708+05:30",
     "games": [
         {
             "game-name": "FARIDABAD",
@@ -8,6 +8,13 @@
             "game-link": "https://sattaking-ghaziabad.com/faridabad-satta-king-result-chart.php",
             "yesterday-number": "29",
             "today-number": "12"
+        },
+        {
+            "game-name": "GHAZIABAD",
+            "game-time": "08:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
+            "yesterday-number": "16",
+            "today-number": "XX"
         },
         {
             "game-name": "NEW FARIDABAD",
@@ -66,10 +73,10 @@
             "today-number": "XX"
         },
         {
-            "game-name": "GHAZIABAD",
-            "game-time": "08:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
-            "yesterday-number": "16",
+            "game-name": "DELHI CANT",
+            "game-time": "09:00 PM",
+            "game-link": "https://sattaking-ghaziabad.com/delhi-cant-satta-king-result-chart.php",
+            "yesterday-number": "40",
             "today-number": "XX"
         },
         {
@@ -190,13 +197,6 @@
             "game-link": "https://sattaking-ghaziabad.com/old-faridabad-satta-king-result-chart.php",
             "yesterday-number": "16",
             "today-number": "50"
-        },
-        {
-            "game-name": "DELHI CANT",
-            "game-time": "09:00 PM",
-            "game-link": "https://sattaking-ghaziabad.com/delhi-cant-satta-king-result-chart.php",
-            "yesterday-number": "40",
-            "today-number": "XX"
         },
         {
             "game-name": "GALI",
