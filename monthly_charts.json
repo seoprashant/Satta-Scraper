@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-26T23:55:45.763888+05:30",
-    "updated_at": "2026-10-26T23:55:45.763888+05:30",
+    "last_updated": "2026-10-27T00:01:12.582634+05:30",
+    "updated_at": "2026-10-27T00:01:12.582634+05:30",
     "year": "2026",
     "month": "October",
     "chart": {
@@ -289,6 +289,17 @@
             "PATNA CITY": "47",
             "NAGPUR": "61",
             "DELHI BAZAR": "28"
+        },
+        "27": {
+            "DESAWAR": "XX",
+            "GHAZIABAD": "XX",
+            "FARIDABAD": "XX",
+            "GALI": "XX",
+            "SHRI GANESH": "XX",
+            "PATNA": "XX",
+            "PATNA CITY": "XX",
+            "NAGPUR": "XX",
+            "DELHI BAZAR": "XX"
         }
     }
 }
