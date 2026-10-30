@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-10-30T16:55:39.369418+05:30",
-    "updated_at": "2026-10-30T16:55:39.369418+05:30",
+    "last_updated": "2026-10-30T17:01:49.165664+05:30",
+    "updated_at": "2026-10-30T17:01:49.165664+05:30",
     "year": "2026",
     "month": "October",
     "chart": {
@@ -12,7 +12,6 @@
             "SHRI GANESH": "51",
             "PATNA": "59",
             "PATNA CITY": "28",
-            "NAGPUR": "47",
             "DELHI BAZAR": "76"
         },
         "02": {
@@ -23,7 +22,6 @@
             "SHRI GANESH": "31",
             "PATNA": "57",
             "PATNA CITY": "47",
-            "NAGPUR": "83",
             "DELHI BAZAR": "25"
         },
         "03": {
@@ -34,7 +32,6 @@
             "SHRI GANESH": "54",
             "PATNA": "94",
             "PATNA CITY": "48",
-            "NAGPUR": "33",
             "DELHI BAZAR": "25"
         },
         "04": {
@@ -45,7 +42,6 @@
             "SHRI GANESH": "47",
             "PATNA": "75",
             "PATNA CITY": "40",
-            "NAGPUR": "86",
             "DELHI BAZAR": "91"
         },
         "05": {
@@ -56,7 +52,6 @@
             "SHRI GANESH": "18",
             "PATNA": "91",
             "PATNA CITY": "78",
-            "NAGPUR": "13",
             "DELHI BAZAR": "86"
         },
         "06": {
@@ -67,7 +62,6 @@
             "SHRI GANESH": "27",
             "PATNA": "47",
             "PATNA CITY": "45",
-            "NAGPUR": "79",
             "DELHI BAZAR": "29"
         },
         "07": {
@@ -78,7 +72,6 @@
             "SHRI GANESH": "89",
             "PATNA": "41",
             "PATNA CITY": "42",
-            "NAGPUR": "26",
             "DELHI BAZAR": "06"
         },
         "08": {
@@ -89,7 +82,6 @@
             "SHRI GANESH": "02",
             "PATNA": "34",
             "PATNA CITY": "88",
-            "NAGPUR": "23",
             "DELHI BAZAR": "07"
         },
         "09": {
@@ -100,7 +92,6 @@
             "SHRI GANESH": "01",
             "PATNA": "59",
             "PATNA CITY": "29",
-            "NAGPUR": "13",
             "DELHI BAZAR": "87"
         },
         "10": {
@@ -111,7 +102,6 @@
             "SHRI GANESH": "06",
             "PATNA": "37",
             "PATNA CITY": "57",
-            "NAGPUR": "42",
             "DELHI BAZAR": "71"
         },
         "11": {
@@ -122,7 +112,6 @@
             "SHRI GANESH": "58",
             "PATNA": "86",
             "PATNA CITY": "55",
-            "NAGPUR": "65",
             "DELHI BAZAR": "50"
         },
         "12": {
@@ -133,7 +122,6 @@
             "SHRI GANESH": "67",
             "PATNA": "19",
             "PATNA CITY": "41",
-            "NAGPUR": "75",
             "DELHI BAZAR": "22"
         },
         "13": {
@@ -144,7 +132,6 @@
             "SHRI GANESH": "98",
             "PATNA": "46",
             "PATNA CITY": "87",
-            "NAGPUR": "97",
             "DELHI BAZAR": "96"
         },
         "14": {
@@ -155,7 +142,6 @@
             "SHRI GANESH": "80",
             "PATNA": "60",
             "PATNA CITY": "45",
-            "NAGPUR": "95",
             "DELHI BAZAR": "12"
         },
         "15": {
@@ -166,7 +152,6 @@
             "SHRI GANESH": "56",
             "PATNA": "56",
             "PATNA CITY": "60",
-            "NAGPUR": "59",
             "DELHI BAZAR": "07"
         },
         "16": {
@@ -177,7 +162,6 @@
             "SHRI GANESH": "62",
             "PATNA": "19",
             "PATNA CITY": "87",
-            "NAGPUR": "35",
             "DELHI BAZAR": "66"
         },
         "17": {
@@ -188,7 +172,6 @@
             "SHRI GANESH": "55",
             "PATNA": "96",
             "PATNA CITY": "37",
-            "NAGPUR": "71",
             "DELHI BAZAR": "16"
         },
         "18": {
@@ -199,7 +182,6 @@
             "SHRI GANESH": "19",
             "PATNA": "37",
             "PATNA CITY": "57",
-            "NAGPUR": "90",
             "DELHI BAZAR": "74"
         },
         "19": {
@@ -210,7 +192,6 @@
             "SHRI GANESH": "11",
             "PATNA": "72",
             "PATNA CITY": "71",
-            "NAGPUR": "81",
             "DELHI BAZAR": "44"
         },
         "20": {
@@ -221,7 +202,6 @@
             "SHRI GANESH": "95",
             "PATNA": "81",
             "PATNA CITY": "79",
-            "NAGPUR": "30",
             "DELHI BAZAR": "29"
         },
         "21": {
@@ -232,7 +212,6 @@
             "SHRI GANESH": "64",
             "PATNA": "35",
             "PATNA CITY": "64",
-            "NAGPUR": "29",
             "DELHI BAZAR": "86"
         },
         "22": {
@@ -243,7 +222,6 @@
             "SHRI GANESH": "99",
             "PATNA": "74",
             "PATNA CITY": "21",
-            "NAGPUR": "83",
             "DELHI BAZAR": "73"
         },
         "23": {
@@ -254,7 +232,6 @@
             "SHRI GANESH": "04",
             "PATNA": "52",
             "PATNA CITY": "85",
-            "NAGPUR": "93",
             "DELHI BAZAR": "66"
         },
         "24": {
@@ -265,7 +242,6 @@
             "SHRI GANESH": "66",
             "PATNA": "17",
             "PATNA CITY": "61",
-            "NAGPUR": "62",
             "DELHI BAZAR": "53"
         },
         "25": {
@@ -276,7 +252,6 @@
             "SHRI GANESH": "81",
             "PATNA": "98",
             "PATNA CITY": "63",
-            "NAGPUR": "18",
             "DELHI BAZAR": "67"
         },
         "26": {
@@ -287,7 +262,6 @@
             "SHRI GANESH": "84",
             "PATNA": "29",
             "PATNA CITY": "47",
-            "NAGPUR": "61",
             "DELHI BAZAR": "28"
         },
         "27": {
@@ -298,7 +272,6 @@
             "SHRI GANESH": "06",
             "PATNA": "71",
             "PATNA CITY": "39",
-            "NAGPUR": "83",
             "DELHI BAZAR": "91"
         },
         "28": {
@@ -309,7 +282,6 @@
             "SHRI GANESH": "69",
             "PATNA": "88",
             "PATNA CITY": "73",
-            "NAGPUR": "10",
             "DELHI BAZAR": "74"
         },
         "29": {
@@ -320,7 +292,6 @@
             "SHRI GANESH": "91",
             "PATNA": "85",
             "PATNA CITY": "18",
-            "NAGPUR": "62",
             "DELHI BAZAR": "83"
         },
         "30": {
@@ -331,7 +302,6 @@
             "SHRI GANESH": "50",
             "PATNA": "XX",
             "PATNA CITY": "20",
-            "NAGPUR": "XX",
             "DELHI BAZAR": "55"
         }
     }
