@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-02T14:55:49.670456+05:30",
-    "updated_at": "2026-11-02T14:55:49.670456+05:30",
+    "last_updated": "2026-11-02T15:01:58.167619+05:30",
+    "updated_at": "2026-11-02T15:01:58.167619+05:30",
     "year": "2026",
     "month": "November",
     "chart": {
@@ -12,7 +12,6 @@
             "SHRI GANESH": "62",
             "PATNA": "24",
             "PATNA CITY": "53",
-            "NAGPUR": "61",
             "DELHI BAZAR": "30"
         },
         "02": {
@@ -23,7 +22,6 @@
             "SHRI GANESH": "XX",
             "PATNA": "XX",
             "PATNA CITY": "42",
-            "NAGPUR": "XX",
             "DELHI BAZAR": "XX"
         }
     }
