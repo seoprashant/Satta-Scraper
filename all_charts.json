@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-03T11:21:30.626234+05:30",
-    "updated_at": "2026-11-03T11:21:30.626234+05:30",
+    "last_updated": "2026-11-03T11:25:43.667375+05:30",
+    "updated_at": "2026-11-03T11:25:43.667375+05:30",
     "months": {
         "2025-09": {
             "year": "2025",
@@ -4782,6 +4782,7 @@
                     "FARIDABAD": "77",
                     "GALI": "82",
                     "SHRI GANESH": "62",
+                    "PATNA": "24",
                     "PATNA CITY": "53",
                     "NAGPUR": "61",
                     "DELHI BAZAR": "30"
@@ -4792,6 +4793,7 @@
                     "FARIDABAD": "20",
                     "GALI": "78",
                     "SHRI GANESH": "51",
+                    "PATNA": "60",
                     "PATNA CITY": "42",
                     "NAGPUR": "37",
                     "DELHI BAZAR": "47"
@@ -4802,6 +4804,7 @@
                     "FARIDABAD": "XX",
                     "GALI": "XX",
                     "SHRI GANESH": "XX",
+                    "PATNA": "XX",
                     "PATNA CITY": "XX",
                     "NAGPUR": "XX",
                     "DELHI BAZAR": "XX"
