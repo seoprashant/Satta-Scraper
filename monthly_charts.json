@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-03T17:55:48.056284+05:30",
-    "updated_at": "2026-11-03T17:55:48.056284+05:30",
+    "last_updated": "2026-11-03T18:02:27.515010+05:30",
+    "updated_at": "2026-11-03T18:02:27.515010+05:30",
     "year": "2026",
     "month": "November",
     "chart": {
@@ -10,10 +10,8 @@
             "FARIDABAD": "77",
             "GALI": "82",
             "SHRI GANESH": "62",
-            "PATNA": "24",
             "PATNA CITY": "53",
-            "NAGPUR": "61",
-            "DELHI BAZAR": "30"
+            "NAGPUR": "61"
         },
         "02": {
             "DESAWAR": "64",
@@ -21,10 +19,8 @@
             "FARIDABAD": "20",
             "GALI": "78",
             "SHRI GANESH": "51",
-            "PATNA": "60",
             "PATNA CITY": "42",
-            "NAGPUR": "37",
-            "DELHI BAZAR": "47"
+            "NAGPUR": "37"
         },
         "03": {
             "DESAWAR": "99",
@@ -32,10 +28,8 @@
             "FARIDABAD": "XX",
             "GALI": "XX",
             "SHRI GANESH": "59",
-            "PATNA": "57",
             "PATNA CITY": "37",
-            "NAGPUR": "XX",
-            "DELHI BAZAR": "45"
+            "NAGPUR": "XX"
         }
     }
 }
