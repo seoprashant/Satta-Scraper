@@ -32,6 +32,7 @@ jobs:
           python chart_scraper.py
 
       - name: Commit and Push Changes
+        id: commit
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -62,4 +63,29 @@ jobs:
             echo "Committing: $COMMIT_MSG"
             git commit -m "$COMMIT_MSG"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # Push the fresh JSON straight to the website so it does not wait for
+      # raw.githubusercontent.com's ~5 minute CDN cache. Never fails the job:
+      # if the site is down, it falls back to fetching from GitHub.
+      - name: Push data to website
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          PSK_PUSH_TOKEN: ${{ secrets.PSK_PUSH_TOKEN }}
+        run: |
+          python - <<'PY'
+          import json
+          files = {"results": "results.json", "monthly_charts": "monthly_charts.json", "all_charts": "all_charts.json"}
+          json.dump({k: json.load(open(f)) for k, f in files.items()}, open("payload.json", "w"), ensure_ascii=False)
+          PY
+          for i in 1 2 3; do
+            code=$(curl -s -o resp.txt -w '%{http_code}' -m 40 -X POST \
+              -H "X-PSK-Token: $PSK_PUSH_TOKEN" -H 'Content-Type: application/json' \
+              --data-binary @payload.json https://patnasattaking.com/wp-json/psk/v1/feed) || code=000
+            echo "attempt $i: HTTP $code $(head -c 300 resp.txt 2>/dev/null)"
+            [ "$code" = "200" ] && exit 0
+            sleep 10
+          done
+          echo "::warning::Website push failed; site will fall back to fetching from GitHub"
