@@ -1,20 +1,20 @@
 {
-    "last_updated": "2026-11-07T22:25:37.996728+05:30",
-    "updated_at": "2026-11-07T22:25:37.996728+05:30",
+    "last_updated": "2026-11-07T22:31:26.289157+05:30",
+    "updated_at": "2026-11-07T22:31:26.289157+05:30",
     "games": [
-        {
-            "game-name": "GHAZIABAD",
-            "game-time": "08:30 PM",
-            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
-            "yesterday-number": "55",
-            "today-number": "24"
-        },
         {
             "game-name": "GALI",
             "game-time": "11:15 PM",
             "game-link": "https://sattaking-ghaziabad.com/gali-satta-king-result-chart.php",
             "yesterday-number": "62",
             "today-number": "XX"
+        },
+        {
+            "game-name": "GHAZIABAD",
+            "game-time": "08:30 PM",
+            "game-link": "https://sattaking-ghaziabad.com/ghaziabad-satta-king-result-chart.php",
+            "yesterday-number": "55",
+            "today-number": "24"
         },
         {
             "game-name": "DESAWAR",
