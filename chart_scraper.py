@@ -21,6 +21,8 @@ PATNA_CHART_URL = "https://sattaking-ghaziabad.com/patna-satta-king-result-chart
 PATNA_CITY_CHART_URL = "https://sattaking-ghaziabad.com/patna-city-satta-king-result-chart.php"
 NAGPUR_CHART_URL = "https://sattaking-ghaziabad.com/nagpur-satta-king-result-chart.php"
 DELHI_BAZAR_CHART_URL = "https://sattaking-ghaziabad.com/delhi-bazar-satta-king-result-chart.php"
+TAJ_CHART_URL = "https://sattaking-ghaziabad.com/taj-satta-king-result-chart.php"
+DELHI_DAY_CHART_URL = "https://sattaking-ghaziabad.com/delhi-day-satta-king-result-chart.php"
 # Games that are NOT columns on the Ghaziabad chart: each has its own chart page
 # on the source, and only that game's column is merged into our chart.
 EXTRA_GAME_CHARTS = {
@@ -28,6 +30,8 @@ EXTRA_GAME_CHARTS = {
     "PATNA CITY": PATNA_CITY_CHART_URL,
     "NAGPUR": NAGPUR_CHART_URL,
     "DELHI BAZAR": DELHI_BAZAR_CHART_URL,
+    "TAJ": TAJ_CHART_URL,
+    "DELHI DAY": DELHI_DAY_CHART_URL,
 }
 IST_TZ = ZoneInfo('Asia/Kolkata')
 
@@ -84,7 +88,9 @@ def normalize_game_label(label):
         'SHRI GANESH': 'SHRI GANESH',
         'PATNA': 'PATNA',
         'PATNA CITY': 'PATNA CITY',
-        'NAGPUR': 'NAGPUR'
+        'NAGPUR': 'NAGPUR',
+        'TAJ': 'TAJ',
+        'DELHI DAY': 'DELHI DAY'
     }
     return mapping.get(label, label.title() if label.isupper() else label)
 
