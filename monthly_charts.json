@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-09T00:40:56.242896+05:30",
-    "updated_at": "2026-11-09T00:40:56.242896+05:30",
+    "last_updated": "2026-11-09T00:45:54.625935+05:30",
+    "updated_at": "2026-11-09T00:45:54.625935+05:30",
     "year": "2026",
     "month": "November",
     "chart": {
@@ -13,7 +13,9 @@
             "PATNA": "24",
             "PATNA CITY": "53",
             "NAGPUR": "61",
-            "DELHI BAZAR": "30"
+            "DELHI BAZAR": "30",
+            "TAJ": "83",
+            "DELHI DAY": "36"
         },
         "02": {
             "DESAWAR": "64",
@@ -24,7 +26,9 @@
             "PATNA": "60",
             "PATNA CITY": "42",
             "NAGPUR": "37",
-            "DELHI BAZAR": "47"
+            "DELHI BAZAR": "47",
+            "TAJ": "30",
+            "DELHI DAY": "47"
         },
         "03": {
             "DESAWAR": "99",
@@ -35,7 +39,9 @@
             "PATNA": "57",
             "PATNA CITY": "37",
             "NAGPUR": "79",
-            "DELHI BAZAR": "45"
+            "DELHI BAZAR": "45",
+            "TAJ": "69",
+            "DELHI DAY": "33"
         },
         "04": {
             "DESAWAR": "62",
@@ -46,7 +52,9 @@
             "PATNA": "24",
             "PATNA CITY": "31",
             "NAGPUR": "39",
-            "DELHI BAZAR": "45"
+            "DELHI BAZAR": "45",
+            "TAJ": "34",
+            "DELHI DAY": "64"
         },
         "05": {
             "DESAWAR": "86",
@@ -57,7 +65,9 @@
             "PATNA": "20",
             "PATNA CITY": "57",
             "NAGPUR": "38",
-            "DELHI BAZAR": "43"
+            "DELHI BAZAR": "43",
+            "TAJ": "53",
+            "DELHI DAY": "81"
         },
         "06": {
             "DESAWAR": "38",
@@ -68,7 +78,9 @@
             "PATNA": "12",
             "PATNA CITY": "84",
             "NAGPUR": "46",
-            "DELHI BAZAR": "XX"
+            "DELHI BAZAR": "XX",
+            "TAJ": "81",
+            "DELHI DAY": "05"
         },
         "07": {
             "DESAWAR": "46",
@@ -79,7 +91,9 @@
             "PATNA": "38",
             "PATNA CITY": "96",
             "NAGPUR": "54",
-            "DELHI BAZAR": "83"
+            "DELHI BAZAR": "83",
+            "TAJ": "60",
+            "DELHI DAY": "26"
         },
         "08": {
             "DESAWAR": "74",
@@ -90,7 +104,9 @@
             "PATNA": "82",
             "PATNA CITY": "70",
             "NAGPUR": "94",
-            "DELHI BAZAR": "07"
+            "DELHI BAZAR": "07",
+            "TAJ": "12",
+            "DELHI DAY": "49"
         },
         "09": {
             "DESAWAR": "XX",
@@ -101,7 +117,9 @@
             "PATNA": "XX",
             "PATNA CITY": "XX",
             "NAGPUR": "XX",
-            "DELHI BAZAR": "XX"
+            "DELHI BAZAR": "XX",
+            "TAJ": "XX",
+            "DELHI DAY": "XX"
         }
     }
 }
