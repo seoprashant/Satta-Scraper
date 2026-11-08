@@ -32,6 +32,11 @@ EXTRA_GAME_CHARTS = {
     "DELHI BAZAR": DELHI_BAZAR_CHART_URL,
     "TAJ": TAJ_CHART_URL,
     "DELHI DAY": DELHI_DAY_CHART_URL,
+    "KASHIPUR": "https://sattaking-ghaziabad.com/kashipur-satta-king-result-chart.php",
+    "SHALIMAR": "https://sattaking-ghaziabad.com/shalimar-satta-king-result-chart.php",
+    "PUNJAB DAY": "https://sattaking-ghaziabad.com/punjab-day-satta-king-result-chart.php",
+    "NEW FARIDABAD": "https://sattaking-ghaziabad.com/new-faridabad-satta-king-result-chart.php",
+    "DELHI NOON": "https://sattaking-ghaziabad.com/delhi-noon-satta-king-result-chart.php",
 }
 IST_TZ = ZoneInfo('Asia/Kolkata')
 
@@ -79,6 +84,9 @@ def normalize_game_label(label):
         return label
 
     label = label.strip().upper()
+    # Games merged from their own chart pages keep the exact results.json name.
+    if label in EXTRA_GAME_CHARTS:
+        return label
     mapping = {
         'DSWR': 'DESAWAR',
         'FRBD': 'FARIDABAD',
