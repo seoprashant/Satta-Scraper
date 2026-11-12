@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-12T15:17:21.483979+05:30",
-    "updated_at": "2026-11-12T15:17:21.483979+05:30",
+    "last_updated": "2026-11-12T15:21:02.630746+05:30",
+    "updated_at": "2026-11-12T15:21:02.630746+05:30",
     "months": {
         "2025-09": {
             "year": "2025",
@@ -7773,6 +7773,7 @@
                     "KASHIPUR": "60",
                     "SHALIMAR": "25",
                     "PUNJAB DAY": "78",
+                    "NEW FARIDABAD": "51",
                     "DELHI NOON": "70"
                 },
                 "02": {
@@ -7790,6 +7791,7 @@
                     "KASHIPUR": "86",
                     "SHALIMAR": "04",
                     "PUNJAB DAY": "80",
+                    "NEW FARIDABAD": "03",
                     "DELHI NOON": "30"
                 },
                 "03": {
@@ -7807,6 +7809,7 @@
                     "KASHIPUR": "10",
                     "SHALIMAR": "19",
                     "PUNJAB DAY": "41",
+                    "NEW FARIDABAD": "90",
                     "DELHI NOON": "76"
                 },
                 "04": {
@@ -7824,6 +7827,7 @@
                     "KASHIPUR": "51",
                     "SHALIMAR": "57",
                     "PUNJAB DAY": "24",
+                    "NEW FARIDABAD": "80",
                     "DELHI NOON": "53"
                 },
                 "05": {
@@ -7841,6 +7845,7 @@
                     "KASHIPUR": "28",
                     "SHALIMAR": "63",
                     "PUNJAB DAY": "19",
+                    "NEW FARIDABAD": "63",
                     "DELHI NOON": "82"
                 },
                 "06": {
@@ -7858,6 +7863,7 @@
                     "KASHIPUR": "15",
                     "SHALIMAR": "73",
                     "PUNJAB DAY": "19",
+                    "NEW FARIDABAD": "48",
                     "DELHI NOON": "69"
                 },
                 "07": {
@@ -7875,6 +7881,7 @@
                     "KASHIPUR": "84",
                     "SHALIMAR": "11",
                     "PUNJAB DAY": "03",
+                    "NEW FARIDABAD": "45",
                     "DELHI NOON": "61"
                 },
                 "08": {
@@ -7892,6 +7899,7 @@
                     "KASHIPUR": "08",
                     "SHALIMAR": "42",
                     "PUNJAB DAY": "61",
+                    "NEW FARIDABAD": "89",
                     "DELHI NOON": "12"
                 },
                 "09": {
@@ -7909,6 +7917,7 @@
                     "KASHIPUR": "01",
                     "SHALIMAR": "34",
                     "PUNJAB DAY": "87",
+                    "NEW FARIDABAD": "75",
                     "DELHI NOON": "65"
                 },
                 "10": {
@@ -7926,6 +7935,7 @@
                     "KASHIPUR": "77",
                     "SHALIMAR": "68",
                     "PUNJAB DAY": "81",
+                    "NEW FARIDABAD": "84",
                     "DELHI NOON": "27"
                 },
                 "11": {
@@ -7943,6 +7953,7 @@
                     "KASHIPUR": "51",
                     "SHALIMAR": "05",
                     "PUNJAB DAY": "29",
+                    "NEW FARIDABAD": "70",
                     "DELHI NOON": "57"
                 },
                 "12": {
@@ -7960,6 +7971,7 @@
                     "KASHIPUR": "XX",
                     "SHALIMAR": "XX",
                     "PUNJAB DAY": "XX",
+                    "NEW FARIDABAD": "XX",
                     "DELHI NOON": "XX"
                 }
             }
