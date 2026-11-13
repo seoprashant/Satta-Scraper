@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-13T13:10:57.705282+05:30",
-    "updated_at": "2026-11-13T13:10:57.705282+05:30",
+    "last_updated": "2026-11-13T13:17:04.127805+05:30",
+    "updated_at": "2026-11-13T13:17:04.127805+05:30",
     "months": {
         "2025-09": {
             "year": "2025",
@@ -7767,14 +7767,11 @@
                     "PATNA": "24",
                     "PATNA CITY": "53",
                     "NAGPUR": "61",
-                    "DELHI BAZAR": "30",
                     "TAJ": "83",
                     "DELHI DAY": "36",
                     "KASHIPUR": "60",
-                    "SHALIMAR": "25",
                     "PUNJAB DAY": "78",
-                    "NEW FARIDABAD": "51",
-                    "DELHI NOON": "70"
+                    "NEW FARIDABAD": "51"
                 },
                 "02": {
                     "DESAWAR": "64",
@@ -7785,14 +7782,11 @@
                     "PATNA": "60",
                     "PATNA CITY": "42",
                     "NAGPUR": "37",
-                    "DELHI BAZAR": "47",
                     "TAJ": "30",
                     "DELHI DAY": "47",
                     "KASHIPUR": "86",
-                    "SHALIMAR": "04",
                     "PUNJAB DAY": "80",
-                    "NEW FARIDABAD": "03",
-                    "DELHI NOON": "30"
+                    "NEW FARIDABAD": "03"
                 },
                 "03": {
                     "DESAWAR": "99",
@@ -7803,14 +7797,11 @@
                     "PATNA": "57",
                     "PATNA CITY": "37",
                     "NAGPUR": "79",
-                    "DELHI BAZAR": "45",
                     "TAJ": "69",
                     "DELHI DAY": "33",
                     "KASHIPUR": "10",
-                    "SHALIMAR": "19",
                     "PUNJAB DAY": "41",
-                    "NEW FARIDABAD": "90",
-                    "DELHI NOON": "76"
+                    "NEW FARIDABAD": "90"
                 },
                 "04": {
                     "DESAWAR": "62",
@@ -7821,14 +7812,11 @@
                     "PATNA": "24",
                     "PATNA CITY": "31",
                     "NAGPUR": "39",
-                    "DELHI BAZAR": "45",
                     "TAJ": "34",
                     "DELHI DAY": "64",
                     "KASHIPUR": "51",
-                    "SHALIMAR": "57",
                     "PUNJAB DAY": "24",
-                    "NEW FARIDABAD": "80",
-                    "DELHI NOON": "53"
+                    "NEW FARIDABAD": "80"
                 },
                 "05": {
                     "DESAWAR": "86",
@@ -7839,14 +7827,11 @@
                     "PATNA": "20",
                     "PATNA CITY": "57",
                     "NAGPUR": "38",
-                    "DELHI BAZAR": "43",
                     "TAJ": "53",
                     "DELHI DAY": "81",
                     "KASHIPUR": "28",
-                    "SHALIMAR": "63",
                     "PUNJAB DAY": "19",
-                    "NEW FARIDABAD": "63",
-                    "DELHI NOON": "82"
+                    "NEW FARIDABAD": "63"
                 },
                 "06": {
                     "DESAWAR": "38",
@@ -7857,14 +7842,11 @@
                     "PATNA": "12",
                     "PATNA CITY": "84",
                     "NAGPUR": "46",
-                    "DELHI BAZAR": "XX",
                     "TAJ": "81",
                     "DELHI DAY": "05",
                     "KASHIPUR": "15",
-                    "SHALIMAR": "73",
                     "PUNJAB DAY": "19",
-                    "NEW FARIDABAD": "48",
-                    "DELHI NOON": "69"
+                    "NEW FARIDABAD": "48"
                 },
                 "07": {
                     "DESAWAR": "46",
@@ -7875,14 +7857,11 @@
                     "PATNA": "38",
                     "PATNA CITY": "96",
                     "NAGPUR": "54",
-                    "DELHI BAZAR": "83",
                     "TAJ": "60",
                     "DELHI DAY": "26",
                     "KASHIPUR": "84",
-                    "SHALIMAR": "11",
                     "PUNJAB DAY": "03",
-                    "NEW FARIDABAD": "45",
-                    "DELHI NOON": "61"
+                    "NEW FARIDABAD": "45"
                 },
                 "08": {
                     "DESAWAR": "74",
@@ -7893,14 +7872,11 @@
                     "PATNA": "82",
                     "PATNA CITY": "70",
                     "NAGPUR": "94",
-                    "DELHI BAZAR": "07",
                     "TAJ": "12",
                     "DELHI DAY": "49",
                     "KASHIPUR": "08",
-                    "SHALIMAR": "42",
                     "PUNJAB DAY": "61",
-                    "NEW FARIDABAD": "89",
-                    "DELHI NOON": "12"
+                    "NEW FARIDABAD": "89"
                 },
                 "09": {
                     "DESAWAR": "24",
@@ -7911,14 +7887,11 @@
                     "PATNA": "55",
                     "PATNA CITY": "11",
                     "NAGPUR": "23",
-                    "DELHI BAZAR": "07",
                     "TAJ": "06",
                     "DELHI DAY": "52",
                     "KASHIPUR": "01",
-                    "SHALIMAR": "34",
                     "PUNJAB DAY": "87",
-                    "NEW FARIDABAD": "75",
-                    "DELHI NOON": "65"
+                    "NEW FARIDABAD": "75"
                 },
                 "10": {
                     "DESAWAR": "16",
@@ -7929,14 +7902,11 @@
                     "PATNA": "95",
                     "PATNA CITY": "48",
                     "NAGPUR": "51",
-                    "DELHI BAZAR": "15",
                     "TAJ": "43",
                     "DELHI DAY": "79",
                     "KASHIPUR": "77",
-                    "SHALIMAR": "68",
                     "PUNJAB DAY": "81",
-                    "NEW FARIDABAD": "84",
-                    "DELHI NOON": "27"
+                    "NEW FARIDABAD": "84"
                 },
                 "11": {
                     "DESAWAR": "51",
@@ -7947,14 +7917,11 @@
                     "PATNA": "90",
                     "PATNA CITY": "68",
                     "NAGPUR": "49",
-                    "DELHI BAZAR": "98",
                     "TAJ": "78",
                     "DELHI DAY": "63",
                     "KASHIPUR": "51",
-                    "SHALIMAR": "05",
                     "PUNJAB DAY": "29",
-                    "NEW FARIDABAD": "70",
-                    "DELHI NOON": "57"
+                    "NEW FARIDABAD": "70"
                 },
                 "12": {
                     "DESAWAR": "54",
@@ -7965,14 +7932,11 @@
                     "PATNA": "66",
                     "PATNA CITY": "67",
                     "NAGPUR": "76",
-                    "DELHI BAZAR": "30",
                     "TAJ": "30",
                     "DELHI DAY": "99",
                     "KASHIPUR": "65",
-                    "SHALIMAR": "35",
                     "PUNJAB DAY": "18",
-                    "NEW FARIDABAD": "96",
-                    "DELHI NOON": "69"
+                    "NEW FARIDABAD": "96"
                 },
                 "13": {
                     "DESAWAR": "10",
@@ -7983,14 +7947,11 @@
                     "PATNA": "XX",
                     "PATNA CITY": "XX",
                     "NAGPUR": "XX",
-                    "DELHI BAZAR": "XX",
                     "TAJ": "XX",
                     "DELHI DAY": "XX",
                     "KASHIPUR": "XX",
-                    "SHALIMAR": "XX",
                     "PUNJAB DAY": "XX",
-                    "NEW FARIDABAD": "XX",
-                    "DELHI NOON": "XX"
+                    "NEW FARIDABAD": "XX"
                 }
             }
         }
