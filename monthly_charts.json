@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-15T15:15:57.264191+05:30",
-    "updated_at": "2026-11-15T15:15:57.264191+05:30",
+    "last_updated": "2026-11-15T15:20:58.786267+05:30",
+    "updated_at": "2026-11-15T15:20:58.786267+05:30",
     "year": "2026",
     "month": "November",
     "chart": {
@@ -272,7 +272,7 @@
             "SHALIMAR": "XX",
             "PUNJAB DAY": "XX",
             "NEW FARIDABAD": "XX",
-            "DELHI NOON": "XX"
+            "DELHI NOON": "02"
         }
     }
 }
