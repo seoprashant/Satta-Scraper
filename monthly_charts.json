@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-16T22:26:02.400059+05:30",
-    "updated_at": "2026-11-16T22:26:02.400059+05:30",
+    "last_updated": "2026-11-16T22:32:03.334781+05:30",
+    "updated_at": "2026-11-16T22:32:03.334781+05:30",
     "year": "2026",
     "month": "November",
     "chart": {
@@ -17,7 +17,6 @@
             "TAJ": "83",
             "DELHI DAY": "36",
             "KASHIPUR": "60",
-            "SHALIMAR": "25",
             "PUNJAB DAY": "78",
             "NEW FARIDABAD": "51",
             "DELHI NOON": "70"
@@ -35,7 +34,6 @@
             "TAJ": "30",
             "DELHI DAY": "47",
             "KASHIPUR": "86",
-            "SHALIMAR": "04",
             "PUNJAB DAY": "80",
             "NEW FARIDABAD": "03",
             "DELHI NOON": "30"
@@ -53,7 +51,6 @@
             "TAJ": "69",
             "DELHI DAY": "33",
             "KASHIPUR": "10",
-            "SHALIMAR": "19",
             "PUNJAB DAY": "41",
             "NEW FARIDABAD": "90",
             "DELHI NOON": "76"
@@ -71,7 +68,6 @@
             "TAJ": "34",
             "DELHI DAY": "64",
             "KASHIPUR": "51",
-            "SHALIMAR": "57",
             "PUNJAB DAY": "24",
             "NEW FARIDABAD": "80",
             "DELHI NOON": "53"
@@ -89,7 +85,6 @@
             "TAJ": "53",
             "DELHI DAY": "81",
             "KASHIPUR": "28",
-            "SHALIMAR": "63",
             "PUNJAB DAY": "19",
             "NEW FARIDABAD": "63",
             "DELHI NOON": "82"
@@ -107,7 +102,6 @@
             "TAJ": "81",
             "DELHI DAY": "05",
             "KASHIPUR": "15",
-            "SHALIMAR": "73",
             "PUNJAB DAY": "19",
             "NEW FARIDABAD": "48",
             "DELHI NOON": "69"
@@ -125,7 +119,6 @@
             "TAJ": "60",
             "DELHI DAY": "26",
             "KASHIPUR": "84",
-            "SHALIMAR": "11",
             "PUNJAB DAY": "03",
             "NEW FARIDABAD": "45",
             "DELHI NOON": "61"
@@ -143,7 +136,6 @@
             "TAJ": "12",
             "DELHI DAY": "49",
             "KASHIPUR": "08",
-            "SHALIMAR": "42",
             "PUNJAB DAY": "61",
             "NEW FARIDABAD": "89",
             "DELHI NOON": "12"
@@ -161,7 +153,6 @@
             "TAJ": "06",
             "DELHI DAY": "52",
             "KASHIPUR": "01",
-            "SHALIMAR": "34",
             "PUNJAB DAY": "87",
             "NEW FARIDABAD": "75",
             "DELHI NOON": "65"
@@ -179,7 +170,6 @@
             "TAJ": "43",
             "DELHI DAY": "79",
             "KASHIPUR": "77",
-            "SHALIMAR": "68",
             "PUNJAB DAY": "81",
             "NEW FARIDABAD": "84",
             "DELHI NOON": "27"
@@ -197,7 +187,6 @@
             "TAJ": "78",
             "DELHI DAY": "63",
             "KASHIPUR": "51",
-            "SHALIMAR": "05",
             "PUNJAB DAY": "29",
             "NEW FARIDABAD": "70",
             "DELHI NOON": "57"
@@ -215,7 +204,6 @@
             "TAJ": "30",
             "DELHI DAY": "99",
             "KASHIPUR": "65",
-            "SHALIMAR": "35",
             "PUNJAB DAY": "18",
             "NEW FARIDABAD": "96",
             "DELHI NOON": "69"
@@ -233,7 +221,6 @@
             "TAJ": "45",
             "DELHI DAY": "06",
             "KASHIPUR": "59",
-            "SHALIMAR": "78",
             "PUNJAB DAY": "86",
             "NEW FARIDABAD": "96",
             "DELHI NOON": "55"
@@ -251,7 +238,6 @@
             "TAJ": "10",
             "DELHI DAY": "38",
             "KASHIPUR": "85",
-            "SHALIMAR": "75",
             "PUNJAB DAY": "16",
             "NEW FARIDABAD": "49",
             "DELHI NOON": "18"
@@ -269,7 +255,6 @@
             "TAJ": "22",
             "DELHI DAY": "92",
             "KASHIPUR": "63",
-            "SHALIMAR": "61",
             "PUNJAB DAY": "09",
             "NEW FARIDABAD": "39",
             "DELHI NOON": "02"
@@ -287,7 +272,6 @@
             "TAJ": "49",
             "DELHI DAY": "54",
             "KASHIPUR": "01",
-            "SHALIMAR": "72",
             "PUNJAB DAY": "67",
             "NEW FARIDABAD": "44",
             "DELHI NOON": "82"
