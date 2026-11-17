@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-17T15:16:07.630851+05:30",
-    "updated_at": "2026-11-17T15:16:07.630851+05:30",
+    "last_updated": "2026-11-17T15:21:03.901738+05:30",
+    "updated_at": "2026-11-17T15:21:03.901738+05:30",
     "year": "2026",
     "month": "November",
     "chart": {
@@ -301,14 +301,14 @@
             "PATNA": "XX",
             "PATNA CITY": "40",
             "NAGPUR": "XX",
-            "DELHI BAZAR": "XX",
+            "DELHI BAZAR": "84",
             "TAJ": "XX",
             "DELHI DAY": "XX",
             "KASHIPUR": "XX",
             "SHALIMAR": "XX",
             "PUNJAB DAY": "XX",
             "NEW FARIDABAD": "XX",
-            "DELHI NOON": "XX"
+            "DELHI NOON": "33"
         }
     }
 }
