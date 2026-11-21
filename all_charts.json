@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-21T23:55:48.077769+05:30",
-    "updated_at": "2026-11-21T23:55:48.077769+05:30",
+    "last_updated": "2026-11-22T00:01:18.961722+05:30",
+    "updated_at": "2026-11-22T00:01:18.961722+05:30",
     "months": {
         "2025-09": {
             "year": "2025",
@@ -8135,6 +8135,24 @@
                     "PUNJAB DAY": "18",
                     "NEW FARIDABAD": "79",
                     "DELHI NOON": "13"
+                },
+                "22": {
+                    "DESAWAR": "XX",
+                    "GHAZIABAD": "XX",
+                    "FARIDABAD": "XX",
+                    "GALI": "XX",
+                    "SHRI GANESH": "XX",
+                    "PATNA": "XX",
+                    "PATNA CITY": "XX",
+                    "NAGPUR": "XX",
+                    "DELHI BAZAR": "XX",
+                    "TAJ": "XX",
+                    "DELHI DAY": "XX",
+                    "KASHIPUR": "XX",
+                    "SHALIMAR": "XX",
+                    "PUNJAB DAY": "XX",
+                    "NEW FARIDABAD": "XX",
+                    "DELHI NOON": "XX"
                 }
             }
         }
