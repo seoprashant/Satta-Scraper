@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-24T05:05:43.912108+05:30",
-    "updated_at": "2026-11-24T05:05:43.912108+05:30",
+    "last_updated": "2026-11-24T05:11:03.849060+05:30",
+    "updated_at": "2026-11-24T05:11:03.849060+05:30",
     "year": "2026",
     "month": "November",
     "chart": {
@@ -419,7 +419,7 @@
             "DELHI NOON": "46"
         },
         "24": {
-            "DESAWAR": "XX",
+            "DESAWAR": "44",
             "GHAZIABAD": "XX",
             "FARIDABAD": "XX",
             "GALI": "XX",
