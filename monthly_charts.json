@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-11-27T19:26:44.514574+05:30",
-    "updated_at": "2026-11-27T19:26:44.514574+05:30",
+    "last_updated": "2026-11-27T19:31:29.596754+05:30",
+    "updated_at": "2026-11-27T19:31:29.596754+05:30",
     "year": "2026",
     "month": "November",
     "chart": {
@@ -16,8 +16,10 @@
             "DELHI BAZAR": "30",
             "TAJ": "83",
             "DELHI DAY": "36",
+            "KASHIPUR": "60",
             "SHALIMAR": "25",
             "PUNJAB DAY": "78",
+            "NEW FARIDABAD": "51",
             "DELHI NOON": "70"
         },
         "02": {
@@ -32,8 +34,10 @@
             "DELHI BAZAR": "47",
             "TAJ": "30",
             "DELHI DAY": "47",
+            "KASHIPUR": "86",
             "SHALIMAR": "04",
             "PUNJAB DAY": "80",
+            "NEW FARIDABAD": "03",
             "DELHI NOON": "30"
         },
         "03": {
@@ -48,8 +52,10 @@
             "DELHI BAZAR": "45",
             "TAJ": "69",
             "DELHI DAY": "33",
+            "KASHIPUR": "10",
             "SHALIMAR": "19",
             "PUNJAB DAY": "41",
+            "NEW FARIDABAD": "90",
             "DELHI NOON": "76"
         },
         "04": {
@@ -64,8 +70,10 @@
             "DELHI BAZAR": "45",
             "TAJ": "34",
             "DELHI DAY": "64",
+            "KASHIPUR": "51",
             "SHALIMAR": "57",
             "PUNJAB DAY": "24",
+            "NEW FARIDABAD": "80",
             "DELHI NOON": "53"
         },
         "05": {
@@ -80,8 +88,10 @@
             "DELHI BAZAR": "43",
             "TAJ": "53",
             "DELHI DAY": "81",
+            "KASHIPUR": "28",
             "SHALIMAR": "63",
             "PUNJAB DAY": "19",
+            "NEW FARIDABAD": "63",
             "DELHI NOON": "82"
         },
         "06": {
@@ -96,8 +106,10 @@
             "DELHI BAZAR": "22",
             "TAJ": "81",
             "DELHI DAY": "05",
+            "KASHIPUR": "15",
             "SHALIMAR": "73",
             "PUNJAB DAY": "19",
+            "NEW FARIDABAD": "48",
             "DELHI NOON": "69"
         },
         "07": {
@@ -112,8 +124,10 @@
             "DELHI BAZAR": "83",
             "TAJ": "60",
             "DELHI DAY": "26",
+            "KASHIPUR": "84",
             "SHALIMAR": "11",
             "PUNJAB DAY": "03",
+            "NEW FARIDABAD": "45",
             "DELHI NOON": "61"
         },
         "08": {
@@ -128,8 +142,10 @@
             "DELHI BAZAR": "07",
             "TAJ": "12",
             "DELHI DAY": "49",
+            "KASHIPUR": "08",
             "SHALIMAR": "42",
             "PUNJAB DAY": "61",
+            "NEW FARIDABAD": "89",
             "DELHI NOON": "12"
         },
         "09": {
@@ -144,8 +160,10 @@
             "DELHI BAZAR": "07",
             "TAJ": "06",
             "DELHI DAY": "52",
+            "KASHIPUR": "01",
             "SHALIMAR": "34",
             "PUNJAB DAY": "87",
+            "NEW FARIDABAD": "75",
             "DELHI NOON": "65"
         },
         "10": {
@@ -160,8 +178,10 @@
             "DELHI BAZAR": "15",
             "TAJ": "43",
             "DELHI DAY": "79",
+            "KASHIPUR": "77",
             "SHALIMAR": "68",
             "PUNJAB DAY": "81",
+            "NEW FARIDABAD": "84",
             "DELHI NOON": "27"
         },
         "11": {
@@ -176,8 +196,10 @@
             "DELHI BAZAR": "98",
             "TAJ": "78",
             "DELHI DAY": "63",
+            "KASHIPUR": "51",
             "SHALIMAR": "05",
             "PUNJAB DAY": "29",
+            "NEW FARIDABAD": "70",
             "DELHI NOON": "57"
         },
         "12": {
@@ -192,8 +214,10 @@
             "DELHI BAZAR": "30",
             "TAJ": "30",
             "DELHI DAY": "99",
+            "KASHIPUR": "65",
             "SHALIMAR": "35",
             "PUNJAB DAY": "18",
+            "NEW FARIDABAD": "96",
             "DELHI NOON": "69"
         },
         "13": {
@@ -208,8 +232,10 @@
             "DELHI BAZAR": "97",
             "TAJ": "45",
             "DELHI DAY": "06",
+            "KASHIPUR": "59",
             "SHALIMAR": "78",
             "PUNJAB DAY": "86",
+            "NEW FARIDABAD": "96",
             "DELHI NOON": "55"
         },
         "14": {
@@ -224,8 +250,10 @@
             "DELHI BAZAR": "53",
             "TAJ": "10",
             "DELHI DAY": "38",
+            "KASHIPUR": "85",
             "SHALIMAR": "75",
             "PUNJAB DAY": "16",
+            "NEW FARIDABAD": "49",
             "DELHI NOON": "18"
         },
         "15": {
@@ -240,8 +268,10 @@
             "DELHI BAZAR": "73",
             "TAJ": "22",
             "DELHI DAY": "92",
+            "KASHIPUR": "63",
             "SHALIMAR": "61",
             "PUNJAB DAY": "09",
+            "NEW FARIDABAD": "39",
             "DELHI NOON": "02"
         },
         "16": {
@@ -256,8 +286,10 @@
             "DELHI BAZAR": "95",
             "TAJ": "49",
             "DELHI DAY": "54",
+            "KASHIPUR": "01",
             "SHALIMAR": "72",
             "PUNJAB DAY": "67",
+            "NEW FARIDABAD": "44",
             "DELHI NOON": "82"
         },
         "17": {
@@ -272,8 +304,10 @@
             "DELHI BAZAR": "84",
             "TAJ": "70",
             "DELHI DAY": "86",
+            "KASHIPUR": "73",
             "SHALIMAR": "28",
             "PUNJAB DAY": "70",
+            "NEW FARIDABAD": "18",
             "DELHI NOON": "33"
         },
         "18": {
@@ -288,8 +322,10 @@
             "DELHI BAZAR": "07",
             "TAJ": "89",
             "DELHI DAY": "93",
+            "KASHIPUR": "07",
             "SHALIMAR": "49",
             "PUNJAB DAY": "27",
+            "NEW FARIDABAD": "64",
             "DELHI NOON": "59"
         },
         "19": {
@@ -304,8 +340,10 @@
             "DELHI BAZAR": "23",
             "TAJ": "00",
             "DELHI DAY": "22",
+            "KASHIPUR": "95",
             "SHALIMAR": "81",
             "PUNJAB DAY": "89",
+            "NEW FARIDABAD": "18",
             "DELHI NOON": "13"
         },
         "20": {
@@ -320,8 +358,10 @@
             "DELHI BAZAR": "83",
             "TAJ": "16",
             "DELHI DAY": "50",
+            "KASHIPUR": "82",
             "SHALIMAR": "43",
             "PUNJAB DAY": "40",
+            "NEW FARIDABAD": "07",
             "DELHI NOON": "38"
         },
         "21": {
@@ -336,8 +376,10 @@
             "DELHI BAZAR": "98",
             "TAJ": "69",
             "DELHI DAY": "79",
+            "KASHIPUR": "44",
             "SHALIMAR": "27",
             "PUNJAB DAY": "18",
+            "NEW FARIDABAD": "79",
             "DELHI NOON": "13"
         },
         "22": {
@@ -352,8 +394,10 @@
             "DELHI BAZAR": "07",
             "TAJ": "72",
             "DELHI DAY": "23",
+            "KASHIPUR": "96",
             "SHALIMAR": "56",
             "PUNJAB DAY": "51",
+            "NEW FARIDABAD": "55",
             "DELHI NOON": "63"
         },
         "23": {
@@ -368,8 +412,10 @@
             "DELHI BAZAR": "84",
             "TAJ": "50",
             "DELHI DAY": "07",
+            "KASHIPUR": "70",
             "SHALIMAR": "09",
             "PUNJAB DAY": "62",
+            "NEW FARIDABAD": "70",
             "DELHI NOON": "46"
         },
         "24": {
@@ -384,8 +430,10 @@
             "DELHI BAZAR": "20",
             "TAJ": "57",
             "DELHI DAY": "67",
+            "KASHIPUR": "96",
             "SHALIMAR": "78",
             "PUNJAB DAY": "01",
+            "NEW FARIDABAD": "94",
             "DELHI NOON": "80"
         },
         "25": {
@@ -400,8 +448,10 @@
             "DELHI BAZAR": "35",
             "TAJ": "61",
             "DELHI DAY": "11",
+            "KASHIPUR": "49",
             "SHALIMAR": "34",
             "PUNJAB DAY": "60",
+            "NEW FARIDABAD": "05",
             "DELHI NOON": "77"
         },
         "26": {
@@ -416,8 +466,10 @@
             "DELHI BAZAR": "22",
             "TAJ": "90",
             "DELHI DAY": "30",
+            "KASHIPUR": "98",
             "SHALIMAR": "44",
             "PUNJAB DAY": "81",
+            "NEW FARIDABAD": "73",
             "DELHI NOON": "35"
         },
         "27": {
@@ -432,8 +484,10 @@
             "DELHI BAZAR": "53",
             "TAJ": "08",
             "DELHI DAY": "XX",
+            "KASHIPUR": "22",
             "SHALIMAR": "XX",
             "PUNJAB DAY": "85",
+            "NEW FARIDABAD": "61",
             "DELHI NOON": "82"
         }
     }
